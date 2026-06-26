@@ -47,11 +47,14 @@ const campos = [
   description={`Técnica, posición y criterios de calidad para la proyección ${data.titulo} de ${subregionNombre.toLowerCase()}.`}
   breadcrumb={breadcrumb}
 >
-  <div class="page-content">
+  <div class="page-content" data-pagefind-body>
     <div class="layout">
       <!-- Fields column -->
       <div class="fields-col">
-        <h1 class="page-title">{data.titulo.toUpperCase()}</h1>
+        <h1 class="page-title" data-pagefind-weight="10">{data.titulo.toUpperCase()}</h1>
+        {data.alias.length > 0 && (
+          <p class="sr-only" data-pagefind-weight="8">{data.alias.join(' ')}</p>
+        )}
         <div class="divider"></div>
 
         <dl class="enfoque-fields">
@@ -130,6 +133,18 @@ const campos = [
 </script>
 
 <style>
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
   .page-content {
     padding: 18px 20px 40px;
   }
