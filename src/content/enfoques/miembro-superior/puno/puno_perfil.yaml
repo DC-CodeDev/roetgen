@@ -1,0 +1,57 @@
+titulo: Puño Perfil
+region: miembro-superior
+subregion: puno
+orden: 2
+alias:
+  - Muñeca perfil
+  - Puño lateral
+  - Puño perfil lateromedial
+
+dato_clinico: >
+  Fracturas o luxaciones del radio o cúbito distal; en concreto luxaciones
+  anteroposteriores de fracturas tipo Barton, Colles o Smith. En ocasiones
+  también puede verse artrosis, especialmente en el trapecio y en la primera
+  articulación CMC.
+
+receptor: >
+  18x24 cm vertical.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente sentado junto al extremo de la mesa de exploraciones, con el codo
+  flexionado a unos 90° y con el brazo y el antebrazo descansando sobre la mesa.
+  Colocar la mano y la muñeca sobre el chasis en posición lateral y con el pulgar
+  hacia arriba. El hombro, el codo y la muñeca deben estar en el mismo plano
+  horizontal.
+
+posicion_region: >
+  Alinear y centrar la mano y la muñeca respecto al eje longitudinal del receptor
+  de imagen. Ajustar la mano y la muñeca en posición lateral verdadera con los
+  dedos flexionados cómodamente. Si se precisa soporte para evitar movimientos,
+  utilizar un bloque radiotransparente y un saco de arena contra la mano y los
+  dedos. Colimar en los cuatro lados incluyendo el radio y cúbito distal, así como
+  la zona metacarpiana.
+
+rayo_central: >
+  Perpendicular al receptor de imagen, dirigido a la región media del carpo
+  (zona mediocarpiana).
+
+anatomia_visible: >
+  Región distal del radio, cúbito, huesos del carpo y por lo menos la zona media
+  de los metacarpianos. Partes blandas incluyendo bordes de las almohadillas
+  grasas de la muñeca y bordes del cúbito distal vistos a través del radio
+  superpuesto.
+
+criterios_calidad: >
+  El eje longitudinal de la mano, la muñeca y el antebrazo alineados con el eje
+  longitudinal del RI. Posición lateral verdadera evidenciada por la cabeza del
+  cúbito superpuesta sobre el radio distal y las regiones proximales de los
+  metacarpianos 2 al 5 alineadas y superpuestas. El radio, semilunar y tercer
+  metacarpiano deben estar alineados. Colimación visible en los cuatro lados; RC
+  y centro del campo de colimación en la zona mediocarpiana. Densidad y
+  contraste óptimos con patrón trabecular óseo claro y nítido y partes blandas
+  visibles, sin movilidad.

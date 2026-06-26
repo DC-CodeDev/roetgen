@@ -1,0 +1,53 @@
+titulo: Codo Frente AP
+region: miembro-superior
+subregion: codo
+orden: 1
+alias:
+  - Codo AP
+  - Codo frente
+
+dato_clinico: >
+  Fracturas y luxaciones de codo, así como otros trastornos como osteomielitis
+  y artritis.
+
+receptor: >
+  24x30 cm horizontal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente sentado junto al extremo de la mesa de exploraciones, si es posible
+  con el codo en extensión completa. Si el paciente no puede extender
+  completamente, realizar AP de codo en flexión parcial con el húmero paralelo
+  al RI.
+
+posicion_region: >
+  Extender el codo, supinar la mano y alinear el brazo y el antebrazo respecto al
+  eje longitudinal de la parte del RI a exponer. Centrar la articulación del codo
+  respecto al centro del RI. Pedir al paciente que se incline lateralmente hasta
+  una proyección AP verdadera (palpar los epicóndilos para asegurar que queden
+  paralelos al RI). Sostener la mano del paciente para evitar movimientos.
+  Colimar en los cuatro lados hasta la zona de interés.
+
+rayo_central: >
+  Perpendicular al RI, dirigido a la zona media de la articulación del codo,
+  situada a unos 2 cm en sentido distal al punto medio de una línea trazada
+  entre los dos epicóndilos.
+
+anatomia_visible: >
+  Húmero distal, espacio de la articulación del codo y región proximal del radio
+  y cúbito. Partes blandas, bordes corticales y patrón trabecular óseo.
+
+criterios_calidad: >
+  El eje longitudinal del antebrazo alineado con el eje longitudinal del RI.
+  Ausencia de rotación evidenciada por los dos epicóndilos vistos de perfil y la
+  cabeza, cuello y tuberosidad radial separados o ligeramente superpuestos por
+  el cúbito. El olecranon asentado en la fosa olecraniana con el brazo en
+  extensión completa. Espacio de la articulación del codo abierto con extensión
+  completa y centrado correcto del RC. Colimación visible en los cuatro lados;
+  RC y centro del campo de colimación en la zona media de la articulación del
+  codo. Densidad y contraste óptimos con partes blandas, bordes corticales
+  nítidos y patrón trabecular óseo claro y nítido, sin movilidad.

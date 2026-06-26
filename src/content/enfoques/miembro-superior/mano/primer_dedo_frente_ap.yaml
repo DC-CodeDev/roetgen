@@ -1,0 +1,52 @@
+titulo: Primer Dedo Frente AP
+region: miembro-superior
+subregion: mano
+orden: 3
+alias:
+  - Pulgar frente
+  - Primer dedo AP/PA
+
+dato_clinico: >
+  Fracturas y/o luxaciones de las falanges distal y proximal, metacarpiano distal
+  y articulaciones asociadas. En ocasiones pueden verse osteoporosis y artrosis.
+
+receptor: >
+  18x24 cm horizontal, dividido en tercios.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente de cara a la mesa, con los brazos extendidos al frente y la mano en
+  rotación interna para supinar el pulgar en la proyección AP.
+
+posicion_region: >
+  AP: Realizar una rotación interna de la mano con los dedos extendidos hasta
+  que la superficie posterior del pulgar entre en contacto con el receptor de
+  imagen (a veces es preciso sostener los dedos hacia atrás con la otra mano).
+  Centrar el pulgar respecto al eje longitudinal de la parte del receptor de imagen
+  a exponer. Excepción PA (solo si el paciente no puede colocarse para la AP):
+  colocar la mano en posición casi lateral y apoyar el pulgar sobre un bloque de
+  esponja lo bastante alto para conseguir una PA verdadera sin rotar el pulgar.
+  No se recomienda esta posición PA de rutina por aumento de la OID.
+
+rayo_central: >
+  Perpendicular al receptor de imagen, dirigido a la primera articulación
+  metacarpofalángica (MCF).
+
+anatomia_visible: >
+  Falanges distal y proximal del primer dedo, primer metacarpiano, trapecio y
+  articulaciones asociadas. Las articulaciones interfalángica y metacarpofalángica
+  deben estar abiertas.
+
+criterios_calidad: >
+  El eje longitudinal del pulgar alineado con el borde lateral del receptor de
+  imagen. Ausencia de rotación puesta de manifiesto por los lados cóncavos de
+  las falanges y cantidades iguales de partes blandas a ambos lados. La
+  articulación interfalángica abierta indica extensión completa del pulgar y
+  localización correcta del rayo central. Colimación visible en los cuatro lados;
+  RC y centro del campo de colimación en la primera articulación MCF. Densidad
+  y contraste óptimos con bordes de partes blandas y patrón trabecular claro y
+  nítido, sin movilidad.

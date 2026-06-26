@@ -1,0 +1,182 @@
+---
+import { readdir } from 'node:fs/promises';
+import { join } from 'node:path';
+import { getCollection } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+import { REGION_SLUGS, getRegionName, getSubregionName, SUBREGION_ORDER } from '../../lib/regions';
+
+export async function getStaticPaths() {
+  const enfoqueBase = join(process.cwd(), 'src/content/enfoques');
+  const allEnfoques = await getCollection('enfoques');
+
+  const paths: {
+    params: { region: string; subregion: string };
+    props: {
+      regionNombre: string;
+      subregionNombre: string;
+      enfoques: { slug: string; titulo: string; href: string }[];
+    };
+  }[] = [];
+
+  for (const region of REGION_SLUGS) {
+    let subregionSlugs: string[] = [];
+    try {
+      const entries = await readdir(join(enfoqueBase, region), { withFileTypes: true });
+      subregionSlugs = entries.filter(e => e.isDirectory()).map(e => e.name);
+    } catch {
+      // folder may not exist yet
+    }
+
+    const order = SUBREGION_ORDER[region];
+    const sorted = order
+      ? subregionSlugs.sort((a, b) => {
+          const ia = order.indexOf(a);
+          const ib = order.indexOf(b);
+          return (ia === -1 ? 999 : ia) - (ib === -1 ? 999 : ib);
+        })
+      : subregionSlugs;
+
+    for (const subregion of sorted) {
+      const enfoques = allEnfoques
+        .filter(e => e.data.region === region && e.data.subregion === subregion)
+        .sort((a, b) => (a.data.orden ?? 999) - (b.data.orden ?? 999))
+        .map(e => ({
+          slug: e.id.split('/').at(-1)!,
+          titulo: e.data.titulo,
+          href: `/${region}/${subregion}/${e.id.split('/').at(-1)}`,
+        }));
+
+      paths.push({
+        params: { region, subregion },
+        props: {
+          regionNombre: getRegionName(region),
+          subregionNombre: getSubregionName(subregion),
+          enfoques,
+        },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { region, subregion } = Astro.params;
+const { regionNombre, subregionNombre, enfoques } = Astro.props;
+
+const breadcrumb = [
+  { label: 'Inicio', href: '/' },
+  { label: regionNombre, href: `/${region}` },
+  { label: subregionNombre, href: null },
+];
+---
+
+<PageLayout
+  title={`${subregionNombre} — ${regionNombre} | Proyecto Roentgen`}
+  description={`Proyecciones radiológicas de ${subregionNombre.toLowerCase()} (${regionNombre.toLowerCase()}).`}
+  breadcrumb={breadcrumb}
+>
+  <div class="page-content">
+    <h1 class="page-title">{subregionNombre.toUpperCase()}</h1>
+    <div class="divider"></div>
+    <div class="enfoque-list">
+      {enfoques.map(enf => (
+        <a href={enf.href} class="rg-card" aria-label={enf.titulo}>
+          <span class="card-name">{enf.titulo.toUpperCase()}</span>
+        </a>
+      ))}
+      {enfoques.length === 0 && (
+        <p class="empty-note">Sin enfoques disponibles</p>
+      )}
+    </div>
+  </div>
+</PageLayout>
+
+<style>
+  .page-content {
+    padding: 18px 20px 40px;
+  }
+
+  @media (min-width: 1024px) {
+    .page-content {
+      padding: 26px 40px 56px;
+    }
+  }
+
+  .page-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 48px;
+    letter-spacing: 0.02em;
+    line-height: 0.92;
+    margin-bottom: 0;
+  }
+
+  @media (min-width: 640px) {
+    .page-title {
+      font-size: 56px;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .page-title {
+      font-size: 64px;
+    }
+  }
+
+  .divider {
+    height: 1px;
+    background: var(--border);
+    margin: 14px 0 18px;
+  }
+
+  /* ── List ──────────────────────────────────────────────────── */
+
+  .enfoque-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  /* ── Card ──────────────────────────────────────────────────── */
+
+  .rg-card {
+    display: flex;
+    align-items: center;
+    min-height: 72px;
+    padding: 16px 20px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    text-decoration: none;
+    transition: background 200ms ease, color 200ms ease, border-color 200ms ease;
+  }
+
+  @media (hover: hover) {
+    .rg-card:hover {
+      background: var(--accent-bg);
+      color: var(--accent-text);
+      border-color: var(--accent-bg);
+    }
+  }
+
+  @media (hover: none) {
+    .rg-card:active {
+      background: var(--accent-bg);
+      color: var(--accent-text);
+      border-color: var(--accent-bg);
+    }
+  }
+
+  .card-name {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 28px;
+    letter-spacing: 0.04em;
+    line-height: 1;
+  }
+
+  .empty-note {
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+    color: var(--muted);
+    padding: 20px 0;
+  }
+</style>

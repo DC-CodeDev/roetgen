@@ -1,0 +1,56 @@
+titulo: Mano Oblicua PA
+region: miembro-superior
+subregion: mano
+orden: 2
+alias:
+  - Mano oblicua
+  - Oblicua de mano
+
+dato_clinico: >
+  Fracturas y luxaciones de falanges, metacarpianos y todas las articulaciones
+  de la mano. En ocasiones también puede verse osteoporosis y artrosis.
+
+receptor: >
+  24x30 cm horizontal o 18x24 cm vertical.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente sentado junto al extremo de la mesa de exploraciones, con el codo
+  flexionado unos 90° y con la mano y el antebrazo descansando sobre la mesa.
+
+posicion_region: >
+  Mano en pronación sobre el chasis, centrar y alinear el eje longitudinal de la
+  mano respecto al eje longitudinal de la parte del RI a exponer. Rotar toda la
+  mano y la muñeca lateralmente 45° y colocar un soporte (bloque o cuña
+  radiotransparente) de modo que todos los dedos queden separados y paralelos
+  al RI. El bloque evita el acortamiento de las falanges y el oscurecimiento de
+  las articulaciones interfalángicas. Si solamente han de examinarse los
+  metacarpianos, la imagen puede tomarse con las puntas del pulgar y de los
+  dedos tocando el chasis (dedos no paralelos).
+
+rayo_central: >
+  Perpendicular al receptor de imagen, dirigido a la tercera articulación
+  metacarpofalángica (MCF).
+
+anatomia_visible: >
+  Proyección oblicua de toda la mano y muñeca, así como unos 2,4 cm del
+  antebrazo distal. Falanges distales, medias y proximales, metacarpianos 1 al 5
+  y articulaciones asociadas. Los cuerpos medios de los metacarpianos 3 al 5 no
+  deben superponerse entre sí. Puede haber cierto grado de superposición de las
+  cabezas distales de los metacarpianos 3 al 5, pero no de la región distal de
+  los metacarpianos 1 y 2.
+
+criterios_calidad: >
+  Las articulaciones MCF e IF deben estar abiertas, sin acortamiento de las
+  falanges medias o distales, lo que indica que los dedos están paralelos al RI.
+  El eje longitudinal de la mano y la muñeca alineado con el RI. La oblicua de
+  45° se evidencia por ausencia de superposición en la zona media de los
+  metacarpianos 3 al 5; una superposición excesiva indica hiperrotación y una
+  separación excesiva indica hiporrotación. Colimación visible en los cuatro
+  lados; RC y centro del campo de colimación en la tercera articulación MCF.
+  Densidad y contraste óptimos con bordes de partes blandas y patrón
+  trabecular claro y nítido, sin movilidad.

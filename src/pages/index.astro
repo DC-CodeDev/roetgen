@@ -1,0 +1,138 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { REGION_SLUGS, getRegionName } from '../lib/regions';
+
+const regions = REGION_SLUGS.map(slug => ({
+  slug,
+  nombre: getRegionName(slug),
+  href: `/${slug}`,
+}));
+
+const currentPath = Astro.url.pathname;
+---
+
+<PageLayout
+  title="Proyecto Roentgen"
+  description="Referencia de proyecciones radiológicas para estudiantes y residentes."
+>
+  <div class="page-content">
+    <h1 class="page-title">REGIONES</h1>
+    <div class="region-grid">
+      {regions.map(r => (
+        <a
+          href={r.href}
+          class:list={['rg-card', { 'rg-card--active': currentPath === r.href }]}
+          aria-label={r.nombre}
+        >
+          <span class="card-name">{r.nombre}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</PageLayout>
+
+<style>
+  .page-content {
+    padding: 20px 20px 40px;
+  }
+
+  @media (min-width: 1024px) {
+    .page-content {
+      padding: 34px 40px 56px;
+    }
+  }
+
+  .page-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 46px;
+    letter-spacing: 0.02em;
+    line-height: 0.92;
+    margin-bottom: 18px;
+  }
+
+  @media (min-width: 640px) {
+    .page-title {
+      font-size: 56px;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .page-title {
+      font-size: 64px;
+      margin-bottom: 26px;
+    }
+  }
+
+  /* ── Grid ──────────────────────────────────────────────────── */
+
+  .region-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  @media (min-width: 1024px) {
+    .region-grid {
+      grid-template-columns: repeat(4, 1fr);
+      gap: 18px;
+    }
+  }
+
+  /* ── Card ──────────────────────────────────────────────────── */
+
+  .rg-card {
+    aspect-ratio: 1 / 1.2;
+    display: flex;
+    align-items: flex-end;
+    padding: 14px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    text-decoration: none;
+    transition: background 200ms ease, color 200ms ease, border-color 200ms ease;
+  }
+
+  @media (min-width: 1024px) {
+    .rg-card {
+      padding: 20px;
+    }
+  }
+
+  /* Active/current section: left accent border */
+  .rg-card--active {
+    border-left: 3px solid var(--text);
+  }
+
+  /* Hover: desktop only */
+  @media (hover: hover) {
+    .rg-card:hover {
+      background: var(--accent-bg);
+      color: var(--accent-text);
+      border-color: var(--accent-bg);
+    }
+  }
+
+  /* Active touch: mobile/touch only */
+  @media (hover: none) {
+    .rg-card:active {
+      background: var(--accent-bg);
+      color: var(--accent-text);
+      border-color: var(--accent-bg);
+    }
+  }
+
+  /* ── Card name ────────────────────────────────────────────── */
+
+  .card-name {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 24px;
+    letter-spacing: 0.03em;
+    line-height: 1;
+  }
+
+  @media (min-width: 1024px) {
+    .card-name {
+      font-size: 32px;
+    }
+  }
+</style>

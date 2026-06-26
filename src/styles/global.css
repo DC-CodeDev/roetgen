@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+/* ─── Design tokens ─────────────────────────────────────────────── */
+
+:root {
+  --bg: #fef7e5;
+  --text: #262948;
+  --accent-bg: #262948;
+  --accent-text: #fef7e5;
+  --surface: #f7edce;
+  --border: #d6d4c8;
+  --muted: #7a7e99;
+  --transition-color: 200ms ease;
+}
+
+[data-theme="dark"] {
+  --bg: #262948;
+  --text: #fef7e5;
+  --accent-bg: #fef7e5;
+  --accent-text: #262948;
+  --surface: #2e3257;
+  --border: #3d4060;
+  --muted: #9b9fb8;
+}
+
+/* ─── Base ──────────────────────────────────────────────────────── */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  transition: background var(--transition-color), color var(--transition-color);
+  font-family: 'Outfit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Print ─────────────────────────────────────────────────────── */
+
+@media print {
+  header,
+  .breadcrumb,
+  .btn-volver {
+    display: none;
+  }
+
+  body {
+    background: white;
+    color: black;
+  }
+
+  .enfoque-fields {
+    page-break-inside: avoid;
+  }
+}

@@ -1,0 +1,385 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../../../layouts/PageLayout.astro';
+import { getRegionName, getSubregionName } from '../../../lib/regions';
+
+export async function getStaticPaths() {
+  const enfoques = await getCollection('enfoques');
+  return enfoques.map(entry => ({
+    params: {
+      region: entry.data.region,
+      subregion: entry.data.subregion,
+      slug: entry.id.split('/').at(-1)!,
+    },
+    props: { entry },
+  }));
+}
+
+const { region, subregion } = Astro.params;
+const { entry } = Astro.props;
+const { data } = entry;
+
+const regionNombre = getRegionName(region);
+const subregionNombre = getSubregionName(subregion);
+
+const breadcrumb = [
+  { label: 'Inicio', href: '/' },
+  { label: regionNombre, href: `/${region}` },
+  { label: subregionNombre, href: `/${region}/${subregion}` },
+  { label: data.titulo, href: null },
+];
+
+const campos = [
+  { label: 'Dato Clínico', value: data.dato_clinico },
+  { label: 'Receptor de Imagen', value: data.receptor },
+  { label: 'Distancia', value: data.distancia },
+  { label: 'Técnica', value: data.tecnica },
+  { label: 'Posición del Paciente', value: data.posicion_paciente },
+  { label: 'Posición de la Región', value: data.posicion_region },
+  { label: 'Rayo Central', value: data.rayo_central },
+  { label: 'Anatomía Visible', value: data.anatomia_visible },
+  { label: 'Criterios de Calidad', value: data.criterios_calidad },
+].filter(c => c.value);
+---
+
+<PageLayout
+  title={`${data.titulo} — ${subregionNombre} — ${regionNombre} | Proyecto Roentgen`}
+  description={`Técnica, posición y criterios de calidad para la proyección ${data.titulo} de ${subregionNombre.toLowerCase()}.`}
+  breadcrumb={breadcrumb}
+>
+  <div class="page-content">
+    <div class="layout">
+      <!-- Fields column -->
+      <div class="fields-col">
+        <h1 class="page-title">{data.titulo.toUpperCase()}</h1>
+        <div class="divider"></div>
+
+        <dl class="enfoque-fields">
+          {campos.map((campo, i) => (
+            <div class="field" style={`--i:${i}`}>
+              <dt class="field-label">{campo.label}</dt>
+              <dd class="field-value">{campo.value}</dd>
+            </div>
+          ))}
+        </dl>
+
+        {data.tip && (
+          <div class="tip-block">
+            <p class="tip-text">{data.tip}</p>
+          </div>
+        )}
+
+        <a href={`/${region}/${subregion}`} class="btn-volver">← VOLVER</a>
+      </div>
+
+      <!-- Image column -->
+      <div class="image-col">
+        {data.imagen ? (
+          <figure class="img-figure">
+            <button
+              class="img-trigger"
+              aria-label="Ampliar imagen"
+              data-src={data.imagen}
+              data-alt={data.imagen_alt ?? data.titulo}
+            >
+              <img
+                src={data.imagen}
+                alt={data.imagen_alt ?? data.titulo}
+                loading="lazy"
+                class="enfoque-img"
+              />
+            </button>
+            {data.imagen_alt && (
+              <figcaption class="img-caption">{data.imagen_alt}</figcaption>
+            )}
+          </figure>
+        ) : (
+          <div class="img-placeholder" role="img" aria-label="Imagen próximamente">
+            <span class="placeholder-text">Próximamente</span>
+          </div>
+        )}
+      </div>
+    </div>
+  </div>
+</PageLayout>
+
+<dialog class="img-dialog" id="img-dialog">
+  <button class="dialog-close" aria-label="Cerrar">✕</button>
+  <img class="dialog-img" src="" alt="" />
+</dialog>
+
+<script>
+  const dialog = document.getElementById('img-dialog') as HTMLDialogElement | null;
+  if (dialog) {
+    const dialogImg = dialog.querySelector<HTMLImageElement>('.dialog-img')!;
+    const closeBtn = dialog.querySelector<HTMLButtonElement>('.dialog-close')!;
+
+    document.querySelectorAll<HTMLButtonElement>('.img-trigger').forEach(btn => {
+      btn.addEventListener('click', () => {
+        dialogImg.src = btn.dataset.src!;
+        dialogImg.alt = btn.dataset.alt ?? '';
+        dialog.showModal();
+      });
+    });
+
+    closeBtn.addEventListener('click', () => dialog.close());
+    dialog.addEventListener('click', e => {
+      if (e.target === dialog) dialog.close();
+    });
+  }
+</script>
+
+<style>
+  .page-content {
+    padding: 18px 20px 40px;
+  }
+
+  @media (min-width: 1024px) {
+    .page-content {
+      padding: 26px 40px 56px;
+    }
+  }
+
+  /* ── Layout ────────────────────────────────────────────────── */
+
+  .layout {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  @media (min-width: 1024px) {
+    .layout {
+      flex-direction: row;
+      align-items: flex-start;
+      gap: 48px;
+    }
+
+    .fields-col {
+      flex: 1 1 0;
+      min-width: 0;
+    }
+
+    .image-col {
+      flex: 0 0 340px;
+      position: sticky;
+      top: 80px;
+    }
+  }
+
+  /* ── Title ─────────────────────────────────────────────────── */
+
+  .page-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 64px;
+    letter-spacing: 0.02em;
+    line-height: 0.92;
+    margin-bottom: 0;
+  }
+
+  @media (min-width: 640px) {
+    .page-title {
+      font-size: 72px;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .page-title {
+      font-size: 80px;
+    }
+  }
+
+  .divider {
+    height: 1px;
+    background: var(--border);
+    margin: 14px 0 20px;
+  }
+
+  /* ── Fields ────────────────────────────────────────────────── */
+
+  .enfoque-fields {
+    display: flex;
+    flex-direction: column;
+  }
+
+  @keyframes fadeSlideIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .field {
+    padding: 14px 0;
+    border-bottom: 1px solid var(--border);
+    animation: fadeSlideIn 300ms ease both;
+    animation-delay: calc(var(--i, 0) * 50ms);
+  }
+
+  .field:first-child {
+    border-top: 1px solid var(--border);
+  }
+
+  .field-label {
+    display: inline-block;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--accent-text);
+    background: var(--accent-bg);
+    padding: 3px 8px;
+    margin-bottom: 8px;
+  }
+
+  .field-value {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: var(--text);
+    line-height: 1.6;
+    white-space: pre-line;
+  }
+
+  @media (min-width: 1024px) {
+    .field-value {
+      font-size: 16px;
+    }
+  }
+
+  /* ── Tip block ─────────────────────────────────────────────── */
+
+  .tip-block {
+    margin-top: 20px;
+    padding: 12px 16px;
+    border-left: 3px solid var(--border);
+  }
+
+  .tip-text {
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    color: var(--muted);
+    line-height: 1.6;
+  }
+
+  /* ── Back button ───────────────────────────────────────────── */
+
+  .btn-volver {
+    display: inline-block;
+    margin-top: 28px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--text);
+    text-decoration: none;
+    letter-spacing: 0.05em;
+    transition: color 200ms ease;
+  }
+
+  .btn-volver:hover {
+    color: var(--muted);
+  }
+
+  /* ── Image ─────────────────────────────────────────────────── */
+
+  .img-figure {
+    margin: 0;
+  }
+
+  .img-trigger {
+    display: block;
+    width: 100%;
+    padding: 0;
+    background: none;
+    border: 1px solid var(--border);
+    cursor: zoom-in;
+    overflow: hidden;
+  }
+
+  .enfoque-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: opacity 200ms ease;
+  }
+
+  .img-trigger:hover .enfoque-img {
+    opacity: 0.85;
+  }
+
+  .img-caption {
+    font-family: 'Outfit', sans-serif;
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 8px;
+    text-align: center;
+  }
+
+  .img-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 240px;
+    border: 1px solid var(--border);
+    background: repeating-linear-gradient(
+      45deg,
+      var(--surface),
+      var(--surface) 10px,
+      var(--border) 10px,
+      var(--border) 12px
+    );
+  }
+
+  .placeholder-text {
+    font-family: 'Outfit', sans-serif;
+    font-size: 13px;
+    color: var(--muted);
+    background: var(--bg);
+    padding: 6px 12px;
+  }
+
+  /* ── Dialog ────────────────────────────────────────────────── */
+
+  .img-dialog {
+    padding: 0;
+    border: none;
+    background: transparent;
+    max-width: 90vw;
+    max-height: 90vh;
+  }
+
+  .img-dialog::backdrop {
+    background: rgba(0, 0, 0, 0.8);
+    animation: fadeIn 200ms ease;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+  }
+
+  .dialog-img {
+    display: block;
+    max-width: 90vw;
+    max-height: 85vh;
+    object-fit: contain;
+  }
+
+  .dialog-close {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1;
+  }
+</style>

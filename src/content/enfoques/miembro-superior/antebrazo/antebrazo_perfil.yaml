@@ -1,0 +1,55 @@
+titulo: Antebrazo Perfil
+region: miembro-superior
+subregion: antebrazo
+orden: 2
+alias:
+  - Antebrazo lateral
+  - Antebrazo perfil lateromedial
+
+dato_clinico: >
+  Fracturas y luxaciones del radio o del cúbito, así como otros trastornos como
+  osteomielitis o artritis.
+
+receptor: >
+  30x35 cm o 35x43 cm, vertical dividido en 2.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente sentado junto al extremo de la mesa de exploraciones, con el codo
+  flexionado a 90°.
+
+posicion_region: >
+  Dejar caer el hombro hasta colocar toda la extremidad superior en el mismo
+  plano horizontal. Alinear y centrar el antebrazo respecto al eje longitudinal del
+  RI, asegurando que se incluyan las articulaciones de la muñeca y del codo.
+  Rotar la mano y la muñeca hasta una posición lateral verdadera; si es necesario
+  sostener la mano para evitar movimientos, asegurando que la región distal del
+  cúbito y del radio estén directamente superpuestas. En antebrazos muy
+  musculosos, colocar un soporte bajo la mano y la muñeca para que el radio y
+  el cúbito queden paralelos al RI. Colimar en los bordes laterales con colimación
+  mínima en ambos extremos; asegurar que el RI incluya una distancia mínima de
+  3-4 cm distal a las articulaciones de la muñeca y del codo.
+
+rayo_central: >
+  Perpendicular al RI, dirigido a la zona media del antebrazo.
+
+anatomia_visible: >
+  Proyección lateral de todo el radio y el cúbito, hilera proximal de los huesos
+  del carpo, codo y extremo distal del húmero. Partes blandas pertinentes como
+  almohadillas y bandas grasas de las articulaciones de la muñeca y del codo.
+
+criterios_calidad: >
+  El eje longitudinal del antebrazo alineado con el eje longitudinal del RI. Codo
+  flexionado 90°. Ausencia de rotación evidenciada por la superposición de la
+  cabeza del cúbito sobre el radio y los epicóndilos humerales superpuestos. La
+  cabeza del radio superpuesta con la apófisis coronoides (tuberosidad radial
+  vista de frente) y superposición del radio y cúbito en su extremo distal. Bordes
+  de colimación visibles en los bordes cutáneos a lo largo del antebrazo con
+  colimación mínima en ambos extremos. RC y centro del campo de colimación
+  aproximadamente en el punto medio del radio y del cúbito. Densidad y contraste
+  óptimos con bordes corticales nítidos, patrón trabecular óseo claro y nítido y
+  almohadillas y bandas grasas de las articulaciones visibles, sin movilidad.

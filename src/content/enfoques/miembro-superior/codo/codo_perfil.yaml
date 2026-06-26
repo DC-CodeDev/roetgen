@@ -1,0 +1,55 @@
+titulo: Codo Perfil
+region: miembro-superior
+subregion: codo
+orden: 2
+alias:
+  - Codo lateral
+  - Perfil de codo
+
+dato_clinico: >
+  Fracturas y luxaciones del codo, así como otros trastornos como osteomielitis
+  y artritis. También puede visualizarse desplazamiento o elevación de las
+  almohadillas de grasa de la articulación del codo.
+
+receptor: >
+  24x30 cm horizontal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente sentado junto a la mesa de exploraciones, con el codo flexionado 90°.
+
+posicion_region: >
+  Alinear el eje longitudinal del antebrazo con el eje longitudinal del chasis.
+  Centrar el codo respecto al RC y al centro del RI. Dejar caer el hombro de modo
+  que el húmero y el antebrazo se encuentren en el mismo plano horizontal. Rotar
+  la mano y la muñeca hasta una posición lateral verdadera con el lado del pulgar
+  hacia arriba. En antebrazos muy musculosos, colocar un soporte bajo la mano y
+  el antebrazo distal para que el brazo quede paralelo al RI. Colimar los cuatro
+  lados hasta la zona de interés. Nota: la visualización de la almohadilla de grasa
+  posterior depende de una flexión exacta de 90°.
+
+rayo_central: >
+  Perpendicular al RI, dirigido a la zona media de la articulación del codo, a un
+  punto situado a unos 4 cm medialmente a la superficie posterior del olecranon.
+
+anatomia_visible: >
+  Proyección lateral del húmero distal y del antebrazo proximal, olecranon y
+  partes blandas y almohadillas de grasa de la articulación del codo (anterior y
+  posterior). Tuberosidad radial vista de frente.
+
+criterios_calidad: >
+  El eje longitudinal del brazo alineado con el borde lateral del RI, con la
+  articulación del codo flexionada a 90°. Cerca de la mitad de la cabeza del radio
+  superpuesta con la apófisis coronoides y olecranon visualizado de perfil.
+  Proyección lateral verdadera evidenciada por 3 arcos concéntricos del surco
+  troclear, crestas dobles del cóndilo y la tróclea, y escotadura troclear del
+  cúbito, además de superposición de los epicóndilos humerales. Articulación del
+  codo abierta y centrada en el RC. Colimación visible en los cuatro lados; RC y
+  centro del campo de colimación en la zona media de la articulación del codo.
+  Densidad y contraste óptimos con bordes corticales nítidos, patrón trabecular
+  óseo claro y nítido y márgenes de las almohadillas grasas anterior y posterior
+  visibles, sin movilidad.

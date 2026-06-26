@@ -1,0 +1,56 @@
+titulo: Puño Frente PA
+region: miembro-superior
+subregion: puno
+orden: 1
+alias:
+  - Muñeca frente
+  - Puño PA
+
+dato_clinico: >
+  Fracturas del radio o cúbito distal, fracturas aisladas de la apófisis estiloides
+  (de radio o de cúbito) y fracturas de huesos del carpo individuales. En ocasiones
+  también puede verse osteomielitis y artritis.
+
+receptor: >
+  18x24 cm horizontal, dividido para dos enfoques.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente sentado junto al extremo de la mesa de exploraciones, con el codo
+  flexionado unos 90° y con la mano y la muñeca descansando sobre el chasis
+  (palma hacia abajo). Dejar caer el hombro de modo que este, el codo y la
+  muñeca se encuentren en el mismo plano horizontal.
+
+posicion_region: >
+  PA: Alinear y centrar el eje longitudinal de la mano y la muñeca respecto a la
+  parte del receptor de imagen a exponer, con la zona del carpo centrada en el
+  rayo central. Con la mano en pronación, arquearla ligeramente para colocar la
+  muñeca y la zona del carpo en contacto íntimo con el chasis. AP alternativa:
+  puede tomarse con la mano ligeramente arqueada para colocar los espacios
+  intercarpianos más paralelos a los rayos divergentes, lo que mejora la
+  visualización de los huesos del carpo.
+
+rayo_central: >
+  Perpendicular al receptor de imagen, dirigido a la región media del carpo
+  (zona mediocarpiana).
+
+anatomia_visible: >
+  Regiones media y proximal de los metacarpianos, huesos del carpo, región
+  distal de radio y cúbito, articulaciones asociadas y partes blandas de la
+  articulación de la muñeca (almohadillas grasas). No todos los espacios
+  intercarpianos aparecen abiertos debido a sus formas irregulares.
+
+criterios_calidad: >
+  El eje longitudinal de la mano, la muñeca y el antebrazo alineados con el RI.
+  La proyección PA verdadera se evidencia por formas cóncavas iguales a ambos
+  lados de los metacarpianos proximales y distancias casi iguales entre ellos,
+  con separación del cúbito y radio distales (posible superposición mínima en la
+  articulación radiocubital distal). Ausencia de rotación del carpo, metacarpianos,
+  radio y cúbito. Colimación visible en los cuatro lados; RC y centro del campo de
+  colimación en la zona mediocarpiana. Densidad y contraste óptimos con
+  visualización de partes blandas (almohadillas grasas), patrón trabecular y
+  bordes óseos de los huesos del carpo claros y nítidos, sin movilidad.

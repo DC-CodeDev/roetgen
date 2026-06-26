@@ -1,0 +1,54 @@
+titulo: Mano Frente PA
+region: miembro-superior
+subregion: mano
+orden: 1
+alias:
+  - Mano frente
+  - Mano PA
+
+dato_clinico: >
+  Fracturas y luxaciones de falanges (distal, media y proximal), metacarpianos y
+  todas las articulaciones de la mano. En ocasiones también puede verse osteoporosis,
+  artrosis y se utiliza para determinación de edad ósea.
+
+receptor: >
+  24x30 cm dividido en dos mitades horizontales. Para manos grandes: 18x24 cm vertical.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente sentado junto al extremo de la mesa de exploraciones, con el codo
+  flexionado unos 90° y con la mano y el antebrazo descansando sobre la mesa.
+
+posicion_region: >
+  Mano en pronación con la superficie palmar en contacto con el chasis, extendiendo
+  ligeramente los dedos. Alinear el eje longitudinal de la mano y del antebrazo con
+  el eje longitudinal del receptor de imagen a exponer. Centrar la mano y la muñeca
+  con la mitad sin máscara del receptor de imagen.
+
+rayo_central: >
+  Perpendicular al receptor de imagen, dirigido a la tercera articulación
+  metacarpofalángica (MCF).
+
+anatomia_visible: >
+  Proyección PA de toda la mano y la muñeca, así como unos 2,5 cm del antebrazo
+  distal. El pulgar se visualiza en proyección oblicua. Falanges distales, medias y
+  proximales de los dedos 1 al 5, metacarpianos 1 al 5, huesos del carpo proximales
+  y partes blandas peridigitales.
+
+criterios_calidad: >
+  Las articulaciones MCF e IF deben estar abiertas, indicando pronación completa y
+  localización correcta del rayo central. El eje longitudinal de la mano y la muñeca
+  alineado con el eje longitudinal del RI. Ausencia de rotación puesta de manifiesto
+  por aspecto simétrico de las concavidades de los cuerpos de los metacarpianos y las
+  falanges de los dedos 2 al 5, con igual cantidad de partes blandas a cada lado. Los
+  dedos ligeramente separados sin superposición de partes blandas. Colimación visible
+  en los cuatro lados. Densidad y contraste óptimos con bordes de partes blandas y
+  patrón trabecular claro y nítido, sin movilidad. Marca de lado derecho sobre el
+  meñique indica mano derecha; sobre el pulgar indica mano izquierda.
+
+tip: >
+    Si la marca de la derecha se encuentra en el dedo pulgar es mano izquierda.

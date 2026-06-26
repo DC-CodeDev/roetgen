@@ -1,0 +1,54 @@
+titulo: Antebrazo Frente AP
+region: miembro-superior
+subregion: antebrazo
+orden: 1
+alias:
+  - Antebrazo AP
+  - Antebrazo frente
+
+dato_clinico: >
+  Fracturas y luxaciones del radio o del cúbito, así como otros trastornos como
+  osteomielitis o artritis.
+
+receptor: >
+  35x43 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente sentado junto a la mesa de exploraciones, con la mano y el brazo
+  completamente extendidos y la palma hacia arriba (supinación).
+
+posicion_region: >
+  Dejar caer el hombro hasta colocar toda la extremidad superior en el mismo
+  plano horizontal. Alinear y centrar el antebrazo respecto al eje longitudinal del
+  RI, asegurando que se incluyan todas las articulaciones de la muñeca y del codo
+  (utilizar un RI tan grande como sea preciso). Pedir al paciente que se incline
+  lateralmente hasta colocar toda la muñeca, el antebrazo y el codo tan cerca
+  como sea posible de una posición AP verdadera (los epicóndilos medial y lateral
+  han de estar a una misma distancia del RI). Colimar en los bordes laterales con
+  colimación mínima en ambos extremos; asegurar que el RI incluya una distancia
+  mínima de 3-4 cm distal de las articulaciones de la muñeca y del codo.
+
+rayo_central: >
+  Perpendicular al RI, dirigido a la zona media del antebrazo.
+
+anatomia_visible: >
+  Proyección AP de todo el radio y el cúbito, con un mínimo de huesos del carpo
+  de la hilera proximal y el húmero distal. Partes blandas pertinentes como
+  almohadillas y bandas de grasa de las articulaciones de la muñeca y del codo.
+  Los espacios articulares de la muñeca y del codo aparecen abiertos solo
+  parcialmente por la divergencia del haz.
+
+criterios_calidad: >
+  El eje longitudinal del antebrazo alineado con el longitudinal del RI. Ausencia
+  de rotación evidenciada por epicóndilos humerales visualizados de perfil, con
+  la cabeza, el cuello y la tuberosidad radial ligeramente superpuestos por el
+  cúbito. Bordes de colimación visibles en los bordes cutáneos a lo largo del
+  antebrazo, con colimación mínima en ambos extremos. RC y centro del campo
+  de colimación aproximadamente en el punto medio del radio y del cúbito.
+  Densidad y contraste óptimos con partes blandas, bordes corticales y patrón
+  trabecular óseo claro y nítido, sin movilidad.
