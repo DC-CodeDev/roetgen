@@ -364,7 +364,7 @@ const { title, description, breadcrumb = [] } = Astro.props;
     padding: 8px 0;
   }
 
-  .search-result {
+  :global(.search-result) {
     display: flex;
     flex-direction: column;
     gap: 4px;
@@ -375,22 +375,22 @@ const { title, description, breadcrumb = [] } = Astro.props;
     transition: background 150ms ease;
   }
 
-  .search-result:last-child {
+  :global(.search-result:last-child) {
     border-bottom: none;
   }
 
-  .search-result:hover {
+  :global(.search-result:hover) {
     background: var(--surface);
   }
 
-  .result-title {
+  :global(.result-title) {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 20px;
     letter-spacing: 0.03em;
     line-height: 1;
   }
 
-  .result-excerpt {
+  :global(.result-excerpt) {
     font-family: 'Outfit', sans-serif;
     font-size: 13px;
     color: var(--muted);
@@ -403,7 +403,7 @@ const { title, description, breadcrumb = [] } = Astro.props;
     padding: 0 2px;
   }
 
-  .search-empty {
+  :global(.search-empty) {
     font-family: 'Outfit', sans-serif;
     font-size: 14px;
     color: var(--muted);
