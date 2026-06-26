@@ -87,7 +87,8 @@ const { title, description, breadcrumb = [] } = Astro.props;
   async function loadPagefind() {
     if (pagefind) return;
     try {
-      pagefind = await import(/* @vite-ignore */ '/_pagefind/pagefind.js');
+      const pfUrl = '/_pagefind/pagefind.js';
+      pagefind = await import(/* @vite-ignore */ pfUrl);
       await pagefind.init();
     } catch {
       // Not available in dev mode
