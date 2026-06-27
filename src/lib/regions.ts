@@ -18,6 +18,7 @@ export const SUBREGION_NAMES: Record<string, string> = {
   'muslo': 'Muslo',
   'rodilla': 'Rodilla',
   'pierna': 'Pierna',
+  'tobillo': 'Tobillo',
   'pie': 'Pie',
   'boveda': 'Bóveda',
   'macizo-facial': 'Macizo Facial',
@@ -26,7 +27,7 @@ export const SUBREGION_NAMES: Record<string, string> = {
 // Orden proximal → distal por región (para páginas de región)
 export const SUBREGION_ORDER: Record<string, string[]> = {
   'miembro-superior': ['hombro', 'brazo', 'codo', 'antebrazo', 'puno', 'mano'],
-  'miembro-inferior': ['muslo', 'rodilla', 'pierna', 'pie'],
+  'miembro-inferior': ['muslo', 'rodilla', 'pierna', 'tobillo', 'pie'],
 };
 
 export const REGION_SLUGS = Object.keys(REGION_NAMES);
