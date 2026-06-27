@@ -26,5 +26,8 @@ Página dinámica de región. Lee las subcarpetas de `src/content/enfoques/[regi
 - Card name: Bebas Neue 24px letter-spacing 0.03em
 - Card count: Outfit 13px color `--muted` margin-top 5px; en hover: `inherit opacity 0.7`
 
+## Animación de entrada
+Igual que `index.astro`: cada `.rg-card` recibe `style="--i: {índice}"` y anima con `@keyframes cardFadeIn` (150ms ease-out, delay `calc(var(--i) * 150ms)`), fade-in + `translateY(8px→0)`.
+
 ## Flujos relacionados
 - [[../../../Flujos/Flujo - Navegación por Proyección.md]]

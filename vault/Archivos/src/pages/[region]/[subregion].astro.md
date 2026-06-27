@@ -29,5 +29,8 @@ Página dinámica de subregión (`/miembro-superior/mano`, etc.). Lee las carpet
 ## Slug de enfoque
 El slug en la URL proviene de `entry.id.split('/').at(-1)`, donde `entry.id` es el path relativo al glob base (ej: `miembro-superior/mano/mano-pa` → slug `mano-pa`).
 
+## Animación de entrada
+Igual que `index.astro`: cada `.rg-card` recibe `style="--i: {índice}"` y anima con `@keyframes cardFadeIn` (150ms ease-out, delay `calc(var(--i) * 150ms)`), fade-in + `translateY(8px→0)`.
+
 ## Flujos relacionados
 - [[../../../../Flujos/Flujo - Navegación por Proyección.md]]

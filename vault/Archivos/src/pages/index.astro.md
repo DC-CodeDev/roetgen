@@ -20,5 +20,8 @@ Página home (`/`): grid de 5 cards de región. Toma los slugs de `REGION_SLUGS`
 - Card: `aspect-ratio: 1/1.2`, align flex-end, padding 14px → 20px
 - Card name: Bebas Neue 24px → 32px, letter-spacing 0.03em
 
+## Animación de entrada
+Cada `.rg-card` recibe `style="--i: {índice}"`. Al cargar la página, las cards hacen fade-in + `translateY(8px→0)` en 150ms ease-out con `animation-delay: calc(var(--i) * 150ms)` — aparecen secuencialmente una detrás de la otra. Definido con `@keyframes cardFadeIn`.
+
 ## Flujos relacionados
 - [[../../../Flujos/Flujo - Navegación por Proyección.md]]
