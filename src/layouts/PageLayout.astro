@@ -90,8 +90,9 @@ const { title, description, breadcrumb = [] } = Astro.props;
       const pfUrl = '/_pagefind/pagefind.js';
       pagefind = await import(/* @vite-ignore */ pfUrl);
       await pagefind.init();
-    } catch {
-      // Not available in dev mode
+      console.log('[search] pagefind cargado OK');
+    } catch (e) {
+      console.warn('[search] pagefind no disponible:', e);
     }
   }
 
@@ -126,10 +127,12 @@ const { title, description, breadcrumb = [] } = Astro.props;
     if (!query) { resultsEl.innerHTML = ''; return; }
 
     await loadPagefind();
-    if (!pagefind) return;
+    if (!pagefind) { console.warn('[search] pagefind null, abortando'); return; }
 
     const search = await pagefind.search(query);
+    console.log('[search] resultados:', search.results.length);
     const items = await Promise.all(search.results.slice(0, 8).map((r: any) => r.data()));
+    console.log('[search] data:', items);
 
     if (!items.length) {
       resultsEl.innerHTML = '<p class="search-empty">Sin resultados</p>';
