@@ -17,8 +17,7 @@ function calcularTecnica(constante: number, espesor: number, base: number) {
   const u1 = Math.ceil(ultraBase * 1.15);
   const u2 = Math.ceil(u1 * 1.15);
   const u3 = Math.ceil(u2 * 1.15);
-  const u4 = Math.ceil(u3 * 1.15);
-  const tecnicaUltra = Math.ceil(u4 * 1.15);
+  const tecnicaUltra = Math.ceil(u3 * 1.15);
 
   return { tecnicaBasica, masBasica, tecnicaInter, masInter, tecnicaHomo, masHomo, tecnicaUltra, masUltra };
 }
