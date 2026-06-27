@@ -2,7 +2,7 @@
 
 Stack: Astro 7.0.3 + React 19 + Tailwind CSS v4 + TypeScript strict.
 
-> **Estado del proyecto (Junio 2026):** Flujo completo de navegación implementado. Build 0 errores. 20 páginas estáticas generadas (1 home + 5 regiones + 13 subregiones + 1 enfoque).
+> **Estado del proyecto (Junio 2026):** Flujo completo de navegación implementado + búsqueda Fuse.js. Build 0 errores. 37 páginas generadas (+ search-index.json).
 
 ---
 
@@ -40,7 +40,7 @@ Stack: Astro 7.0.3 + React 19 + Tailwind CSS v4 + TypeScript strict.
 - [[Archivos/src/components/EnfoqueCard.astro.md]] *(planificado)*
 - [[Archivos/src/components/EnfoqueDetail.astro.md]] *(planificado)*
 - [[Archivos/src/components/ImageDialog.tsx.md]] *(planificado)*
-- [[Archivos/src/components/Search.tsx.md]] *(planificado)*
+- [[Archivos/src/components/Search.tsx.md]] — búsqueda Fuse.js client-side, overlay con resultados en tiempo real
 
 ### `src/pages/` — rutas
 - [[Archivos/src/pages/index.astro.md]] — home, grid de 5 regiones
@@ -55,7 +55,7 @@ Stack: Astro 7.0.3 + React 19 + Tailwind CSS v4 + TypeScript strict.
 
 - [[Flujos/Flujo - Navegación por Proyección.md]]
 - [[Flujos/Flujo - Toggle Light-Dark Mode.md]]
-- [[Flujos/Flujo - Búsqueda Pagefind.md]]
+- [[Flujos/Flujo - Búsqueda Fuse.js.md]] *(Pagefind abandonado — incompatible con Vercel build)*
 - [[Flujos/Flujo - Imagen en Dialog.md]]
 
 ---
@@ -68,6 +68,7 @@ Stack: Astro 7.0.3 + React 19 + Tailwind CSS v4 + TypeScript strict.
 | `src/content/config.ts` vs `src/content.config.ts` | Astro 7 requiere `src/content.config.ts` en la raíz de `src/` |
 | Header/Breadcrumb como componentes separados vs inline en PageLayout | Fusionados en PageLayout — son elementos únicos sin variaciones de props que justifiquen separación |
 | Subregiones desde filesystem vs desde Content Collections | `readdir` en `getStaticPaths` — permite mostrar carpetas vacías (sin enfoques aún) |
+| Pagefind vs Fuse.js | Fuse.js — Pagefind no generaba `_pagefind/` en Vercel; Fuse.js es 100% client-side, sin dependencia de build step externo |
 
 ---
 
