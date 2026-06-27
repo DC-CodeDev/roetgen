@@ -1,0 +1,62 @@
+titulo: Cadera Falso Perfil AP
+region: pelvis
+subregion: pelvis
+orden: 3
+alias:
+  - cadera lateral oblicua
+  - falso perfil de cadera
+  - cadera Lauenstein
+  - cadera Hickey
+
+dato_clinico: >
+  Vista lateral para valorar la articulación de la cadera y el fémur proximal
+  en situaciones sin traumatismo.
+  Advertencia: no intentar esta posición en pacientes con enfermedad
+  destructiva de la cadera o posible fractura o luxación de cadera; podría
+  provocar desplazamiento significativo de fragmentos.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Desde decúbito supino, se rota al paciente ligeramente hacia el lado afectado
+  hasta una posición oblicua. El grado de oblicuidad depende de la capacidad
+  de abducción del paciente.
+
+posicion_region: >
+  Se ajusta el cuerpo del paciente y se centra la cadera afectada en la línea
+  media de la rejilla.
+  Se pide al paciente que flexione la rodilla afectada y desplace el muslo hacia
+  arriba hasta una posición casi perpendicular al hueso coxal.
+  Se mantiene la diáfisis del fémur afectado paralela a la mesa.
+  Se extiende el miembro contrario y se le colocan apoyos a la altura de la
+  cadera y bajo la rodilla.
+  Se rota la pelvis solo lo necesario para acomodar la flexión del muslo y
+  evitar la superposición del lado afectado.
+  Se centra el RI con el rayo central.
+  Respiración suspendida durante la exposición.
+
+rayo_central: >
+  MÉTODO DE LAUENSTEIN:
+  Perpendicular a través de la articulación de la cadera, localizada en el punto
+  medio entre la EIAS y la sínfisis del pubis.
+
+  MÉTODO DE HICKEY:
+  Con angulación cefálica de 20 a 25°, dirigido a través de la articulación de
+  la cadera en el punto medio entre la EIAS y la sínfisis del pubis.
+
+anatomia_visible: >
+  Proyección lateral de la cadera incluyendo el acetábulo, el extremo proximal
+  del fémur y la relación entre la cabeza femoral y el acetábulo.
+
+criterios_calidad: >
+  La articulación de la cadera centrada en la radiografía.
+  La articulación de la cadera, el acetábulo y la cabeza femoral demostrados.
+  MÉTODO DE LAUENSTEIN: el cuello femoral superpuesto al trocánter mayor.
+  MÉTODO DE HICKEY: el cuello femoral libre de superposiciones gracias a la
+  angulación cefálica.

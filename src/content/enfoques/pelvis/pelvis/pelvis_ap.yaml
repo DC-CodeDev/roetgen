@@ -1,0 +1,67 @@
+titulo: Pelvis AP
+region: pelvis
+subregion: pelvis
+orden: 1
+alias:
+  - pelvis frente
+  - frente de pelvis
+  - AP pelvis
+
+dato_clinico: >
+  Fracturas, luxaciones articulares, artropatías degenerativas y lesiones óseas
+  de la pelvis. Control de prótesis de cadera.
+  Advertencia: no intentar rotar las piernas hacia adentro en caso de fractura
+  o luxación de cadera; tomar la radiografía con la pierna afectada en la
+  posición en que se encuentra.
+
+receptor: >
+  35x43 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino sobre la mesa.
+
+posicion_region: >
+  Se centra el plano medio sagital del cuerpo en la línea media de la rejilla y
+  se ajusta en posición verdadera de decúbito supino.
+  De no estar contraindicado por traumatismo o factores patológicos, se rotan
+  internamente los pies y la parte inferior de las extremidades de 15 a 20°
+  para situar los cuellos femorales paralelos al plano del RI. La rotación
+  interna es más fácil de mantener si se apoyan las rodillas. Los talones deben
+  estar separados entre 20 y 24 cm.
+  Se compara la distancia entre las EIAS y la mesa a cada lado para confirmar
+  que la pelvis no está rotada.
+  Se centra el RI en el punto medio entre las EIAS y la sínfisis del pubis,
+  aproximadamente 5 cm inferior a las EIAS y 5 cm por encima de la sínfisis
+  del pubis en pacientes de talla media.
+  Si la pelvis es profunda, se palpa la cresta iliaca y se ajusta el RI de forma
+  que su borde superior quede entre 2,5 y 4 cm por encima de la cresta
+  (2 dedos por encima de las crestas).
+  Nota: si el objetivo es el control de prótesis, el RI debe incluir la prótesis
+  en su totalidad, priorizando sobre la visualización de las crestas.
+
+rayo_central: >
+  Perpendicular al punto medio del RI, en el punto equidistante entre la EIAS
+  y la sínfisis del pubis.
+
+anatomia_visible: >
+  Proyección AP de la pelvis con la cabeza, el cuello, los trocánteres y el
+  tercio o cuarto proximal de la diáfisis de ambos fémures.
+
+criterios_calidad: >
+  Toda la pelvis junto con la parte proximal de los fémures.
+  Los trocánteres menores, si se visualizan, apreciables en el borde medial de
+  los fémures.
+  Los cuellos femorales en su extensión completa sin superposiciones.
+  Los trocánteres mayores de perfil.
+  Ambos iliacos equidistantes de los márgenes de la radiografía.
+  Ambos trocánteres equidistantes de los márgenes de la radiografía.
+  La parte inferior de la columna vertebral centrada en la imagen.
+  Los agujeros obturadores simétricos.
+  Las espinas isquiáticas demostradas de igual forma.
+  Las alas iliacas simétricas.
+  El sacro y el cóccix alineados con la sínfisis del pubis.

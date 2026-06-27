@@ -21,6 +21,22 @@ export async function getStaticPaths() {
 
       const regionEnfoques = allEnfoques.filter(e => e.data.region === region);
 
+      // Región plana: una sola subcarpeta → mostrar enfoques directamente
+      if (subregionSlugs.length === 1) {
+        const sub = subregionSlugs[0];
+        const enfoques = regionEnfoques
+          .filter(e => e.data.subregion === sub)
+          .sort((a, b) => (a.data.orden ?? 999) - (b.data.orden ?? 999))
+          .map(e => ({
+            titulo: e.data.titulo,
+            href: `/${region}/${sub}/${e.id.split('/').at(-1)}`,
+          }));
+        return {
+          params: { region },
+          props: { regionNombre: getRegionName(region), subregiones: [], enfoques },
+        };
+      }
+
       const order = SUBREGION_ORDER[region];
       const sorted = order
         ? subregionSlugs.sort((a, b) => {
@@ -42,6 +58,7 @@ export async function getStaticPaths() {
         props: {
           regionNombre: getRegionName(region),
           subregiones,
+          enfoques: [],
         },
       };
     })
@@ -51,7 +68,7 @@ export async function getStaticPaths() {
 }
 
 const { region } = Astro.params;
-const { regionNombre, subregiones } = Astro.props;
+const { regionNombre, subregiones, enfoques } = Astro.props;
 
 const breadcrumb = [
   { label: 'Inicio', href: '/' },
@@ -67,17 +84,27 @@ const breadcrumb = [
   <div class="page-content">
     <h1 class="page-title">{regionNombre.toUpperCase()}</h1>
     <div class="divider"></div>
-    <div class="subregion-grid">
-      {subregiones.map((sub, i) => (
-        <a href={sub.href} class="rg-card" aria-label={sub.nombre} style={`--i: ${i}`}>
-          <span class="card-name">{sub.nombre.toUpperCase()}</span>
-          <span class="card-count">{sub.count} {sub.count === 1 ? 'enfoque' : 'enfoques'}</span>
-        </a>
-      ))}
-      {subregiones.length === 0 && (
-        <p class="empty-note">Sin subregiones disponibles</p>
-      )}
-    </div>
+    {enfoques.length > 0 ? (
+      <div class="enfoque-list">
+        {enfoques.map((enf, i) => (
+          <a href={enf.href} class="rg-card rg-card--flat" aria-label={enf.titulo} style={`--i: ${i}`}>
+            <span class="card-name">{enf.titulo.toUpperCase()}</span>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="subregion-grid">
+        {subregiones.map((sub, i) => (
+          <a href={sub.href} class="rg-card" aria-label={sub.nombre} style={`--i: ${i}`}>
+            <span class="card-name">{sub.nombre.toUpperCase()}</span>
+            <span class="card-count">{sub.count} {sub.count === 1 ? 'enfoque' : 'enfoques'}</span>
+          </a>
+        ))}
+        {subregiones.length === 0 && (
+          <p class="empty-note">Sin subregiones disponibles</p>
+        )}
+      </div>
+    )}
   </div>
 </PageLayout>
 
@@ -202,5 +229,24 @@ const breadcrumb = [
     color: var(--muted);
     grid-column: 1 / -1;
     padding: 20px 0;
+  }
+
+  /* ── Modo plano (región sin subregiones) ──────────────────── */
+
+  .enfoque-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .rg-card--flat {
+    min-height: 72px;
+    justify-content: center;
+    padding: 16px 20px;
+  }
+
+  .rg-card--flat .card-name {
+    font-size: 28px;
+    letter-spacing: 0.04em;
   }
 </style>

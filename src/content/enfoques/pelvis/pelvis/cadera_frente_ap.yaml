@@ -1,0 +1,58 @@
+titulo: Cadera Frente AP
+region: pelvis
+subregion: pelvis
+orden: 2
+alias:
+  - cadera AP
+  - frente de cadera
+  - AP cadera
+
+dato_clinico: >
+  Exploración postoperatoria o de seguimiento para evaluar el acetábulo, la
+  cabeza y el cuello femoral y el trocánter mayor, así como el estado y
+  colocación de cualquier aparato ortopédico existente.
+  Advertencia: no intentar rotar las piernas en caso de sospecha de fractura.
+
+receptor: >
+  24x30 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino.
+
+posicion_region: >
+  Se ajusta la pelvis del paciente de forma que no esté rotada, situando las
+  EIAS equidistantes de la mesa.
+  Se colocan los brazos en posición cómoda.
+  De no estar contraindicado, se rota internamente el miembro inferior y el pie
+  aproximadamente 15 a 20° para colocar el cuello femoral paralelo al plano
+  del RI.
+  Se coloca un apoyo bajo la rodilla y un saco de arena sobre el tobillo para
+  facilitar que el paciente mantenga la posición.
+  El borde superior del RI se sitúa 2 dedos por encima de las EIAS.
+  Respiración suspendida durante la exposición.
+
+rayo_central: >
+  Perpendicular al cuello femoral.
+  El cuello femoral puede localizarse aproximadamente 3 a 5 cm por dentro y
+  8 a 10 cm distal a la EIAS.
+
+anatomia_visible: >
+  La cabeza, el cuello, los trocánteres y el tercio proximal de la diáfisis del
+  fémur. Cualquier aparato ortopédico existente debe ser visible en su
+  totalidad.
+
+criterios_calidad: >
+  La cabeza femoral penetrada y visible a través del acetábulo.
+  Las regiones del ilion y los huesos del pubis que conforman la sínfisis.
+  Cualquier dispositivo ortopédico en su totalidad.
+  La articulación de la cadera.
+  El trocánter mayor de perfil.
+  Todo el eje longitudinal del cuello femoral sin acortamiento.
+  El tercio proximal del fémur.
+  El trocánter menor no proyectado por fuera del borde medial del fémur, o
+  solo visible una mínima parte del mismo.
