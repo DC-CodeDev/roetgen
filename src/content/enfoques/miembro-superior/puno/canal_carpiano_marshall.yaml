@@ -1,0 +1,59 @@
+titulo: Método de Marshall — Canal Carpiano Inferosuperior
+region: miembro-superior
+subregion: puno
+orden: 8
+alias:
+  - Canal carpiano inferosuperior Marshall
+  - Túnel carpiano Marshall
+  - Marshall canal carpiano
+
+dato_clinico: >
+  Síndrome del túnel carpiano. El método de Marshall es una variante del
+  método de Gaynor Hart indicada cuando el paciente no puede asumir o
+  mantener la posición de hiperextensión de muñeca requerida por Gaynor
+  Hart. Permite obtener una imagen similar del canal carpiano con menor
+  exigencia de dorsiflexión. El canal carpiano es fácilmente palpable en la
+  zona palmar de la muñeca como la concavidad entre el trapecio en la parte
+  lateral y el gancho del ganchoso y el pisiforme en la medial. Indicado ante
+  sospecha de calcificaciones anormales, alteraciones óseas o fracturas de
+  la apófisis unciforme del ganchoso, pisiforme y trapecio que comprometan
+  el nervio mediano.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa. Existe un ligero grado de magnificación por el aumento
+  de la distancia objeto-receptor (DORI) respecto al método de Gaynor Hart,
+  debido a la interposición de la esponja de apoyo.
+
+posicion_paciente: >
+  Se hace que el paciente flexione dorsalmente la muñeca tanto como le sea
+  tolerable y que se incline hacia adelante con el fin de situar el canal
+  carpiano tangente al receptor.
+
+posicion_region: >
+  Cuando la flexión dorsal de la muñeca se ve limitada, Marshall sugirió la
+  colocación de una esponja de ángulo de 45° bajo la superficie palmar de
+  la mano. Con ello se eleva ligeramente la muñeca con el fin de situar el
+  canal carpiano tangente al rayo central.
+
+rayo_central: >
+  Tangencial al canal carpiano a la altura del punto medio de la muñeca.
+  Se angula entre 20° y 35° hacia la mano en relación al eje longitudinal
+  del antebrazo.
+
+anatomia_visible: >
+  Huesos del carpo dispuestos en arco. Pisiforme de perfil y libre de
+  superposiciones. Gancho del ganchoso. Totalidad de los huesos del carpo.
+  Los criterios de imagen son equivalentes a los del método de Gaynor Hart.
+
+criterios_calidad: >
+  Los huesos del carpo dispuestos en arco. El pisiforme de perfil y libre de
+  superposiciones. El gancho del ganchoso visible. Todos los huesos del carpo
+  incluidos. Densidad y contraste óptimos con trabeculación ósea nítida y
+  bordes definidos, sin movilidad. Nota: se acepta un ligero grado de
+  magnificación inherente al método por el aumento de la DORI.

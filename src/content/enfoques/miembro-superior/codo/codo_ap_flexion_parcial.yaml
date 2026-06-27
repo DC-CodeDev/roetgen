@@ -1,0 +1,72 @@
+titulo: Codo — AP Traumatismo Flexión Parcial
+region: miembro-superior
+subregion: codo
+orden: 3
+alias:
+  - AP codo flexión parcial
+  - Codo AP traumatismo
+  - AP codo traumático
+
+dato_clinico: >
+  Fractura o luxación de codo, así como otros trastornos como osteomielitis
+  y artritis, en pacientes que no pueden extender completamente el codo por
+  dolor o lesión. Cuando el paciente no puede extender completamente el codo
+  resulta fácil realizar la proyección lateral; sin embargo hay que obtener dos
+  proyecciones AP separadas para evitar distorsiones: una centrada en el
+  húmero distal y otra centrada en el antebrazo proximal. Cada una o ambas
+  pueden integrar el par radiológico junto al perfil según el caso clínico.
+
+receptor: >
+  24x30 cm transversal. Se utiliza un receptor por cada proyección (húmero
+  distal y antebrazo proximal).
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  HUMERO DISTAL: Se sienta al paciente lo suficientemente bajo como para
+  permitir que todo el húmero quede en un mismo plano horizontal. Se coloca
+  apoyo para el antebrazo elevado.
+  ANTEBRAZO PROXIMAL: Se sienta al paciente en el extremo de la mesa en
+  decúbito supino o sentado, con el antebrazo apoyado sobre el receptor y el
+  codo en el grado de flexión que tolere el paciente.
+
+posicion_region: >
+  HUMERO DISTAL: Si es posible se supina la mano. Se coloca el receptor bajo
+  el codo y se centra en el área del cóndilo humeral. El húmero debe quedar
+  paralelo al receptor.
+  ANTEBRAZO PROXIMAL: Se coloca el receptor bajo el antebrazo proximal y
+  se centra en la articulación del codo. Si es posible se supina la mano. El
+  antebrazo debe quedar paralelo al receptor.
+
+rayo_central: >
+  HUMERO DISTAL: Perpendicular al húmero, atravesando la articulación del
+  codo. En función del grado de flexión se angula el RC en sentido distal a
+  la articulación para compensar la inclinación del antebrazo.
+  ANTEBRAZO PROXIMAL: Perpendicular al antebrazo, atravesando la
+  articulación del codo. En función del grado de flexión se angula el RC en
+  sentido proximal para compensar la inclinación del húmero.
+
+anatomia_visible: >
+  HUMERO DISTAL: Húmero distal sin rotación ni distorsión. Radio proximal
+  superpuesto al cúbito. Articulación del codo cerrada. Gran acortamiento de
+  la parte proximal del antebrazo. Trabeculación ósea del húmero distal.
+  ANTEBRAZO PROXIMAL: Parte proximal del radio y cúbito sin rotación ni
+  distorsión. Cabeza, cuello y tuberosidad radial ligeramente superpuestos
+  al cúbito proximal. Articulación del codo parcialmente abierta. Húmero
+  distal acortado. Trabeculación ósea del antebrazo proximal. Estructuras
+  visibles: tróclea, cóndilo, cabeza radial, cúbito proximal, tuberosidad radial.
+
+criterios_calidad: >
+  HUMERO DISTAL: Húmero distal sin rotación ni distorsión. Radio proximal
+  superpuesto al cúbito. Articulación del codo cerrada. Acortamiento del
+  antebrazo proximal por la flexión. Trabeculación ósea nítida en el húmero
+  distal.
+  ANTEBRAZO PROXIMAL: Radio y cúbito proximales sin rotación ni distorsión.
+  Cabeza, cuello y tuberosidad radial ligeramente superpuestos al cúbito
+  proximal. Articulación del codo parcialmente abierta. Húmero distal
+  acortado. Trabeculación ósea nítida en el antebrazo proximal. Densidad y
+  contraste óptimos en ambas proyecciones, sin movilidad.

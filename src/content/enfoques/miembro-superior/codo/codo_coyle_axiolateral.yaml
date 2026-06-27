@@ -1,0 +1,87 @@
+titulo: Método de Coyle — Codo Axiolateral Cabeza Radial y Apófisis Coronoides
+region: miembro-superior
+subregion: codo
+orden: 7
+alias:
+  - Coyle codo
+  - Axiolateral codo Coyle
+  - Codo axiolateral cabeza radial coronoides
+
+dato_clinico: >
+  Fracturas y luxaciones del codo, especialmente de la cabeza del radio y de
+  la apófisis coronoides, en pacientes que no pueden extender el codo. El
+  método de Coyle fue diseñado específicamente para evaluar el codo
+  traumatizado con flexión forzada. Sustituye a las proyecciones oblicuas de
+  codo (AP oblicua rotación medial y rotación externa) cuando el paciente no
+  puede extender el miembro. Permite obtener dos imágenes diferenciadas en
+  una misma sesión: una centrada en la cabeza radial (codo 90°) y otra
+  centrada en la apófisis coronoides (codo 80°), modificando únicamente la
+  angulación del RC.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa (sedestación) o en posición vertical (supino por
+  traumatismo).
+
+posicion_paciente: >
+  A) Sedestación: paciente sentado en el extremo de la mesa lo
+  suficientemente bajo como para colocar las articulaciones del húmero,
+  codo y muñeca en el mismo plano horizontal.
+  B) Supino por traumatismo: paciente en decúbito supino sobre la camilla.
+  Se eleva el húmero distal sobre una esponja radiotransparente. Se coloca
+  el receptor en posición vertical centrado en la articulación del codo.
+  Epicóndilo y epitróclea deben quedar aproximadamente perpendiculares al
+  receptor. Puede resultar necesario un ayudante en función de la gravedad
+  del traumatismo.
+
+posicion_region: >
+  A) Sedestación: se prona la mano y se flexiona el codo 90° para demostrar
+  la cabeza radial, o 80° para visualizar la apófisis coronoides. Se centra el
+  receptor sobre la articulación del codo. En pacientes musculosos se eleva
+  la muñeca para situar el antebrazo paralelo al receptor.
+  B) Supino por traumatismo: se flexiona lentamente el codo 90° para
+  demostrar la cabeza radial u 80° para la apófisis coronoides. Se gira la
+  mano de forma que la superficie palmar se dirija en sentido medial.
+
+rayo_central: >
+  A) Sedestación:
+  Cabeza radial: dirigido hacia el hombro con una angulación de 45° respecto
+  a la cabeza radial. El RC entra en la articulación a mitad del codo.
+  Apófisis coronoides: dirigido alejándose del hombro con una angulación de
+  45° hacia la apófisis coronoides. El RC entra por la articulación a mitad
+  del codo.
+  B) Supino por traumatismo:
+  Cabeza radial: RC horizontal dirigido en sentido cefálico con una angulación
+  de 45° respecto a la cabeza radial, entrando en la articulación a mitad del
+  codo.
+  Apófisis coronoides: RC horizontal dirigido en sentido caudal con una
+  angulación de 45° respecto a la apófisis coronoides, entrando en la
+  articulación a mitad del codo.
+
+anatomia_visible: >
+  CABEZA RADIAL (codo 90°): articulación del codo abierta entre la cabeza
+  radial y el cóndilo humeral. Cabeza, cuello y tuberosidad radiales en perfil
+  y libres de superposición, con excepción de una pequeña porción de la
+  apófisis coronoides. Epicóndilo y epitróclea distorsionados por la angulación
+  del RC. Tuberosidad radial con vista posterior.
+  APOFISIS CORONOIDES (codo 80°): articulación del codo abierta entre la
+  apófisis coronoides y la tróclea. Apófisis coronoides de perfil y elongada.
+  Cabeza y cuello radiales superpuestos al cúbito.
+
+criterios_calidad: >
+  CABEZA RADIAL: espacio articular abierto entre la cabeza radial y el
+  cóndilo humeral. Cabeza, cuello y tuberosidad radiales en perfil y libres de
+  superposición (excepto pequeña porción de coronoides). Epicóndilo y
+  epitróclea distorsionados por angulación del RC. Tuberosidad radial en
+  vista posterior. Codo flexionado 90°. Partes blandas y trabeculación ósea
+  con densidad y contraste óptimos, sin movilidad.
+  APOFISIS CORONOIDES: espacio articular abierto entre la apófisis
+  coronoides y la tróclea. Apófisis coronoides de perfil y elongada. Cabeza
+  y cuello radiales superpuestos al cúbito. Codo flexionado 80°. Partes
+  blandas y trabeculación ósea con densidad y contraste óptimos, sin
+  movilidad.

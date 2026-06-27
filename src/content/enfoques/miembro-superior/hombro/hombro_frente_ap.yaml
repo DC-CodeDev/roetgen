@@ -1,0 +1,63 @@
+titulo: Hombro Frente AP
+region: miembro-superior
+subregion: hombro
+orden: 1
+alias:
+  - Hombro AP
+  - Hombro frente rotación interna y externa
+
+dato_clinico: >
+  Fracturas y luxaciones del húmero proximal y la cintura escapular. Depósitos
+  de calcio en músculos, tendones o estructuras de las bolsas sinoviales.
+  Osteoporosis y artrosis. Advertencia: no se debe intentar rotar el brazo si se
+  sospecha fractura o luxación.
+
+receptor: >
+  24x30 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada; intermedia si es un hombro grande. Bucky.
+
+posicion_paciente: >
+  Paciente en bipedestación o en decúbito (la bipedestación suele ser menos
+  dolorosa si el estado del paciente lo permite). Rotar ligeramente el cuerpo
+  hacia el lado afectado de 35 a 45° para colocar el hombro en contacto con el
+  RI o con el tablero de la mesa.
+
+posicion_region: >
+  Centrar la articulación escapulohumeral en el centro del RI. Según la rotación
+  requerida: Rotación externa (Merrill): abducir ligeramente el brazo extendido y
+  supinar la mano; rotar el brazo hacia afuera hasta que el epicóndilo y la
+  epitróclea queden paralelos al RI; sitúa el hombro y el húmero en posición
+  anatómica verdadera. Rotación neutra (Merrill): pedir al paciente que apoye la
+  palma de la mano sobre el muslo; el epicóndilo y la epitróclea quedan a unos
+  45° respecto al RI. Rotación interna (Merrill): pedir al paciente que flexione
+  ligeramente el codo, rotar internamente el brazo y apoyar el dorso de la mano
+  sobre la cadera; epicóndilo y epitróclea perpendiculares al RI. Interlinea
+  glenohumeral-coracoides (frente neutro): angulación del tronco 35 a 45° hacia
+  el lado a radiografiar, abducir ligeramente el brazo en rotación neutra.
+
+rayo_central: >
+  Tejadillo: angulación del tubo de 15 a 20° caudal, dirigido a 2,5 cm por debajo
+  de la apófisis coracoides (referencia: unos 2 cm por debajo de la porción
+  externa de la clavícula). Respiración suspendida durante la exposición.
+
+anatomia_visible: >
+  Proyección AP del húmero proximal y dos tercios laterales de la clavícula y
+  escápula superior, incluida la relación de la cabeza humeral con la cavidad
+  glenoidea. Rotación externa: troquiter completamente de perfil en la cara
+  externa del húmero proximal; troquín superpuesto a la cabeza humeral.
+  Rotación interna: troquín de perfil en la cara interna de la cabeza humeral;
+  troquiter superpuesto sobre la cabeza humeral.
+
+criterios_calidad: >
+  Articulación escapulohumeral centrada en el RC y en el RI. Rotación externa
+  completa evidenciada por el troquiter de perfil en la cara externa del húmero
+  proximal. Rotación interna completa evidenciada por el troquín de perfil en la
+  cara interna de la cabeza humeral. Colimación visible en los cuatro lados del
+  área del hombro afectado; RC y centro del campo de colimación en la
+  articulación escapulohumeral. Densidad y contraste óptimos con patrón
+  trabecular óseo claro y nítido y detalle de partes blandas para posibles
+  depósitos de calcio, sin movilidad.

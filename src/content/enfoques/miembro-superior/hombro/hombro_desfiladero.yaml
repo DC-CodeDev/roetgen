@@ -1,0 +1,59 @@
+titulo: Hombro — Desfiladero (Salida del Supraespinoso)
+region: miembro-superior
+subregion: hombro
+orden: 3
+alias:
+  - Desfiladero del hombro
+  - Salida del supraespinoso
+  - Outlet view hombro
+
+dato_clinico: >
+  Omalgia, calcificaciones en el tendón del músculo supraespinoso. Esta
+  proyección visualiza específicamente el arco coracoacromial para la región
+  de la salida del supraespinoso en busca de un posible pinzamiento del
+  hombro (síndrome de impingement). También demuestra fracturas y
+  luxaciones del húmero proximal y de la escápula. La imagen tangencial
+  de la salida demuestra la superficie posterior del acromion y la articulación
+  acromioclavicular, identificada como el límite superior de la salida
+  coracoacromial. El par radiológico es frente de hombro en rotación interna
+  y rotación externa.
+
+receptor: >
+  24x30 cm transversal. Con Bucky.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Con Bucky.
+
+posicion_paciente: >
+  Paciente en bipedestación o en decúbito.
+
+posicion_region: >
+  Con el paciente frente al receptor, se rota a una posición oblicua anterior
+  equivalente a la de una lateral de escápula: oblicuidad de 45° a 60°. Se
+  palpan los bordes escapulares para determinar la rotación correcta y se
+  verifica que la espina escapular quede perpendicular al receptor. Se centra
+  la articulación escapulohumeral al RC y al centro del receptor. Se abduce
+  ligeramente el brazo para que el húmero proximal no se superponga a las
+  costillas; no intentar rotar el brazo.
+
+rayo_central: >
+  Angulación caudal de 10° a 15° incidiendo a nivel del acromion.
+
+anatomia_visible: >
+  Imagen tangencial de la salida coracoacromial: superficie posterior del
+  acromion y articulación acromioclavicular como límite superior de la salida.
+  La cabeza humeral proyectada por debajo de la articulación AC. Húmero
+  proximal y cuerpo de la escápula generalmente paralelos. El espacio
+  delimitado por la clavícula, el acromion y la glena queda definido por la
+  angulación caudal del RC.
+
+criterios_calidad: >
+  La cabeza humeral proyectada por debajo de la articulación AC. La cabeza
+  humeral y la articulación AC con detalle óseo. El húmero y el cuerpo de
+  la escápula generalmente paralelos. Colimación ajustada: no es necesario
+  incluir tanto húmero en la radiografía, se diafragma considerablemente más
+  que en una lateral escapular estándar. Densidad y contraste óptimos con
+  trabeculación ósea nítida y bordes definidos, sin movilidad. Respiración
+  suspendida durante la exposición.

@@ -1,0 +1,48 @@
+titulo: Enfoque de Rockwood — Hombro
+region: miembro-superior
+subregion: hombro
+orden: 8
+alias:
+  - Rockwood hombro
+  - AP caudal hombro Rockwood
+  - Rockwood acromion
+
+dato_clinico: >
+  Exostosis, acromion en forma de pico y extracalcificación subacromial.
+  El enfoque de Rockwood es complementario del desfiladero: se indica
+  cuando en la proyección de desfiladero se identifica un acromion en forma
+  de gancho que requiere mejor caracterización morfológica. Permite evaluar
+  la superficie inferior del acromion y el espacio subacromioclavicular con
+  mayor detalle que el desfiladero estándar, siendo útil para planificar
+  intervenciones sobre el arco coracoacromial.
+
+receptor: >
+  24x30 cm transversal. Con Bucky.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Con Bucky de pared.
+
+posicion_paciente: >
+  Paciente en bipedestación, erguido de espaldas al receptor (Bucky de pared).
+
+posicion_region: >
+  Paciente erguido de espaldas al receptor con los brazos a los lados del
+  cuerpo. Se centra el hombro afectado al receptor y al RC.
+
+rayo_central: >
+  Angulado 30° caudal, incidiendo en la articulación acromioclavicular del
+  hombro afectado. Respiración suspendida.
+
+anatomia_visible: >
+  Relación escapulohumeral y acromioclavicular (AC), acromion, clavícula y
+  apófisis coracoides. El espacio subacromioclavicular despejado. La
+  articulación AC proyectada en visión caudal que permite evaluar la
+  morfología del acromion.
+
+criterios_calidad: >
+  Espacio subacromioclavicular abierto y libre de superposición. Articulación
+  escapulohumeral cerrada. Articulación AC abierta. Densidad y contraste
+  óptimos con trabeculación ósea nítida y bordes definidos, sin movilidad.
+  Respiración suspendida durante la exposición.

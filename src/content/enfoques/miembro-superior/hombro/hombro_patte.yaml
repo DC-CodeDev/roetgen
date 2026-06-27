@@ -1,0 +1,54 @@
+titulo: Enfoque de Patte — Perfil Glenoideo Superoinferior
+region: miembro-superior
+subregion: hombro
+orden: 6
+alias:
+  - Patte hombro
+  - Perfil glenoideo Patte
+  - Superoinferior glenoideo
+
+dato_clinico: >
+  Luxación residente, lesión de Bankart y posoperatorio de hombro. El enfoque
+  de Patte proporciona una imagen superoinferior del perfil glenoideo que
+  permite demostrar los 2/3 salientes de la glena, conocidos como la "copita",
+  cuya presencia evidencia la lesión de Bankart en el reborde anteroinferior
+  de la glena. Indicado en el seguimiento posquirúrgico de luxaciones de
+  hombro recidivantes y en la evaluación de luxaciones residentes donde
+  otras proyecciones no logran caracterizar el compromiso del reborde glenoideo.
+
+receptor: >
+  24x30 cm longitudinal. Con Bucky.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Con Bucky.
+
+posicion_paciente: >
+  Paciente en decúbito lateral con el lado afectado en contacto con el Bucky
+  de pared, con el brazo levantado en la vertical. Como alternativa puede
+  colocarse la palma de la mano en contacto con la cabeza. También puede
+  realizarse en bipedestación.
+
+posicion_region: >
+  Con la articulación glenohumeral en el centro del receptor, se realiza la
+  posición descripta. Se puede desplazar levemente el cuerpo hacia adelante
+  con el fin de despejar el área de incidencia del RC y evitar superposición
+  de estructuras. Se coloca el borde superior del receptor unos 5 cm por
+  encima del hombro.
+
+rayo_central: >
+  Angulado 30° caudal, incidiendo a nivel del acromion del lado afectado.
+
+anatomia_visible: >
+  Relación de la articulación escapulohumeral, espina escapular, acromion,
+  coracoides y parrilla costal. Los 2/3 salientes de la glena (copita) como
+  hallazgo específico de lesión de Bankart en el reborde anteroinferior de la
+  glena.
+
+criterios_calidad: >
+  Articulación escapulohumeral ligeramente abierta. Demostración de los 2/3
+  salientes de la glena (copita), que evidencia lesión de Bankart en el reborde
+  anteroinferior. Acromion visible como punto de referencia del RC. Densidad
+  y contraste óptimos con trabeculación ósea nítida y bordes definidos,
+  sin movilidad. Respiración suspendida durante la exposición.

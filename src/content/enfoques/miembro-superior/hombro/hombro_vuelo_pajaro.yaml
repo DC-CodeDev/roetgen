@@ -1,0 +1,70 @@
+titulo: Hombro — Proyección Superoinferior Axial (Vuelo de Pájaro)
+region: miembro-superior
+subregion: hombro
+orden: 4
+alias:
+  - Vuelo de pájaro hombro
+  - Perfil axilar hombro
+  - Superoinferior axial hombro
+
+dato_clinico: >
+  Patologías asociadas al troquín, luxaciones y hombro traumático. La
+  proyección superoinferior axial (vuelo de pájaro) proporciona una imagen
+  axial de la articulación glenohumeral que muestra la relación articular entre
+  el extremo proximal del húmero y la cavidad glenoidea. Permite visualizar
+  el troquín, la articulación acromioclavicular a través de la cabeza humeral
+  y la parte externa de la apófisis coracoides. También demuestra los puntos
+  de inserción del subescapular (cuerpo de la escápula-troquín) y el redondo
+  menor (borde axilar inferior). Cuando el paciente no puede realizar la
+  abducción del brazo requerida se utiliza como alternativa la proyección
+  axial de Velpeau.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal. Sin Bucky. El receptor se
+  coloca cerca del extremo de la mesa y en paralelo con el eje longitudinal
+  de esta, con la articulación del hombro centrada sobre su punto medio.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa, lo suficientemente elevado
+  como para permitir una buena extensión del hombro para su estudio sobre
+  el receptor.
+
+posicion_region: >
+  Se coloca el receptor cerca del extremo de la mesa y en paralelo con el
+  eje longitudinal de esta. Se hace al paciente inclinarse en sentido lateral
+  sobre el receptor hasta que la articulación del hombro quede sobre el punto
+  medio del receptor. Se apoya el codo sobre la mesa. Se flexiona el codo
+  del paciente 90° y se coloca la mano en posición de pronación. Se indica
+  al paciente que incline la cabeza hacia el lado no lesionado. Para lograr
+  una posición lateral directa de la cabeza del húmero se ajusta cualquier
+  inclinación anterior o posterior del cuerpo con el fin de situar epicóndilo
+  y epitróclea humerales en posición vertical.
+
+rayo_central: >
+  Angulado entre 5° y 15° a través de la articulación del hombro y hacia el
+  codo, incidiendo en el huequito que deja el músculo deltoides. Cuando el
+  paciente no puede extender bien el hombro sobre el receptor se necesita
+  un ángulo mayor. Respiración suspendida.
+
+anatomia_visible: >
+  Imagen axial superoinferior de la articulación glenohumeral. Relación
+  articular entre el extremo proximal del húmero y la cavidad glenoidea.
+  Articulación AC a través de la cabeza humeral. Parte externa de la apófisis
+  coracoides. Troquín visible. Puntos de inserción del subescapular
+  (cuerpo de la escápula-troquín) y del redondo menor (borde axilar inferior).
+  Se marca como perfil (es un perfil a 90°).
+
+criterios_calidad: >
+  Articulación escapulohumeral abierta (no abierta en flexibilidad limitada).
+  Apófisis coracoides proyectada por encima de la clavícula. Troquín visible.
+  Articulación AC demostrada a través de la cabeza humeral. Epicóndilo y
+  epitróclea humerales en posición vertical confirmando la posición lateral
+  directa de la cabeza humeral. Densidad y contraste óptimos con
+  trabeculación ósea nítida y bordes definidos, sin movilidad. Respiración
+  suspendida durante la exposición.

@@ -1,0 +1,53 @@
+titulo: Codo — Proyección AP Oblicua Rotación Externa
+region: miembro-superior
+subregion: codo
+orden: 5
+alias:
+  - Oblicua lateral de codo
+  - AP oblicua codo rotación externa
+  - Codo oblicua cabeza radial
+
+dato_clinico: >
+  Fracturas y luxaciones del codo, sobre todo de la cabeza y del cuello del
+  radio, así como otros trastornos como osteomielitis y artritis, patologías
+  del radio y epicondilitis lateral (codo de tenista). La rotación externa de
+  45° libera la cabeza y el cuello radial de la superposición del cúbito,
+  permitiendo su visualización de perfil. Es complementaria a la oblicua AP
+  de rotación medial, que por el contrario libera la apófisis coronoides.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa radiográfica con el brazo
+  extendido y en contacto con la mesa.
+
+posicion_region: >
+  Se extiende el brazo del paciente en posición para una proyección AP y se
+  centra el punto medio del receptor sobre la articulación del codo. Se rota
+  la mano en sentido lateral (externo) con el fin de situar la superficie
+  posterior del codo a un ángulo de 45° respecto al receptor. Cuando se
+  logra la rotación lateral adecuada, los dedos primero y segundo deben
+  tocar la mesa.
+
+rayo_central: >
+  Perpendicular a la articulación del codo.
+
+anatomia_visible: >
+  Proyección oblicua del codo con la cabeza y el cuello radiales libres de
+  superposición del cúbito. Estructuras visibles: cabeza, cuello y tuberosidad
+  radiales proyectados sin superposición del cúbito, cóndilo humeral de
+  perfil, articulación del codo abierta, partes blandas y trabeculación ósea.
+
+criterios_calidad: >
+  Cabeza, cuello y tuberosidad radiales proyectados sin la superposición del
+  cúbito. Cóndilo humeral de perfil. Articulación del codo abierta. Partes
+  blandas y trabeculación ósea con densidad y contraste óptimos, sin
+  movilidad. Verificación de la rotación adecuada: los dedos primero y
+  segundo deben tocar la mesa al momento del posicionamiento.

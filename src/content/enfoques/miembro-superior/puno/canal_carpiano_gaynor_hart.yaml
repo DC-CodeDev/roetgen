@@ -1,0 +1,73 @@
+titulo: Método de Gaynor Hart — Canal Carpiano Tangencial
+region: miembro-superior
+subregion: puno
+orden: 7
+alias:
+  - Túnel carpiano Gaynor Hart
+  - Canal carpiano tangencial
+  - Inferosuperior túnel carpiano
+
+dato_clinico: >
+  El canal carpiano contiene los tendones de los flexores de los dedos y el
+  nervio mediano. La compresión del nervio mediano produce dolor, parestesias
+  y déficit motor en los dedos inervados por este nervio (síndrome del túnel
+  carpiano). Esta radiografía se realiza para descartar calcificaciones anormales
+  y alteraciones óseas en el canal carpiano que puedan causar compromiso del
+  nervio mediano. El canal es fácilmente palpable en la zona palmar de la
+  muñeca como la concavidad entre el trapecio en la parte lateral y el gancho
+  del ganchoso y el pisiforme en la medial. La proyección tangencial resulta
+  de ayuda para identificar fracturas de la apófisis unciforme del ganchoso,
+  del pisiforme y del trapecio, estructuras que no son bien visualizadas en las
+  proyecciones estándar de puño.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa de forma que se pueda ajustar
+  el antebrazo para que quede paralelo al eje longitudinal de la mesa con
+  los dedos hacia arriba.
+
+posicion_region: >
+  Se hiperextiende la muñeca (dorsiflexión) y se centra el receptor en la
+  articulación situada a la altura de la apófisis estiloides radial. Como apoyo
+  se coloca una almohadilla bajo la parte inferior del antebrazo. Se ajusta
+  la posición de la mano para que su eje longitudinal quede tan vertical como
+  sea posible. Para evitar la superposición de las sombras del ganchoso y el
+  pisiforme, se rota ligeramente la mano hacia el lado radial 5° y así desplegar
+  el pisiforme del gancho del ganchoso. Se hace que el paciente sujete los
+  dedos con la mano contraria o se utiliza un dispositivo adecuado que
+  mantenga la muñeca en la posición de hiperextensión.
+  Variante de Marshall: cuando el paciente no puede asumir o mantener la
+  posición de Gaynor Hart, se coloca una esponja de 45° bajo la superficie
+  palmar de la mano para elevar ligeramente la muñeca y situar el canal
+  carpiano tangente al RC. Existe un ligero grado de magnificación por el
+  aumento de la distancia objeto-receptor (DORI).
+
+rayo_central: >
+  Dirigido a la palma de la mano, hacia un punto aproximadamente 2,5 cm
+  distal a la base del tercer metacarpiano, con una angulación de 25° a 30°
+  en relación con el eje longitudinal de la mano hiperextendida.
+  Cuando no se puede extender la muñeca hasta menos de 15° respecto a la
+  vertical (variante de McQuillen Martensen): el RC se alinea primero en
+  paralelo con la superficie palmar y después se angula 15° adicionales hacia
+  la palma. En la variante de Marshall: tangencial al canal carpiano a la altura
+  del punto medio de la muñeca, angulado entre 20° y 35° hacia la mano en
+  relación al eje longitudinal del antebrazo.
+
+anatomia_visible: >
+  Aspecto palmar del trapecio y su tuberosidad, escafoides, hueso grande,
+  gancho del ganchoso, piramidal y la totalidad del pisiforme. Los huesos del
+  carpo dispuestos en arco. El pisiforme de perfil y libre de superposiciones.
+
+criterios_calidad: >
+  Los huesos del carpo dispuestos en arco. El pisiforme de perfil y libre de
+  superposiciones. El gancho del ganchoso visible. Todos los huesos del carpo
+  incluidos en la imagen. Densidad y contraste óptimos con trabeculación ósea
+  nítida y bordes definidos, sin movilidad.

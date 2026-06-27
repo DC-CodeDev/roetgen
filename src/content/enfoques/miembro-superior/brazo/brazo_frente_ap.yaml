@@ -1,0 +1,57 @@
+titulo: Brazo Frente AP
+region: miembro-superior
+subregion: brazo
+orden: 1
+alias:
+  - Húmero frente
+  - Húmero AP
+
+dato_clinico: >
+  Fracturas y luxaciones del húmero y otros trastornos como osteoporosis y
+  artritis, búsqueda de lesiones o metástasis. Advertencia: no se debe intentar
+  rotar el brazo si se sospecha fractura o luxación. En pacientes
+  politraumatizados se realiza acostado y sin Bucky.
+
+receptor: >
+  35x43 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada. Permite ver el húmero proximal y distal con densidad adecuada.
+  Bucky.
+
+posicion_paciente: >
+  Paciente erguido o en decúbito supino. Ajustar la altura del chasis de modo que
+  las articulaciones del hombro y del codo equidisten de los extremos del receptor
+  de imagen.
+
+posicion_region: >
+  Rotar el cuerpo hacia el lado afectado hasta que el hombro y el húmero proximal
+  estén en contacto con el chasis. Alinear el húmero con el eje longitudinal del RI
+  (colocación diagonal si es necesario para incluir ambas articulaciones). Extender
+  la mano y el antebrazo hasta que el paciente lo tolere. Realizar ligera abducción
+  del brazo y suave supinación de la mano de modo que los epicóndilos del codo
+  equidisten del RI. Colimar en los lados hasta los bordes de partes blandas del
+  húmero y el hombro; el borde inferior debe incluir la articulación del codo y un
+  mínimo de 2,5 cm del antebrazo proximal.
+
+rayo_central: >
+  Perpendicular al RI, dirigido al punto medio del húmero.
+
+anatomia_visible: >
+  Proyección AP de todo el húmero, articulaciones del codo y hombro. Troquiter
+  de perfil lateralmente, cabeza humeral parcialmente en perfil medial con
+  superposición mínima de la cavidad glenoidea. Contorno del troquín. Ambos
+  epicóndilos (medial y lateral) de perfil en el húmero distal.
+
+criterios_calidad: >
+  El eje longitudinal del húmero alineado con el eje longitudinal del RI. Proyección
+  AP verdadera en húmero proximal evidenciada por el troquiter de perfil
+  lateralmente y cabeza humeral en perfil medial con superposición mínima de la
+  cavidad glenoidea. En húmero distal: ambos epicóndilos visualizados de perfil.
+  Bordes de colimación visibles en los bordes cutáneos a lo largo del húmero con
+  colimación mínima en ambos extremos. RC y centro del campo de colimación en
+  el punto medio del húmero. Densidad y contraste óptimos con bordes óseos
+  claros y patrón trabecular nítido en los extremos proximal y distal, sin
+  movilidad. Respiración suspendida durante la exposición.

@@ -1,0 +1,55 @@
+titulo: Puño — Frente PA con Desviación Cubital
+region: miembro-superior
+subregion: puno
+orden: 3
+alias:
+  - Frente de puño desviación cubital
+  - PA muñeca desviación cubital
+  - Desviación cubital de puño
+
+dato_clinico: >
+  Estudio del escafoides. La desviación cubital de la muñeca corrige el
+  acortamiento del escafoides que se produce con el rayo central perpendicular
+  en la proyección PA estándar, y abre los espacios entre los huesos del carpo
+  adyacentes permitiendo su visualización sin superposición. Indicada ante
+  sospecha de fractura de escafoides, ya que en la PA directa este hueso se
+  superpone sobre sí mismo. Forma parte del protocolo de inestabilidad carpal
+  junto con la PA, la PA con puño cerrado y la desviación radial.
+
+receptor: >
+  18x24 cm longitudinal o transversal para incluir dos proyecciones en el
+  mismo receptor.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa radiográfica con el brazo y el
+  antebrazo a 90° apoyados sobre ella.
+
+posicion_region: >
+  Se coloca la muñeca sobre el receptor para una proyección PA. Con una mano
+  sobre la articulación para fijarla, se desplaza el codo alejándolo del cuerpo
+  del paciente y posteriormente se inclina la mano hacia afuera hasta que la
+  muñeca se encuentre en desviación cubital extrema.
+
+rayo_central: >
+  Perpendicular al escafoides. Una delimitación clara requiere en ocasiones
+  una angulación del RC de 10° a 15° en sentido proximal o distal.
+
+anatomia_visible: >
+  Escafoides desplegado sin acortamiento y con sus articulaciones adyacentes
+  abiertas. Huesos del carpo del lado lateral de la muñeca, especialmente
+  trapecio y escafoides. La desviación cubital extrema queda de manifiesto
+  por el ángulo formado entre los ejes longitudinales del antebrazo y los ejes
+  longitudinales de los metacarpianos.
+
+criterios_calidad: >
+  Escafoides y articulaciones adyacentes abiertas. Ausencia de rotación de la
+  muñeca. Desviación cubital extrema demostrada por el ángulo entre el eje
+  longitudinal del antebrazo y el eje longitudinal de los metacarpianos.
+  Partes blandas adyacentes y trabeculación ósea con densidad y contraste
+  óptimos, sin movilidad.

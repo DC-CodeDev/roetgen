@@ -1,0 +1,53 @@
+titulo: Método de Alexander — Articulación Acromioclavicular AP Axial
+region: miembro-superior
+subregion: hombro
+orden: 10
+alias:
+  - Alexander articulación AC
+  - AP axial acromioclavicular Alexander
+  - Alexander hombro AC
+
+dato_clinico: >
+  Luxación acromioclavicular. El método de Alexander proporciona una
+  proyección AP axial de la articulación acromioclavicular (AC) con angulación
+  cefálica que proyecta dicha articulación por encima del acromion,
+  despejándola de la superposición que presenta en la proyección AP estándar.
+  Es un enfoque bilateral pero no simultáneo: se realiza por separado en
+  cada hombro para permitir la comparación entre el lado afectado y el
+  contralateral, facilitando la cuantificación del grado de luxación AC.
+
+receptor: >
+  24x30 cm transversal. Con Bucky de pared.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Con Bucky de pared.
+
+posicion_paciente: >
+  Paciente incorporado, sentado o en bipedestación, con la espalda apoyada
+  sobre el Bucky de pared.
+
+posicion_region: >
+  Se hace que el paciente apoye su espalda sobre el Bucky de pared, sentado
+  o en bipedestación. Se centra el hombro afectado sobre el Bucky. Se ajusta
+  la altura del receptor de forma que su punto medio se encuentre a la altura
+  de la articulación AC. Se ajusta la posición del paciente para centrar la
+  coracoides al RC. Es un enfoque bilateral, no simultáneo.
+
+rayo_central: >
+  Angulación cefálica de 15°, dirigido hacia la coracoides. Esta angulación
+  proyecta la articulación AC por encima del acromion. Respiración suspendida.
+
+anatomia_visible: >
+  Articulación AC proyectada ligeramente elevada en comparación con la
+  proyección PA estándar. Articulación AC y clavícula proyectadas por encima
+  del acromion. Relación entre clavícula, articulación AC, acromion, apófisis
+  coracoides y cabeza humeral.
+
+criterios_calidad: >
+  Articulación AC y clavícula proyectadas por encima del acromion. Articulación
+  AC visible con algunos tejidos blandos y sin densidad excesiva. Coracoides
+  centrada como punto de referencia del RC. Densidad y contraste óptimos
+  con trabeculación ósea nítida y bordes definidos, sin movilidad. Respiración
+  suspendida durante la exposición.

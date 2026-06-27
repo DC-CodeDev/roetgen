@@ -1,0 +1,55 @@
+titulo: Hombro — Proyección Axial de Velpeau
+region: miembro-superior
+subregion: hombro
+orden: 7
+alias:
+  - Velpeau hombro
+  - Axial Velpeau
+  - Alternativa vuelo de pájaro
+
+dato_clinico: >
+  Indicada cuando el paciente no puede realizar el vuelo de pájaro por no
+  poder efectuar la abducción del brazo, generalmente por tener un vendaje
+  de Velpeau u otra inmovilización que restringe el movimiento del miembro
+  superior. Esta proyección demuestra con claridad el desplazamiento
+  posterior de la cabeza humeral sin necesidad de abducir el brazo del
+  paciente. Es la alternativa directa al vuelo de pájaro en contexto de
+  traumatismo o posoperatorio con inmovilización.
+
+receptor: >
+  24x30 cm longitudinal. Sin Bucky. El receptor se apoya sobre la mesa de
+  estudio, o si es posible se utiliza un Bucky de pared móvil.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky de rutina; puede utilizarse Bucky de
+  pared móvil si está disponible.
+
+posicion_paciente: >
+  Paciente sentado e inclinado, o en bipedestación e inclinado, apoyándose
+  sobre el borde de la mesa. La inclinación del paciente es de aproximadamente
+  30° con respecto al Bucky de mesa o vertical.
+
+posicion_region: >
+  Con el chasis apoyado sobre la mesa de estudio, o utilizando un Bucky de
+  pared móvil, se coloca al paciente en la posición descrita. Se inclina el
+  paciente aproximadamente 30° con respecto al receptor. Se centra el hombro
+  lesionado al receptor.
+
+rayo_central: >
+  Perpendicular a la cabeza humeral. Respiración suspendida.
+
+anatomia_visible: >
+  Imagen axial del hombro que demuestra el desplazamiento posterior de la
+  cabeza humeral sin necesidad de abducir el brazo. El borde externo de la
+  espina escapular se continúa con el acromion, aunque no tan cóncavo como
+  en la visualización de la radiografía de vuelo de pájaro.
+
+criterios_calidad: >
+  El borde externo de la espina escapular se continúa con el acromion, no
+  tan cóncavo como en el vuelo de pájaro. Cabeza humeral centrada y
+  demostración del desplazamiento posterior cuando existe. Inclinación del
+  paciente de aproximadamente 30° verificada. Densidad y contraste óptimos
+  con trabeculación ósea nítida y bordes definidos, sin movilidad. Respiración
+  suspendida durante la exposición.

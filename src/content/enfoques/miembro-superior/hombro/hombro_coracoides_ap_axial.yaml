@@ -1,0 +1,59 @@
+titulo: Apófisis Coracoides — Proyección AP Axial
+region: miembro-superior
+subregion: hombro
+orden: 11
+alias:
+  - Coracoides AP axial
+  - AP axial coracoides
+  - Proyección coracoides
+
+dato_clinico: >
+  Fractura de la apófisis coracoides. Por lo general si se solicita este enfoque
+  específico es por fractura. Se reconocen tres tipos: Tipo 1, fractura a nivel
+  de la base de la apófisis; Tipo 2, fractura a nivel del ápice de la apófisis;
+  Tipo 3, fractura ligamentosa entre el ligamento coracoclavicular y el ligamento
+  coracoacromial. La coracoides, por estar curvada sobre sí misma, produce
+  una pequeña sombra ovalada en la proyección AP directa de hombro,
+  dificultando la visualización de fracturas. La angulación cefálica del RC
+  logra una imagen inferosuperior ligeramente elongada de la apófisis,
+  desplegándola y permitiendo su caracterización.
+
+receptor: >
+  24x30 cm transversal. Con Bucky.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Con Bucky. Respiración suspendida al final de
+  la espiración para que la densidad sea más uniforme.
+
+posicion_paciente: >
+  Paciente en decúbito supino con los brazos a lo largo de los lados del cuerpo.
+
+posicion_region: >
+  Se ajusta la posición del cuerpo y se centra la apófisis coracoides afectada
+  sobre la zona media de la rejilla. Se coloca el receptor de forma que su
+  punto medio coincida con el RC. Se ajustan los hombros para que queden
+  en un mismo plano horizontal. Se abduce ligeramente el brazo del lado
+  afectado y se supina la mano.
+
+rayo_central: >
+  Angulación cefálica de 15° a 45°, dirigido para que entre en la apófisis
+  coracoides. Kwak, Espinella y Katton recomendaron un ángulo de 30°.
+  El grado de angulación depende de la morfología de la espalda del paciente:
+  los pacientes con hombros redondeados requieren mayor angulación que
+  aquellos con espalda más recta. Respiración suspendida al final de la
+  espiración.
+
+anatomia_visible: >
+  Imagen inferosuperior ligeramente elongada de la apófisis coracoides libre
+  de superposición sobre sí misma. La coracoides mínimamente superpuesta
+  sobre sí misma. La clavícula ligeramente superpuesta a la coracoides.
+
+criterios_calidad: >
+  Coracoides mínimamente superpuesta sobre sí misma. Clavícula ligeramente
+  superpuesta a la coracoides. Ambos hombros en el mismo plano horizontal.
+  Brazo del lado afectado en ligera abducción con mano supinada. Densidad
+  y contraste óptimos con trabeculación ósea nítida y bordes definidos, sin
+  movilidad. Respiración suspendida al final de la espiración para uniformidad
+  de densidad.

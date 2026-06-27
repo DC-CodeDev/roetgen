@@ -1,0 +1,48 @@
+titulo: Puño — Proyección Oblicua AP (Rotación Medial)
+region: miembro-superior
+subregion: puno
+orden: 6
+alias:
+  - Oblicua AP puño
+  - AP oblicua rotación medial muñeca
+  - Oblicua medial de puño
+
+dato_clinico: >
+  Fractura de pisiforme. La proyección AP oblicua con rotación medial despeja
+  el pisiforme de las superposiciones que presenta en la proyección PA estándar,
+  donde se superpone sobre el piramidal. Esta proyección permite visualizar
+  el pisiforme de forma individual, así como su articulación con el piramidal
+  y su relación con el ganchoso.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal para obtener dos imágenes.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa. Se pide al paciente que apoye
+  el antebrazo sobre la mesa en posición supina.
+
+posicion_region: >
+  Se coloca el receptor bajo la muñeca y se centra sobre la superficie dorsal
+  de la muñeca. Se rota la muñeca en sentido medial (interno) hasta lograr
+  una posición de semisupinación de aproximadamente 45° respecto al receptor.
+
+rayo_central: >
+  Perpendicular a la zona media del carpo, penetra por la superficie anterior
+  de la muñeca a mitad de camino entre los bordes medial y lateral.
+
+anatomia_visible: >
+  Pisiforme despejado de superposición con el piramidal y visualizable de
+  forma individual. Ganchoso, piramidal y semilunar en proyección oblicua.
+  Huesos del carpo del lado medial de la muñeca en semisupinación de 45°.
+
+criterios_calidad: >
+  Pisiforme claramente visualizado y libre de superposición con el piramidal.
+  Oblicuidad de aproximadamente 45° demostrada por la posición del carpo.
+  Densidad y contraste óptimos con trabeculación ósea nítida y bordes
+  articulares definidos, sin movilidad.

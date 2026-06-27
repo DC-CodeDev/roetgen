@@ -1,0 +1,60 @@
+titulo: Húmero — Lateral Lateromedial con Rayo Horizontal Traumático
+region: miembro-superior
+subregion: brazo
+orden: 3
+alias:
+  - Húmero lateromedial traumático
+  - Lateral húmero rayo horizontal
+  - Húmero lateral traumatismo
+
+dato_clinico: >
+  Fracturas y luxaciones de húmero y otros trastornos como osteoporosis y
+  artritis, en paciente que no puede movilizar el miembro superior por
+  traumatismo. Esta proyección está indicada exclusivamente para el húmero
+  distal y medio; para el húmero proximal la proyección de elección es la
+  transtoráciaca lateral. Requiere además una proyección AP con rotación
+  neutra como complemento del par radiológico. La restricción de no intentar
+  rotar el brazo es crítica en contexto de traumatismo para evitar
+  desplazamiento de fragmentos.
+
+receptor: >
+  24x30 cm longitudinal o 35x43 cm longitudinal según morfología del paciente.
+  Sin Bucky. El chasis se coloca entre el brazo y el tórax con la parte superior
+  del receptor en la axila.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. RC horizontal. El receptor se coloca
+  verticalmente entre el brazo y el tórax del paciente recostado. Posibilidad
+  de realizar también en decúbito lateral.
+
+posicion_paciente: >
+  Paciente recostado en decúbito supino. Se coloca un soporte bajo el brazo
+  afectado. Si es posible se flexiona el codo, pero no se intenta la rotación
+  del brazo. La proyección debe formar un ángulo de 90° con la proyección AP.
+  También puede realizarse en decúbito lateral. Se solicita al paciente que
+  baje un poco el húmero (traccionarlo) para despejar el hombro.
+
+posicion_region: >
+  Se coloca suavemente el chasis entre el brazo y el tórax, con la parte
+  superior del receptor posicionada en la axila. El brazo afectado permanece
+  en rotación neutra sin intentar ninguna rotación adicional. El receptor queda
+  en posición vertical paralelo al eje longitudinal del húmero.
+
+rayo_central: >
+  Perpendicular al punto medio de los dos tercios distales del húmero. El RC
+  es horizontal, perpendicular al receptor colocado entre el brazo y el tórax.
+
+anatomia_visible: >
+  Proyección lateral del húmero medio y distal, incluida la articulación del
+  codo. Los 2/3 distales del húmero en proyección lateral verdadera con el
+  codo flexionado 90° cuando sea posible.
+
+criterios_calidad: >
+  Han de visualizarse bien los 2/3 distales del húmero, articulación del codo
+  y 1/3 proximal del antebrazo. Codo flexionado 90° cuando sea posible. La
+  proyección forma un ángulo de 90° con la AP. Epicóndilos perpendiculares
+  al receptor. Densidad y contraste óptimos con trabeculación ósea nítida y
+  bordes corticales definidos, sin movilidad. Respiración suspendida durante
+  la exposición.

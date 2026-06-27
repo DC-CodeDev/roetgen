@@ -1,0 +1,57 @@
+titulo: Primer Dedo — Proyección Oblicua PA
+region: miembro-superior
+subregion: mano
+orden: 3
+alias:
+  - Oblicua del pulgar
+  - Oblicua PA del primer dedo
+
+dato_clinico: >
+  Fractura o luxación de las falanges distal y proximal del pulgar, del primer
+  metacarpiano y articulaciones asociadas. Artrosis de la articulación
+  carpometacarpiana (CMC) del primer dedo. Complementa la serie básica
+  (frente AP y perfil) del pulgar.
+
+receptor: >
+  18x24 cm longitudinal, o 24x30 cm transversal para incluir dos o más
+  imágenes. El receptor se divide según necesidad clínica para optimizar
+  el uso del chasis.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa de exploraciones con la palma
+  de la mano apoyada sobre el receptor de imagen.
+
+posicion_region: >
+  Con el pulgar en abducción, se sitúa la superficie palmar de la mano en
+  contacto con el receptor. Se desvía ligeramente la mano en sentido cubital.
+  Esta colocación relativamente natural sitúa el pulgar en posición oblicua.
+  Se alinea el eje longitudinal del pulgar con el eje longitudinal del receptor.
+  Se centra el receptor sobre la articulación MCF del primer dedo.
+
+rayo_central: >
+  Perpendicular al receptor de imagen, dirigido hacia la articulación
+  metacarpofalángica (MCF) del primer dedo. Se colima incluyendo la
+  totalidad del primer dedo (recuérdese que el pulgar comprende la
+  totalidad del primer metacarpiano).
+
+anatomia_visible: >
+  Proyección oblicua PA del pulgar: falanges distal y proximal, primer
+  metacarpiano, trapecio y articulaciones asociadas (IF y MCF). El área
+  entre el extremo distal del primer dedo y el trapecio queda demostrada.
+  Los espacios articulares IF y MCF deben aparecer abiertos. Partes blandas
+  y trabeculación ósea visibles.
+
+criterios_calidad: >
+  Rotación adecuada de las falanges, las partes blandas y el primer
+  metacarpiano, característica de la posición oblicua verdadera.
+  El área entre el extremo distal del primer dedo y el trapecio debe
+  quedar demostrada. Espacios articulares IF y MCF abiertos. Partes
+  blandas y trabeculación ósea con densidad y contraste óptimos, sin
+  movilidad. Colimación visible en los cuatro lados de la zona del pulgar,
+  con el rayo central centrado en la articulación MCF.

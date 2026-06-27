@@ -1,0 +1,72 @@
+titulo: Método de Roberts — Primera Articulación Carpometacarpiana
+region: miembro-superior
+subregion: mano
+orden: 4
+alias:
+  - Método de Robert
+  - AP axial primera CMC
+  - Proyección AP primera articulación CMC
+
+dato_clinico: >
+  La primera articulación carpometacarpiana (CMC) es la articulación en silla
+  de montar formada entre la base del primer metacarpiano y el trapecio. Por
+  su morfología y su rol en la pinza del pulgar, es una articulación
+  frecuentemente afectada por rizartrosis (artrosis de la primera CMC),
+  fracturas por impacto axial (fractura de Bennett: fractura-luxación del primer
+  metacarpiano; fractura de Rolando: fractura conminuta del primer metacarpiano)
+  y luxaciones traumáticas. El método de Roberts fue descrito en 1936 y permite
+  visualizar esta articulación libre de superposición de las partes blandas de
+  la mano. Lewis modificó el rayo central en 1988 y Long y Raffert lo
+  modificaron nuevamente en 1995 para mejorar la apertura del espacio articular.
+  Esta proyección no sustituye a la proyección inicial AP o PA del pulgar;
+  es un complemento específico.
+
+receptor: >
+  18x24 cm longitudinal, o 24x30 cm transversal para incluir dos o más
+  imágenes.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  El paciente se sienta de lado en el extremo de la mesa. Debe estar colocado
+  lo suficientemente bajo como para colocar el hombro, el codo y la muñeca
+  en un mismo plano horizontal. Todo el miembro debe encontrarse en el mismo
+  plano para evitar la elevación de los huesos del carpo y el cierre de la
+  primera articulación CMC.
+
+posicion_region: >
+  Se extiende el miembro recto sobre la mesa radiográfica. Se rota internamente
+  el brazo con el fin de situar la superficie posterior del pulgar sobre el
+  receptor, con la uña hacia abajo. Se coloca el pulgar en el centro del
+  receptor. La mano se hiperextiende de forma que las partes blandas de la
+  zona cubital no oculten la primera articulación CMC. Long y Raffert indican
+  que el paciente puede mantener los dedos hacia atrás con la otra mano.
+
+rayo_central: >
+  Método de Roberts: Perpendicular al receptor de imagen, incide en la primera
+  articulación carpometacarpiana.
+  Modificación de Lewis (1988): Se angula entre 10° y 15° en sentido craneal
+  a lo largo del eje longitudinal del pulgar, penetrando a través de la
+  articulación MCF del pulgar.
+  Modificación de Long y Raffert (1995): Se angula 15° en sentido craneal a
+  lo largo del eje longitudinal del pulgar, penetrando a través de la primera
+  articulación CMC.
+  La angulación tiene dos propósitos: proyectar las partes blandas de la mano
+  lejos de la primera articulación CMC y abrir el espacio articular cuando
+  no se logra con el RC perpendicular.
+
+anatomia_visible: >
+  La primera articulación CMC libre de superposición de las partes blandas
+  de la mano u otros elementos óseos. El primer metacarpiano con su base en
+  perfil convexo. El trapecio.
+
+criterios_calidad: >
+  La primera articulación CMC debe quedar libre de superposición de la mano
+  u otros elementos óseos. El primer metacarpiano debe mostrarse con su base
+  en perfil convexo. El trapecio debe ser claramente visible. Densidad y
+  contraste óptimos con trabeculación ósea nítida y bordes articulares
+  definidos, sin movilidad.

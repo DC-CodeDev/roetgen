@@ -1,0 +1,61 @@
+titulo: Método de Jones — Codo PA Flexión Aguda
+region: miembro-superior
+subregion: codo
+orden: 6
+alias:
+  - Codo PA flexión aguda
+  - Jones codo
+  - PA codo flexión completa
+
+dato_clinico: >
+  Fracturas y luxaciones del codo en flexión aguda, fracturas de olécranon.
+  El método de Jones está indicado cuando el paciente no puede o no debe
+  extender el codo, ya sea por dolor, por bloqueo mecánico de la articulación
+  o porque la extensión está contraindicada por riesgo de desplazamiento de
+  fragmentos. Al colocar el antebrazo sobre el receptor con el codo en flexión
+  completa y los dedos apoyados en el hombro, el RC pasa perpendicular al
+  húmero mostrando el húmero distal con sus epicóndilos sin distorsión.
+  Variante: cuando lo que interesa ver es el antebrazo proximal, se realiza el
+  antebrazo proximal en flexión aguda, con el RC perpendicular al antebrazo
+  angulado en sentido craneal, incidiendo 5 cm por encima del olécranon.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa con el codo en flexión completa
+  (de no estar contraindicado). Dedos apoyados en el hombro.
+
+posicion_region: >
+  Se centra el receptor proximal al área epicondílea del húmero. Los ejes
+  longitudinales del brazo y del antebrazo deben quedar paralelos al eje
+  longitudinal del receptor. Se ajusta el brazo para evitar rotaciones,
+  dejando los epicóndilos paralelos al receptor.
+
+rayo_central: >
+  Perpendicular al húmero, incidiendo en el punto medio entre ambos
+  cóndilos, aproximadamente 5 cm superior al olécranon.
+  Variante antebrazo proximal: RC perpendicular al antebrazo, angulado en
+  sentido craneal de forma que entre perpendicular al antebrazo, incidiendo
+  5 cm por encima del olécranon.
+
+anatomia_visible: >
+  Húmero distal con sus epicóndilos sin rotación ni distorsión. El olécranon
+  proyectado sobre la fosa olecraniana del húmero. El antebrazo proximal
+  con el radio superpuesto al cúbito por efecto de la flexión aguda. En la
+  variante de antebrazo proximal: parte proximal del radio y cúbito sin
+  rotación ni distorsión, con la articulación del codo parcialmente abierta
+  y el húmero distal acortado.
+
+criterios_calidad: >
+  Húmero distal sin rotación ni distorsión, con los epicóndilos paralelos al
+  receptor. Olécranon visible dentro de la fosa olecraniana. Ejes
+  longitudinales del brazo y antebrazo paralelos al eje longitudinal del
+  receptor. Densidad y contraste óptimos con trabeculación ósea nítida y
+  bordes corticales definidos, sin movilidad.

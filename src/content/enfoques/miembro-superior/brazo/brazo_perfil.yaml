@@ -1,0 +1,55 @@
+titulo: Brazo Perfil
+region: miembro-superior
+subregion: brazo
+orden: 2
+alias:
+  - Húmero perfil
+  - Húmero lateral
+
+dato_clinico: >
+  Fracturas y luxaciones del húmero y otros trastornos como osteoporosis,
+  artritis, búsqueda de lesiones o metástasis. Advertencia: no se debe intentar
+  rotar el brazo si se sospecha fractura o luxación.
+
+receptor: >
+  35x43 cm o 24x35 cm dependiendo del paciente, longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada. Bucky.
+
+posicion_paciente: >
+  Paciente erguido o en decúbito supino, ya sea en proyección lateromedial o
+  mediolateral. Ajustar la altura del chasis de modo que las articulaciones del
+  codo y del hombro equidisten de los extremos del RI.
+
+posicion_region: >
+  Lateromedial: colocar al paciente erguido y de espaldas al receptor de imagen
+  con el codo parcialmente flexionado. Rotar el cuerpo hacia el lado afectado lo
+  suficiente para que el húmero y el hombro estén en contacto con el chasis.
+  Rotar internamente el brazo según sea necesario; los epicóndilos deben estar
+  perpendiculares al RI. Mediolateral: colocar al paciente de frente al RI en
+  posición oblicua de 20 a 30° a partir de la PA hasta que el húmero esté en
+  estrecho contacto con el RI; flexionar el codo 90°. Colimar en los cuatro lados
+  hasta los bordes de partes blandas del húmero, asegurando que se incluyan las
+  articulaciones del hombro y el codo.
+
+rayo_central: >
+  Perpendicular al RI, dirigido al punto medio del húmero.
+
+anatomia_visible: >
+  Proyección lateral de todo el húmero, incluidas las articulaciones del codo y
+  del hombro. Troquín de perfil medialmente con superposición parcial de la
+  parte inferior de la cavidad glenoidea. Troquiter superpuesto a la cabeza
+  humeral.
+
+criterios_calidad: >
+  Proyección lateral evidenciada por epicóndilos directamente superpuestos,
+  troquín de perfil medialmente y superposición parcial de la parte inferior de la
+  cavidad glenoidea. Troquiter superpuesto a la cabeza humeral. Articulaciones
+  del codo y hombro incluidas. Bordes de colimación visibles en los bordes
+  cutáneos a lo largo del húmero con colimación mínima en ambos extremos. RC
+  y centro del campo de colimación en el punto medio del húmero. Densidad y
+  contraste óptimos con bordes óseos claros y patrón trabecular nítido en todo
+  el húmero, sin movilidad. Respiración suspendida durante la exposición.

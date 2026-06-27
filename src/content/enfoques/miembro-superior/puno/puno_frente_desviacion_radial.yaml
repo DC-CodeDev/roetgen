@@ -1,0 +1,52 @@
+titulo: Puño — Frente PA con Desviación Radial
+region: miembro-superior
+subregion: puno
+orden: 4
+alias:
+  - Frente de puño desviación radial
+  - PA muñeca desviación radial
+  - Desviación radial de puño
+
+dato_clinico: >
+  Fractura de los huesos del carpo del lado cubital, especialmente semilunar,
+  piramidal, pisiforme y ganchoso. La desviación radial abre los espacios entre
+  los huesos del carpo del lado medial de la muñeca, permitiendo su
+  visualización sin superposición. Forma parte del protocolo de inestabilidad
+  carpal junto con la PA, la PA con puño cerrado y la desviación cubital.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal para incluir dos enfoques en
+  el mismo receptor.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa.
+
+posicion_region: >
+  Se coloca la muñeca sobre el receptor para una proyección PA. Se sitúa una
+  mano sobre la articulación de la muñeca para fijarla en posición. Se desplaza
+  el codo hacia el cuerpo del paciente y se inclina la mano en sentido medial
+  hasta que la muñeca se sitúe en desviación radial extrema.
+
+rayo_central: >
+  Perpendicular a la zona media del carpo.
+
+anatomia_visible: >
+  Huesos del carpo del lado medial de la muñeca con sus espacios articulares
+  abiertos: semilunar, piramidal, pisiforme y ganchoso. Espacio visible entre
+  el piramidal, el pisiforme y la apófisis estiloides del cúbito. La desviación
+  radial extrema queda de manifiesto por el ángulo formado entre los ejes
+  longitudinales del antebrazo y los ejes longitudinales de los metacarpianos.
+
+criterios_calidad: >
+  Los huesos del carpo y sus articulaciones en el lado medial de la muñeca
+  visibles y abiertos. Ausencia de rotación de la muñeca. Desviación radial
+  extrema demostrada por el ángulo entre el eje longitudinal del antebrazo y
+  el eje longitudinal de los metacarpianos. Espacio entre piramidal, pisiforme
+  y apófisis estiloides del cúbito visible. Partes blandas adyacentes y
+  trabeculación ósea con densidad y contraste óptimos, sin movilidad.

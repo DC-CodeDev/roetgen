@@ -1,0 +1,57 @@
+titulo: Método de Stryker — Hombro AP Axial
+region: miembro-superior
+subregion: hombro
+orden: 5
+alias:
+  - Stryker hombro
+  - AP axial hombro Stryker
+  - Hill Sachs Stryker
+
+dato_clinico: >
+  Lesión de Hill Sachs. Las luxaciones anteriores del hombro producen
+  frecuentemente defectos posteriores que afectan a la parte posterolateral
+  del húmero, conocidos como lesiones de Hill Sachs. Esta lesión puede
+  observarse en el frente de hombro con rotación interna; cuando se identifica
+  en esa proyección, se agrega el método de Stryker para su caracterización
+  específica. El método de Stryker proporciona una imagen AP axial que
+  demuestra con claridad el defecto posterolateral de la cabeza humeral
+  característico de esta lesión.
+
+receptor: >
+  24x30 cm longitudinal. Con Bucky.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Con Bucky.
+
+posicion_paciente: >
+  Paciente en decúbito supino sobre la mesa radiográfica.
+
+posicion_region: >
+  Con la coracoides del hombro afectado centrada en la mesa, se pide al
+  paciente que flexione ligeramente el brazo por encima de los 90° y que
+  coloque la palma de la mano sobre la parte superior de la cabeza con las
+  yemas de los dedos apoyadas en la cabeza. Esta posición de la mano sitúa
+  al húmero en una posición de ligera rotación interna. Se ajusta el cuerpo
+  del húmero para que quede vertical y paralelo al plano medio sagital del
+  cuerpo.
+
+rayo_central: >
+  Angulado 10° en sentido cefálico, entrando en la coracoides del hombro
+  afectado. Respiración suspendida.
+
+anatomia_visible: >
+  Imagen AP axial del húmero proximal con demostración del defecto
+  posterolateral de la cabeza humeral característico de la lesión de Hill
+  Sachs. Relación de la cabeza humeral con la cavidad glenoidea y la
+  coracoides.
+
+criterios_calidad: >
+  Defecto posterolateral de la cabeza humeral visible y caracterizable. La
+  coracoides centrada como punto de referencia del RC. El húmero paralelo
+  al plano medio sagital del cuerpo. Palma de la mano apoyada sobre la
+  cabeza con las yemas de los dedos en contacto, confirmando la ligera
+  rotación interna del húmero. Densidad y contraste óptimos con
+  trabeculación ósea nítida y bordes definidos, sin movilidad. Respiración
+  suspendida durante la exposición.

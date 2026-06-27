@@ -1,0 +1,73 @@
+titulo: Método de Fisk — Corredera Bicipital Tangencial
+region: miembro-superior
+subregion: hombro
+orden: 9
+alias:
+  - Fisk corredera bicipital
+  - Tangencial corredera bicipital
+  - Modificación de Fisk
+
+dato_clinico: >
+  Patologías de la corredera bicipital, como proyecciones óseas del troquín
+  y del troquíter. Calcificaciones en el tendón del bíceps. La corredera
+  bicipital (surco intertubercular) es el canal óseo situado entre el troquín
+  y el troquíter por donde discurre el tendón de la porción larga del bíceps.
+  Su estudio tangencial permite detectar irregularidades óseas de sus
+  paredes, estenosis del canal y calcificaciones del tendón bicipital que no
+  son visibles en las proyecciones estándar de hombro.
+
+receptor: >
+  24x30 cm transversal. Sin Bucky. El receptor se apoya sobre la superficie
+  superior del hombro (técnica estándar) o sobre la cara anterior del antebrazo
+  sostenido por el paciente (modificación de Fisk).
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. La modificación de Fisk emplea una
+  mayor distancia objeto-receptor (DORI) respecto a la técnica estándar en
+  supino, lo que genera un ligero grado de magnificación.
+
+posicion_paciente: >
+  TECNICA ESTANDAR: paciente en decúbito supino, sentado o en
+  bipedestación. Para mejorar el centraje se indica al paciente que extienda
+  la barbilla o rote la cabeza en sentido contrario al lado afectado.
+  MODIFICACION DE FISK: paciente ubicado en el extremo de la mesa en
+  bipedestación.
+
+posicion_region: >
+  TECNICA ESTANDAR: con el paciente en decúbito supino, se palpa la
+  superficie anterior del hombro para localizar la corredera bicipital. Con la
+  mano del paciente en supinación, se sitúa el receptor apoyado sobre la
+  superficie superior del hombro.
+  MODIFICACION DE FISK: se indica al paciente que flexione el codo y se
+  incline hacia adelante lo suficiente como para situar la superficie posterior
+  del antebrazo sobre la mesa. El paciente sostiene y agarra el receptor,
+  apoyándolo sobre la cara anterior del antebrazo. Se coloca un saco de
+  arena u otro material para mantener el receptor en posición horizontal.
+  Se hace al paciente inclinarse hacia adelante o hacia atrás según sea
+  necesario con el fin de situar el húmero vertical con una angulación de
+  10° a 15°.
+
+rayo_central: >
+  TECNICA ESTANDAR: angulado entre 10° y 15° caudal (hacia el húmero)
+  con el paciente en decúbito supino.
+  MODIFICACION DE FISK: perpendicular al receptor cuando el paciente está
+  inclinado hacia adelante y el húmero queda vertical con una angulación de
+  10° a 15°. Respiración suspendida en ambas variantes.
+
+anatomia_visible: >
+  Imagen tangencial de la corredera bicipital libre de la superposición de
+  las estructuras circundantes. El surco intertubercular perfilado entre el
+  troquín y el troquíter. Partes blandas con visualización de la corredera
+  bicipital. En la modificación de Fisk la clavícula se superpone un poco
+  más que en la técnica estándar.
+
+criterios_calidad: >
+  Corredera bicipital de perfil y libre de superposición. Partes blandas
+  visibles con una visualización mejorada de la corredera bicipital. En la
+  modificación de Fisk la clavícula aparece ligeramente más superpuesta
+  que en la técnica estándar, lo que es un hallazgo esperado y no un error
+  de posicionamiento. Densidad y contraste óptimos con trabeculación ósea
+  nítida y bordes definidos, sin movilidad. Respiración suspendida durante
+  la exposición.

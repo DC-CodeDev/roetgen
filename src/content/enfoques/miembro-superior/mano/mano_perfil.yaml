@@ -1,0 +1,63 @@
+titulo: Mano — Proyección Perfil
+region: miembro-superior
+subregion: mano
+orden: 3
+alias:
+  - Perfil de mano
+  - Lateral de mano
+  - Mano lateral
+
+dato_clinico: >
+  Desplazamiento de fracturas de metacarpianos y localización de cuerpos
+  extraños en la mano. Permite evaluar el desplazamiento anterior o posterior
+  de fracturas metacarpianas que no se aprecia en la proyección PA. También
+  útil para detectar desplazamiento en fracturas del radio y cubito distales:
+  fractura de Colles (desplazamiento posterior) y fractura de Smith
+  (desplazamiento anterior). Puede ser proyección par o complementaria
+  según el dato clínico.
+
+receptor: >
+  18x24 cm longitudinal, o 24x30 cm transversal para incluir dos imágenes.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa radiográfica con el antebrazo en
+  contacto con la mesa y la mano en posición lateral con el borde cubital hacia
+  abajo. Como alternativa se puede colocar el lado radial de la muñeca sobre
+  el receptor, aunque esta posición resulta más complicada para el paciente.
+
+posicion_region: >
+  Se extienden los dedos del paciente y se ajusta el primer dedo en
+  perpendicular respecto a la palma. Se coloca la superficie palmar
+  perpendicular al receptor de imagen. Se centra el receptor en las
+  articulaciones MCF y se ajusta de forma que su línea media quede paralela
+  al eje longitudinal de la mano y el antebrazo. Si la mano está apoyada sobre
+  la superficie cubital puede resultar necesaria la inmovilización del pulgar.
+  Modificación en abanico: para eliminar la superposición de las falanges se
+  colocan los dedos sobre una cuña esponjosa separándolos en abanico. Se
+  abduce el pulgar y se coloca sobre una esponja radiotransparente de apoyo.
+
+rayo_central: >
+  Perpendicular al receptor de imagen, dirigido a la articulación MCF del
+  segundo dedo.
+
+anatomia_visible: >
+  Proyección lateral de la mano en extensión: falanges superpuestas entre sí
+  (en la lateral de abanico se demuestran individualizadas), metacarpianos
+  superpuestos, región distal de radio y cubito superpuestos, dedos extendidos
+  y pulgar sin superposición. Cada metacarpiano puede delimitarse a través de
+  las sombras superpuestas de los demás. En la modificación en abanico las
+  falanges proximales quedan individualizadas.
+
+criterios_calidad: >
+  La mano se encuentra en posición lateral verdadera cuando se observa lo
+  siguiente: falanges superpuestas, metacarpianos superpuestos, superposición
+  de la parte distal de radio y cubito, dedos extendidos, pulgar sin movimiento
+  ni superposición y cada metacarpiano delimitado a través de las sombras
+  superpuestas de los demás. Densidad y contraste óptimos con trabeculación
+  ósea nítida y bordes óseos definidos, sin movilidad.

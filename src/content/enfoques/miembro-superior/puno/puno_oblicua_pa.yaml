@@ -1,0 +1,64 @@
+titulo: Puño — Proyección Oblicua PA
+region: miembro-superior
+subregion: puno
+orden: 5
+alias:
+  - Oblicua puño PA
+  - Oblicua lateral de muñeca
+  - Puño oblicuo
+
+dato_clinico: >
+  Fractura del radio o del cúbito distal, fracturas aisladas de apófisis
+  estiloides (del radio o del cúbito) y fracturas de huesos del carpo
+  individuales. También puede evidenciarse trastornos como osteomielitis
+  y artritis. Demuestra los huesos del carpo del lado lateral de la muñeca,
+  especialmente el trapecio y el escafoides, que se superpone sobre sí mismo
+  en la proyección PA directa. Cuando el dato clínico es fractura de escafoides,
+  puede realizarse la variante oblicua PA con desviación cubital para visualizar
+  el escafoides completamente desplegado.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal para incluir dos imágenes.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa con la axila en contacto con
+  la mesa.
+
+posicion_region: >
+  Se apoya la superficie palmar de la muñeca sobre el receptor. Se ajusta el
+  receptor de forma que su punto central quede bajo el escafoides cuando se
+  rote la muñeca desde la posición de pronación. Desde la posición de
+  pronación, se rota en sentido lateral la muñeca hasta que forme un ángulo
+  de 45° con el plano del receptor. Se extiende ligeramente la muñeca y si
+  los dedos no tocan la mesa se les coloca un apoyo.
+  Variante para escafoides: cuando se está estudiando el escafoides, se ajusta
+  además la muñeca en desviación cubital, lo que permite visualizar el puño
+  desde la parte externa con el escafoides desplegado. RC en este caso
+  perpendicular al escafoides.
+
+rayo_central: >
+  Perpendicular a la zona media del carpo, penetra inmediatamente distal
+  al carpo.
+
+anatomia_visible: >
+  Huesos del carpo del lado lateral de la muñeca, especialmente el trapecio
+  y la mitad distal del escafoides. Radio y cúbito distales, carpo y mitad
+  proximal de los metacarpianos. Espacios articulares trapeciotrapezoideo y
+  escafotrapecial abiertos. Solapamiento ligero de radio y cúbito distales
+  y espacio interóseo pequeño entre las diáfisis de los metacarpianos
+  3ro-4to y 4to-5to como indicadores de oblicuidad suficiente.
+
+criterios_calidad: >
+  Trapecio y mitad distal del escafoides bien visualizados. Radio y cúbito
+  distales, carpo y mitad proximal de los metacarpianos demostrados.
+  Espacios articulares trapeciotrapezoideo y escafotrapecial abiertos.
+  Oblicuidad suficiente confirmada por: espacio interóseo pequeño entre
+  las diáfisis de los metacarpianos 3ro-4to y 4to-5to, y solapamiento
+  ligero de radio y cúbito distales. Partes blandas y trabeculación ósea
+  con densidad y contraste óptimos, sin movilidad.

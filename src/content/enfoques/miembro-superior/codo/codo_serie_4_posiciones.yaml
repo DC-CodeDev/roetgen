@@ -1,0 +1,67 @@
+titulo: Codo — Perfil Cabeza Radial Lateromedial Serie de 4 Posiciones
+region: miembro-superior
+subregion: codo
+orden: 8
+alias:
+  - Serie 4 posiciones codo
+  - Cabeza radial 4 posiciones
+  - Lateromedial codo serie
+
+dato_clinico: >
+  Fracturas ocultas de la cabeza y/o cuello del radio. Indicada cuando la
+  proyección estándar de perfil no logra demostrar una fractura clínicamente
+  sospechada de la cabeza radial. Al realizar cuatro exposiciones con
+  diferentes grados de rotación de la mano, la cabeza radial se proyecta
+  en distintos sectores de rotación, permitiendo visualizar fragmentos o
+  líneas de fractura que en una sola posición quedarían superpuestos o
+  tangenciales al haz. La tuberosidad radial sirve como referencia de
+  rotación: aparece en vista anterior en las imágenes 1° y 2° y en vista
+  posterior en las imágenes 3° y 4°.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal. El receptor se desplaza
+  entre cada exposición para obtener las cuatro imágenes en un mismo
+  chasis o se utiliza un receptor por exposición según disponibilidad.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa. Se realizan cuatro exposiciones independientes,
+  desplazando el receptor entre cada una y manteniendo el codo fijo en
+  90° de flexión.
+
+posicion_paciente: >
+  Paciente sentado lo suficientemente bajo como para permitir que todo el
+  brazo quede en un mismo plano horizontal.
+
+posicion_region: >
+  Se flexiona 90° el codo, se centra la articulación sobre la parte no cubierta
+  del receptor y se sitúa la articulación en posición lateral.
+  Exposición 1: mano con tanta supinación como sea posible.
+  Exposición 2: mano en posición lateral (dedo pulgar hacia arriba). Se
+  desplaza el receptor antes de exponer.
+  Exposición 3: mano en pronación. Se desplaza el receptor antes de exponer.
+  Exposición 4: mano en rotación interna máxima, apoyada sobre la superficie
+  del pulgar. Se desplaza el receptor antes de exponer.
+
+rayo_central: >
+  Perpendicular a la articulación del codo en las cuatro exposiciones. El RC
+  no varía entre posiciones; la variable es únicamente la rotación de la mano.
+
+anatomia_visible: >
+  La cabeza radial proyectada en cuatro grados de rotación, mostrando
+  distintos sectores de su superficie articular. La tuberosidad radial en
+  vista anterior en las imágenes 1° y 2° y en vista posterior en las imágenes
+  3° y 4°. La cabeza radial parcialmente superpuesta con la apófisis
+  coronoides pero visible en las cuatro imágenes. Codo flexionado 90° en
+  todas las exposiciones.
+
+criterios_calidad: >
+  Tuberosidad radial en vista anterior en las imágenes 1° y 2°, y en vista
+  posterior en las imágenes 3° y 4°. Codo flexionado 90° en todas las
+  exposiciones. Cabeza radial parcialmente superpuesta con la apófisis
+  coronoides pero visible en todas las imágenes. Articulación del codo
+  centrada y en posición lateral en cada exposición. Densidad y contraste
+  óptimos con trabeculación ósea nítida y bordes definidos, sin movilidad
+  en ninguna de las cuatro exposiciones.

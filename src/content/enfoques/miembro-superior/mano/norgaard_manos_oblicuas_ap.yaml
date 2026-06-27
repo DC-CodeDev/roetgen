@@ -1,0 +1,71 @@
+titulo: Método de Norgaard — Manos Oblicuas AP
+region: miembro-superior
+subregion: mano
+orden: 5
+alias:
+  - AP oblicua de manos
+  - Posición del recogepelotas
+  - Norgaard
+
+dato_clinico: >
+  Artritis reumatoide, artrosis y estudios comparativos bilaterales. El método
+  de Norgaard, conocido también como la posición del recogepelotas, ayuda a
+  la detección de los cambios radiológicos precoces necesarios para el
+  diagnóstico de artritis reumatoide: contorno mal diferenciado simétrico y
+  sutil del hueso correspondiente a la inserción de la cápsula articular
+  dorsorradial en el extremo proximal de la primera falange de los cuatro
+  dedos, asociado a desmineralización ósea en el área subyacente. También
+  se recomienda para la demostración de fracturas de la base del quinto
+  metacarpiano y para visualizar el pisiforme desplegado. Par F según Clark.
+
+receptor: >
+  24x30 cm transversal. El receptor se utiliza completo para incluir ambas
+  manos en una sola exposición.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Sin Bucky. Exposición directa sobre el receptor
+  apoyado en la mesa. Estudio bilateral simultáneo: ambas manos se
+  radiografían en la misma exposición para permitir comparación directa.
+
+posicion_paciente: >
+  Paciente sentado en el extremo de la mesa. Norgaard recomendaba
+  radiografiar ambas manos en posición de semisupinación para poder
+  compararlas.
+
+posicion_region: >
+  Se hace que el paciente coloque las palmas de las manos juntas. Se centran
+  las articulaciones MCF de la zona medial de ambas manos sobre el receptor.
+  Ambas manos deben encontrarse en posición lateral. Se colocan dos esponjas
+  radiotransparentes de 45° como apoyo de la parte superior de cada mano.
+  Se extienden los dedos del paciente y se abducen ligeramente los pulgares
+  para evitar superposición sobre los dedos.
+  Variación (posición del recogepelotas): los dedos no se extienden sino que
+  permanecen curvados como si el paciente fuera a recoger una pelota. Se
+  logra información comparable en cualquiera de las dos posiciones. Esta
+  modificación distorsiona las articulaciones IF pero las articulaciones MCF
+  se visualizan igualmente bien.
+
+rayo_central: >
+  Perpendicular al receptor de imagen, dirigido a un punto a mitad de camino
+  entre ambas manos a la altura de las articulaciones MCF. Válido para
+  cualquiera de las dos posiciones.
+
+anatomia_visible: >
+  Proyección AP oblicua de 45° de ambas manos respecto al receptor. Ambas
+  manos desde la zona del carpo hasta la punta de los dedos. Las cabezas de
+  los metacarpianos libres de superposiciones. Hallazgo precoz de artritis
+  reumatoide: contorno mal diferenciado simétrico en la inserción de la cápsula
+  articular dorsorradial en el extremo proximal de la primera falange de los
+  cuatro dedos, con desmineralización ósea subyacente. El pisiforme se
+  aprecia desplegado.
+
+criterios_calidad: >
+  Ambas manos visibles desde el carpo hasta la punta de los dedos. Las
+  cabezas de los metacarpianos libres de superposiciones. Nivel de densidad
+  útil sobre las cabezas de los metacarpianos. Las articulaciones MCF bien
+  desplegadas. Nota: las cabezas de los metacarpianos quedan más
+  superpuestas que en la PA estándar, pero las articulaciones IF y MCF se
+  visualizan mejor desplegadas. Trabeculación ósea nítida y bordes definidos,
+  sin movilidad.

@@ -1,0 +1,68 @@
+titulo: Hombro — Perfil Escapular (Y de la Escápula)
+region: miembro-superior
+subregion: hombro
+orden: 2
+alias:
+  - Y escapular
+  - Perfil escapular hombro
+  - Lateral escapular
+
+dato_clinico: >
+  Traumatismo de hombro. Luxaciones de hombro: anteriores (subcoracoideas),
+  las más frecuentes con un 95%, y posteriores (subacromiales), menos
+  frecuentes con un 5%. Esta proyección descrita por Rubin, Gray y Green
+  recibe su nombre por el aspecto de la escápula en la imagen: el cuerpo
+  de la escápula constituye el componente vértice de la Y, mientras que el
+  acromion y la coracoides forman los dos brazos superiores. En un hombro
+  normal la cabeza humeral queda directamente superpuesta al centro de la Y.
+  En las luxaciones anteriores la cabeza humeral se sitúa por debajo de la
+  coracoides; en las posteriores se proyecta por debajo del acromion. El par
+  radiológico es hombro frente en rotación neutra.
+
+receptor: >
+  24x30 cm longitudinal. Con Bucky.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica homogeneizada. Con Bucky.
+
+posicion_paciente: >
+  Paciente preferentemente incorporado; si no se logra, en decúbito. Cuando
+  el paciente ha sufrido un traumatismo grave se modifica la posición oblicua
+  anterior colocando al paciente en posición oblicua posterior.
+
+posicion_region: >
+  Se sitúa la superficie anterior del hombro en estudio apoyada sobre el
+  Bucky vertical. Se rota al paciente de forma que el plano medio coronal
+  forme un ángulo de 45° a 60° con el receptor. La posición del brazo no es
+  fundamental porque no altera la relación entre la cabeza humeral y la
+  cavidad glenoidea. Se palpa la espina escapular y se coloca su superficie
+  plana perpendicular al receptor; a continuación se rota 5° hacia adelante
+  para situar la escápula perpendicular al receptor. Se coloca el receptor a
+  la altura de la articulación escapulohumeral.
+
+rayo_central: >
+  Angulación de 15° a 25° caudal, incidiendo en el medio de la escápula.
+  Respiración suspendida.
+
+anatomia_visible: >
+  Y escapular en imagen oblicua sobre el hombro: cuerpo de la escápula
+  como vértice de la Y, acromion y coracoides como brazos superiores. En
+  hombro normal la cabeza humeral superpuesta al centro de la Y. En luxación
+  anterior la cabeza humeral por debajo de la coracoides. En luxación
+  posterior la cabeza humeral por debajo del acromion. La clavícula, el
+  acromion y la glena delimitan el espacio formado por la angulación del RC.
+
+criterios_calidad: >
+  La cabeza humeral y la cavidad glenoidea superpuestas entre sí. La diáfisis
+  humeral y el cuerpo de la escápula superpuestos. Ausencia de superposición
+  del cuerpo de la escápula sobre el tórax óseo. El acromion proyectado en
+  sentido lateral y libre de superposiciones. La coracoides posiblemente
+  superpuesta o proyectada por debajo de la clavícula. La escápula en perfil
+  lateral con sus bordes laterales y vertebrales superpuestos. Nota de
+  lateralidad: la marca D se coloca del lado del acromion si es izquierdo y
+  del lado de la coracoides si es derecho. Referencia de rotación: cuanta
+  más clavícula se observe, mayor rotación anterior del paciente; cuanto
+  más acromion y menos clavícula, falta rotación hacia la posición lateral.
+  Densidad y contraste óptimos con trabeculación ósea nítida, sin movilidad.

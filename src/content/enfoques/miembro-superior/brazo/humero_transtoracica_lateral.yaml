@@ -1,0 +1,73 @@
+titulo: Húmero — Proyección Transtorácica Lateral Traumatismo
+region: miembro-superior
+subregion: brazo
+orden: 4
+alias:
+  - Transtorácica lateral húmero
+  - Lateral transtorácica traumatismo
+  - Húmero proximal traumático
+
+dato_clinico: >
+  Fracturas de la diáfisis del húmero y fracturas proximales del húmero en
+  paciente que no puede movilizar el miembro superior por traumatismo. Para
+  la proyección lateral transtorácica se necesita además una proyección AP
+  con rotación neutra como complemento del par radiológico. Esta proyección
+  está indicada para el húmero proximal y la diáfisis; para el húmero distal
+  la proyección de elección es la lateromedial con rayo horizontal. El RC
+  atraviesa el tórax de lado a lado para obtener una imagen lateral del
+  húmero afectado sin movilizar el miembro lesionado.
+
+receptor: >
+  35x43 cm longitudinal. Con Bucky. El espesor a considerar equivale a
+  2/3 de tórax más húmero.
+
+distancia: 100 cm
+
+tecnica: >
+  Técnica básica. Si el paciente colabora puede usarse un tiempo largo de
+  exposición o técnica de respiración (para difuminar las costillas y mejorar
+  la visualización del húmero). Con Bucky. El espesor es 2/3 de tórax y
+  húmero.
+
+posicion_paciente: >
+  Preferentemente en bipedestación con el lado de interés contra el receptor;
+  si no se logra, en decúbito supino. Con el paciente en decúbito supino se
+  sitúan las líneas del Bucky en horizontal y se centra el RC con la línea
+  central para prevenir el corte de la parrilla.
+
+posicion_region: >
+  Se coloca el brazo afectado al costado del paciente en rotación neutra y
+  se desciende el hombro si es posible (traccionar). Se eleva el otro brazo
+  y se coloca la mano sobre la parte superior de la cabeza, elevando el
+  hombro lo máximo posible para evitar superponer el hombro afectado. Se
+  centra la zona media de la diáfisis del húmero afectado y se centra el
+  receptor con el RC como proyectado a través del tórax. Se asegura que
+  el tórax esté en posición lateral verdadera o con ligera rotación anterior
+  del hombro no afectado para minimizar que las vértebras torácicas se
+  superpongan al húmero.
+
+rayo_central: >
+  Perpendicular al receptor, atravesando el tórax y dirigido al punto medio
+  de la diáfisis del húmero afectado. Si el paciente siente mucho dolor y no
+  puede bajar el hombro lesionado ni elevar el brazo y hombro no lesionados
+  lo suficientemente alto para prevenir la superposición de ambos hombros,
+  dirigir el RC con 10° a 15° de angulación craneal.
+
+anatomia_visible: >
+  Proyección lateral de la totalidad del húmero incluyendo las articulaciones
+  del codo y del hombro. Los epicóndilos directamente superpuestos en
+  posición lateral verdadera. El troquín de perfil medialmente. Superposición
+  parcial de la parte inferior de la cavidad glenoidea. El troquíter superpuesto
+  a la cabeza humeral.
+
+criterios_calidad: >
+  Los epicóndilos directamente superpuestos, evidenciando posición lateral
+  verdadera. El troquín visible de perfil medialmente. Superposición parcial
+  por la parte inferior de la cavidad glenoidea. El troquíter superpuesto a la
+  cabeza humeral. Articulaciones de codo y hombro incluidas. Los bordes de
+  colimación visibles en los bordes cutáneos a lo largo del húmero con
+  colimación mínima en ambos extremos para incluir las estructuras esenciales.
+  El RC y el centro del campo de colimación cerca del punto medio del húmero.
+  Densidad y contraste óptimos sin movimiento, con bordes óseos y patrón
+  trabecular nítidos en todo el húmero. Respiración suspendida o técnica de
+  respiración según colaboración del paciente.
