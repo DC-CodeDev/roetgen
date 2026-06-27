@@ -1,6 +1,7 @@
 export const REGION_NAMES: Record<string, string> = {
   'miembro-superior': 'Miembro Superior',
   'miembro-inferior': 'Miembro Inferior',
+  'pelvis': 'Pelvis',
   'torax': 'Tórax',
   'craneo': 'Cráneo',
   'abdomen': 'Abdomen',

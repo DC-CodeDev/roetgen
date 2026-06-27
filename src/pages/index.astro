@@ -18,11 +18,12 @@ const currentPath = Astro.url.pathname;
   <div class="page-content">
     <h1 class="page-title">REGIONES</h1>
     <div class="region-grid">
-      {regions.map(r => (
+      {regions.map((r, i) => (
         <a
           href={r.href}
           class:list={['rg-card', { 'rg-card--active': currentPath === r.href }]}
           aria-label={r.nombre}
+          style={`--i: ${i}`}
         >
           <span class="card-name">{r.nombre}</span>
         </a>
@@ -80,6 +81,11 @@ const currentPath = Astro.url.pathname;
 
   /* ── Card ──────────────────────────────────────────────────── */
 
+  @keyframes cardFadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
   .rg-card {
     aspect-ratio: 1 / 1.2;
     display: flex;
@@ -90,6 +96,9 @@ const currentPath = Astro.url.pathname;
     color: var(--text);
     text-decoration: none;
     transition: background 200ms ease, color 200ms ease, border-color 200ms ease;
+    opacity: 0;
+    animation: cardFadeIn 150ms ease-out forwards;
+    animation-delay: calc(var(--i) * 150ms);
   }
 
   @media (min-width: 1024px) {

@@ -224,10 +224,15 @@ const { title, description, breadcrumb = [] } = Astro.props;
     width: min(600px, calc(100vw - 32px));
     background: var(--bg);
     border: 1px solid var(--border);
-    max-height: calc(100vh - 120px);
+    max-height: 56px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    transition: max-height 300ms ease-in-out;
+  }
+
+  :global(.search-box:has(.search-results-list:not(:empty))) {
+    max-height: calc(100vh - 120px);
   }
 
   :global(.search-header) {
