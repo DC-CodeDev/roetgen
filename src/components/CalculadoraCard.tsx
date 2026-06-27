@@ -12,7 +12,6 @@ function calcularTecnica(constante: number, espesor: number, base: number) {
   const tecnicaHomo = Math.ceil(tecnicaInter * 1.15);
   const masHomo = parseFloat((masInter / 2).toFixed(1));
 
-  // Ultra chain: different espesor coefficient, then 5 × 1.15 steps (tecnicaUltra5)
   const ultraBase = Math.ceil(((espesor / 3) * 2) * 2 + constante);
   const masUltra = parseFloat((masBasica / 31.25).toFixed(1));
   const u1 = Math.ceil(ultraBase * 1.15);
@@ -132,9 +131,7 @@ function TabCompensar({ mas, setMas }: { mas: number; setMas: (v: number) => voi
   const [df, setDf] = useState('');
 
   function compensar() {
-    const diN = parseFloat(di) || 0;
-    const dfN = parseFloat(df) || 0;
-    const resultado = compensarDistancia(mas, diN, dfN);
+    const resultado = compensarDistancia(mas, parseFloat(di) || 0, parseFloat(df) || 0);
     setMas(parseFloat(resultado.toFixed(1)));
   }
 
@@ -165,8 +162,7 @@ function TabBucky({ mas, setMas }: { mas: number; setMas: (v: number) => void })
   const [factor, setFactor] = useState('');
 
   function calcular() {
-    const f = parseFloat(factor) || 0;
-    const resultado = calcularFactorBucky(mas, f);
+    const resultado = calcularFactorBucky(mas, parseFloat(factor) || 0);
     setMas(parseFloat(resultado.toFixed(1)));
   }
 
@@ -215,26 +211,32 @@ export default function CalculadoraCard() {
   const [tabActiva, setTabActiva] = useState<Tab>('tecnica');
 
   const tabs: { key: Tab; label: string }[] = [
-    { key: 'tecnica',   label: 'TÉCNICA'  },
+    { key: 'tecnica',   label: 'TÉCNICA'   },
     { key: 'compensar', label: 'DISTANCIA' },
-    { key: 'bucky',     label: 'BUCKY'    },
+    { key: 'bucky',     label: 'BUCKY'     },
   ];
 
   const hasValues = kvp !== 0 || mas !== 0;
 
   return (
     <div className="cc-card">
-      <div className="cc-readout-bar">
-        <div className="cc-readout">
-          <span className="cc-readout-label">kVp</span>
-          <span className="cc-readout-value">{hasValues ? String(kvp) : '—'}</span>
-        </div>
-        <div className="cc-readout">
-          <span className="cc-readout-label">mAs</span>
-          <span className="cc-readout-value">{hasValues ? mas.toFixed(1) : '—'}</span>
+      {/* Header: título + readout — siempre visible */}
+      <div className="cc-header">
+        <span className="cc-card-title">CALCULADORA</span>
+        <div className="cc-readouts">
+          <div className="cc-readout">
+            <span className="cc-readout-label">kVp</span>
+            <span className="cc-readout-value">{hasValues ? String(kvp) : '—'}</span>
+          </div>
+          <div className="cc-readout">
+            <span className="cc-readout-label">mAs</span>
+            <span className="cc-readout-value">{hasValues ? mas.toFixed(1) : '—'}</span>
+          </div>
         </div>
       </div>
-      <div className="cc-layout">
+
+      {/* Body: tabs | panel */}
+      <div className="cc-body">
         <nav className="cc-tabs" aria-label="Calculadora">
           {tabs.map(t => (
             <button
