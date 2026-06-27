@@ -1,0 +1,50 @@
+titulo: Calcáneo Lateral
+region: miembro-inferior
+subregion: pie
+orden: 7
+alias:
+  - perfil de calcáneo
+  - calcáneo perfil
+  - lateral de calcáneo
+
+dato_clinico: >
+  Traumatismo y lesiones óseas que afecten al calcáneo, el astrágalo y la
+  articulación astragalocalcánea. Muestra la extensión y alineación de las
+  fracturas.
+  Nota: si el dato clínico es talalgia o espina calcánea, se realiza perfil
+  bilateral en posición de buda o cada perfil individual.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino girado hacia el lado afectado hasta
+  que la pierna quede aproximadamente en lateral. Se puede colocar un apoyo
+  bajo la rodilla para mayor comodidad.
+
+posicion_region: >
+  Se ajusta el calcáneo en el centro del RI y se colima la región.
+  Se ajusta el RI de forma que su eje longitudinal quede paralelo a la superficie
+  plantar del talón.
+
+rayo_central: >
+  Perpendicular al calcáneo. Se centra aproximadamente 2,5 cm (2 dedos)
+  distal al maléolo medial, punto por el que el RC pasa a través de la
+  articulación subastragalina.
+
+anatomia_visible: >
+  Proyección lateral del calcáneo, el astrágalo y la articulación
+  astragalocalcánea. Muestra la cara posterior donde se observa la inserción
+  del tendón de Aquiles.
+
+criterios_calidad: >
+  El calcáneo de perfil en su totalidad.
+  La articulación subastragalina visible.
+  El peroné superpuesto a la parte posterior de la tibia.
+  La articulación tibioastragalina demostrada.
+  Densidad suficiente para demostrar los huesos del tarso.

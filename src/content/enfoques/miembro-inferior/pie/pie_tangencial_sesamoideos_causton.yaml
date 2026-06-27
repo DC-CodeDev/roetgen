@@ -1,0 +1,45 @@
+titulo: Método de Causton — Proyección Tangencial Axiolateral de Sesamoideos
+region: miembro-inferior
+subregion: pie
+orden: 4
+alias:
+  - Causton axiolateral
+  - tangencial axiolateral sesamoideos
+  - sesamoideos perfil pie
+
+dato_clinico: >
+  Sesamoiditis, traumatismo.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito lateral sobre el lado no afectado y se hace
+  que flexione las rodillas.
+
+posicion_region: >
+  Se extiende parcialmente el miembro que se está estudiando y se colocan
+  sacos de arena bajo la rodilla y el pie.
+  Se ajusta la altura de un saco de arena sobre la rodilla con el fin de situar el
+  pie en posición lateral, con la primera articulación MTF perpendicular al plano
+  horizontal del RI.
+  Se coloca el RI bajo la región distal de los metatarsianos y se ajusta de forma
+  que el punto central coincida con el RC.
+
+rayo_central: >
+  Dirigido a la prominencia de la primera articulación MTF con una angulación
+  de 40° hacia el talón.
+
+anatomia_visible: >
+  Proyección tangencial axiolateral de los huesos sesamoideos, proyectados
+  axiolateralmente con una ligera superposición.
+
+criterios_calidad: >
+  Los primeros sesamoideos MTF con mínima superposición entre sí.
+  El sesamoideo lateral proyectado más por detrás.
+  El sesamoideo lateral de menor tamaño que el medial.

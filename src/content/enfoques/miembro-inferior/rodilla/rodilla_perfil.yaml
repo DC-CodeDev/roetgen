@@ -1,0 +1,71 @@
+titulo: Rodilla Perfil
+region: miembro-inferior
+subregion: rodilla
+orden: 2
+alias:
+  - rodilla lateral
+  - perfil de rodilla
+  - rodilla mediolateral
+
+dato_clinico: >
+  Fracturas, lesiones y alteraciones del espacio articular de la rodilla.
+
+receptor: >
+  24x30 cm longitudinal.
+  Nota: si el diámetro de la rodilla supera los 15 cm, se utiliza Bucky.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Esta proyección puede obtenerse en dos modalidades:
+
+  RC HORIZONTAL: ideal para el paciente que no puede flexionar la rodilla por
+  dolor o traumatismo. Se emplea un haz horizontal con el RI colocado al lado
+  de la rodilla. Se coloca un apoyo en la rodilla para evitar cortar las
+  estructuras de partes blandas posteriores.
+
+  DECÚBITO LATERAL: para pacientes que pueden flexionar la rodilla de 20 a
+  30°. El paciente se coloca en decúbito lateral con el lado afectado hacia
+  abajo, almohada para la cabeza y apoyo bajo la rodilla de la extremidad
+  contraria para prevenir rotación excesiva.
+
+posicion_region: >
+  Se prefiere una flexión de 20 a 30° porque relaja los músculos y muestra el
+  máximo volumen de la cavidad articular.
+  En fracturas rotulianas recientes o no consolidadas, la rodilla no debe
+  flexionarse más de 10°.
+  Se coloca un soporte bajo el tobillo.
+  Se sujetan los epicóndilos y se ajustan para que queden perpendiculares al RI,
+  logrando la superposición de los cóndilos. La rótula quedará perpendicular al
+  plano del RI.
+
+rayo_central: >
+  Dirigido a la articulación de la rodilla, 2,5 cm distal al epicóndilo medial,
+  con una angulación de 5 a 7° en sentido cefálico. Esta ligera angulación evita
+  que el espacio articular quede oculto por la imagen magnificada del cóndilo
+  femoral medial, que en decúbito lateral queda ligeramente inferior al lateral.
+  Se centra el RI con el rayo central.
+
+anatomia_visible: >
+  Imagen lateral del extremo distal del fémur, la rótula, la articulación de la
+  rodilla, los extremos proximales de la tibia y el peroné, y las partes blandas
+  adyacentes.
+
+criterios_calidad: >
+  Los cóndilos femorales superpuestos. El tubérculo aductor de la superficie
+  posterior del cóndilo medial permite identificar dicho cóndilo y determinar
+  si la rodilla está poco o demasiado rotada; si se encuentra por detrás, falta
+  rotación.
+  El espacio articular abierto entre los cóndilos femorales y la tibia.
+  La rótula en perfil lateral.
+  El espacio articular femoropatelar abierto.
+  Ligera superposición de la cabeza peronea y la tibia. Un exceso de rotación
+  causa menos superposición; una rotación escasa ocasiona mayor superposición.
+  Si la cara anterior de la rodilla apoya más sobre la mesa, hay exceso de
+  rotación.
+  La rodilla flexionada de 20 a 30°.
+  Todas las partes blandas alrededor de la rodilla visibles.
+  Los cóndilos femorales con densidad adecuada.

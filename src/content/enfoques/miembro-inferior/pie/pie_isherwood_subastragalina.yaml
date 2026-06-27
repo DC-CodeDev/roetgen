@@ -1,0 +1,68 @@
+titulo: Método de Isherwood — Proyección AP Axial Oblicua de Articulación Subastragalina
+region: miembro-inferior
+subregion: pie
+orden: 8
+alias:
+  - Isherwood subastragalina
+  - oblicua axial seno del tarso
+  - AP axial oblicua subastragalina
+
+dato_clinico: >
+  Síndrome del seno del tarso.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente sentado sobre la mesa radiográfica, girado con el peso
+  corporal apoyado sobre la cadera flexionada y el muslo del lado no afectado.
+  Si resulta más cómoda una posición en decúbito semilateral, se ajusta al
+  paciente de acuerdo con ello.
+
+posicion_region: >
+  Se pide al paciente que rote la pierna y el pie en sentido medial lo suficiente
+  como para apoyar el lado del pie y el tobillo afectados sobre una cuña de
+  espuma opcional a 30° (rotación interna).
+  Se coloca un soporte bajo la rodilla. Si el paciente está tumbado, se coloca
+  otro bajo el trocánter mayor.
+  Se flexiona dorsalmente el pie, se realiza inversión del mismo si es posible y
+  se hace que el paciente mantenga la posición tirando de una cinta de 5 a
+  7,5 cm de ancho enroscada sobre la convexidad de la planta del pie.
+
+rayo_central: >
+  Dirigido a un punto 2,5 cm distal y 2,5 cm anterior al maléolo lateral
+  (localización del seno del tarso), con las siguientes angulaciones cefálicas
+  según la porción de interés:
+
+  10° CEFÁLICO (Isherwood clásico): demuestra la porción posterior de la
+  articulación subastragalina posterior y la porción anterior de la misma.
+
+  20° CEFÁLICO: demuestra la porción media de la articulación subastragalina
+  posterior y la articulación subastragalina media.
+
+  30° CEFÁLICO: demuestra la porción media de la articulación subastragalina
+  posterior y la articulación subastragalina media con mayor elongación.
+
+  40° CEFÁLICO: demuestra la porción anterior de la articulación; es la
+  angulación que produce mayor distorsión de las estructuras.
+
+anatomia_visible: >
+  El calcáneo de forma oblicua. La articulación subastragalina posteroexterna
+  en todas sus dimensiones, incluyendo el seno del tarso y la cara posterior
+  donde se observa la inserción del tendón de Aquiles.
+  La articulación media de la articulación subastragalina y el extremo final del
+  seno del tarso.
+
+criterios_calidad: >
+  El astrágalo en posición oblicua.
+  La articulación del astrágalo con el maléolo externo y la articulación
+  tibioastragalina demostradas.
+  El seno del tarso abierto.
+  Ambas articulaciones subastragalinas visibles.
+  La angulación de 40° es la que produce mayor distorsión; se reserva para
+  la porción anterior de la articulación.

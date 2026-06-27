@@ -1,0 +1,57 @@
+titulo: Pierna Perfil
+region: miembro-inferior
+subregion: pierna
+orden: 2
+alias:
+  - pierna lateral
+  - perfil de pierna
+  - pierna mediolateral
+
+dato_clinico: >
+  Localización de lesiones y cuerpos extraños, determinación de la extensión y
+  alineación de fracturas.
+
+receptor: >
+  35x43 cm longitudinal o diagonal.
+
+distancia: >
+  1 m. Con RI en diagonal: 1,22 m.
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino.
+  Se gira al paciente hacia el lado afectado con la pierna sobre el RI.
+
+posicion_region: >
+  Se ajusta la rotación del cuerpo para situar la rótula perpendicular al RI y
+  asegurar que una línea trazada a través de los cóndilos femorales también sea
+  perpendicular.
+  Se colocan sacos de arena como apoyo para la comodidad del paciente y para
+  estabilizar la posición.
+  La rodilla puede flexionarse si es necesario para garantizar una posición
+  lateral verdadera.
+
+  MÉTODO ALTERNATIVO (paciente que no puede girarse desde supino):
+  Un ayudante levanta la pierna lo suficiente como para colocar un soporte
+  rígido bajo ella.
+  Se coloca el RI entre las piernas y se dirige el rayo central horizontal desde
+  un lateral.
+
+rayo_central: >
+  Perpendicular a la zona media de la pierna.
+
+anatomia_visible: >
+  La tibia, el peroné y las articulaciones adyacentes de rodilla y tobillo.
+
+criterios_calidad: >
+  Las articulaciones del tobillo y la rodilla visibles en una o más imágenes.
+  El peroné distal superpuesto a la mitad posterior de la tibia.
+  Ligera superposición de la tibia sobre la cabeza peronea proximal.
+  Las articulaciones del tobillo y la rodilla sin rotación.
+  Posible ausencia de superposición de los cóndilos femorales por divergencia
+  del haz.
+  Separación moderada de las diáfisis tibial y peronea (excepto en los extremos
+  articulares).
+  Detalle trabecular y de partes blandas de toda la pierna.

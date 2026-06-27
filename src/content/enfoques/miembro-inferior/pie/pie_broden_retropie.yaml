@@ -1,0 +1,56 @@
+titulo: Método de Broden — Proyección de Retropié
+region: miembro-inferior
+subregion: pie
+orden: 17
+alias:
+  - Broden retropié
+  - retropié Broden
+  - subastragalina Broden
+
+dato_clinico: >
+  Fracturas de calcáneo con afectación de la articulación subastragalina.
+  Control intraoperatorio y/o posoperatorio. Fusión subastragalina.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente en decúbito supino con la pierna afectada extendida.
+
+posicion_region: >
+  Se realiza rotación medial del pie y la pierna de 45°.
+  Se realiza dorsiflexión e inversión del pie.
+
+rayo_central: >
+  Se realizan 4 exposiciones con distintas angulaciones cefálicas, todas
+  dirigidas al mismo punto de entrada: 2,5 cm por delante y por debajo del
+  maléolo externo (localización del seno del tarso).
+
+  10° CEFÁLICO: porción posterior de la articulación subastragalina posterior
+  y porción anterior de la misma.
+
+  20° CEFÁLICO: porción media de la articulación subastragalina posterior y
+  articulación subastragalina media.
+
+  30° CEFÁLICO: porción media de la articulación subastragalina posterior y
+  articulación subastragalina media con mayor elongación.
+
+  40° CEFÁLICO: porción anterior de la articulación; mayor distorsión de las
+  estructuras.
+
+anatomia_visible: >
+  Las distintas porciones de la articulación subastragalina según la angulación
+  empleada. El seno del tarso y las relaciones entre el calcáneo y el astrágalo.
+
+criterios_calidad: >
+  Las cuatro porciones de la articulación subastragalina demostradas en las
+  cuatro exposiciones.
+  El seno del tarso identificado en cada imagen.
+  Rotación medial de 45° mantenida de forma consistente entre exposiciones.
+  La angulación de 40° es la que produce mayor distorsión; se reserva para
+  la porción anterior.

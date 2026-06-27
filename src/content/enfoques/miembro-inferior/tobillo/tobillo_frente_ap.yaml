@@ -1,0 +1,46 @@
+titulo: Tobillo Frente AP
+region: miembro-inferior
+subregion: pie
+orden: 5
+alias:
+  - tobillo AP
+  - frente de tobillo
+  - AP tobillo
+
+dato_clinico: >
+  Patología de la articulación de la mortaja del tobillo y de la parte proximal
+  del quinto metatarsiano, sitio de fractura frecuente.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino.
+
+posicion_region: >
+  Se centra la articulación del tobillo sobre el RI.
+  Se sujeta el área del fémur distal con una mano y el pie con la otra. Se ayuda
+  al paciente rotando internamente toda la pierna y el pie en conjunto de 15 a
+  20°, hasta que el plano intermaleolar quede paralelo al RI.
+  Una colocación adecuada requiere girar la pierna pero no el pie.
+  La superficie plantar debe encontrarse perpendicular a la pierna.
+
+rayo_central: >
+  Perpendicular, entrando 1,5 cm por la articulación del tobillo en un punto
+  medio entre ambos maléolos.
+
+anatomia_visible: >
+  Toda la articulación de la mortaja de perfil. Se visualizan los tres lados de
+  la articulación de la mortaja.
+
+criterios_calidad: >
+  Toda la articulación de la mortaja del tobillo demostrada.
+  Ausencia de superposición del tubérculo anterior de la tibia y de la parte
+  superolateral del astrágalo sobre el peroné.
+  El espacio articular peroneoastragalino de perfil.
+  El astrágalo demostrado con densidad adecuada.

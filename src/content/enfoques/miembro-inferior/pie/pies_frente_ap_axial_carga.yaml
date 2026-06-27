@@ -1,0 +1,51 @@
+titulo: Pies Frente AP Axial en Carga
+region: miembro-inferior
+subregion: pie
+orden: 9
+alias:
+  - pie AP en carga
+  - pie frente bipedestación
+  - pie AP axial bipedestación
+  - pie en carga frente
+
+dato_clinico: >
+  Hallux valgus. Evaluación comparativa de ambos pies bajo carga.
+
+receptor: >
+  24x30 cm transversal para ver ambos pies en un solo RI.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en bipedestación.
+
+posicion_region: >
+  Se coloca el RI en el suelo y se hace que el paciente permanezca de pie
+  sobre él con los pies centrados en cada lado.
+  Se recogen los pantalones hasta el nivel de la rodilla si es necesario.
+  Se asegura que se incluyan los marcadores de lateralidad y de
+  bipedestación en el RI.
+  Se intenta que el peso del paciente se distribuya equitativamente entre
+  ambos pies.
+  El paciente puede agarrarse del tubo de RX para mayor estabilidad.
+
+rayo_central: >
+  Lo óptimo es una angulación de 10° hacia el talón. Suele resultar necesaria
+  una angulación mínima de 15° para disponer del suficiente espacio para
+  situar el tubo y permitir que el paciente permanezca de pie.
+  El RC se dirige entre los pies a la altura de la base del tercer metatarsiano.
+
+anatomia_visible: >
+  Proyección AP axial en carga de ambos pies, que permite una evaluación
+  precisa y la comparación de los huesos del tarso y los metatarsianos.
+
+criterios_calidad: >
+  Ambos pies centrados en una imagen.
+  Las falanges, los metatarsianos y el tarso distal visibles.
+  Colocación correcta de los marcadores de lateralidad y bipedestación.
+  Técnica de exposición correcta que permita ver todos los componentes.
+  Posibilidad de medir el eje del primer metatarsiano y las falanges
+  (valor normal mayor de 10°).

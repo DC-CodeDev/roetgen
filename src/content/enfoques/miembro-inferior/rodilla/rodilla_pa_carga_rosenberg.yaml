@@ -1,0 +1,51 @@
+titulo: Método de Rosenberg — Rodilla PA en Carga
+region: miembro-inferior
+subregion: rodilla
+orden: 4
+alias:
+  - Rosenberg rodilla
+  - rodilla PA en carga
+  - PA rodilla bipedestación flexión 45
+
+dato_clinico: >
+  Evaluación de espacios articulares por posible degeneración cartilaginosa y
+  otras patologías de la articulación de la rodilla. Demostración de la fosa
+  intercondílea. Estudio comparativo bilateral.
+
+receptor: >
+  35x43 cm transversal para estudio bilateral de rodillas.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en bipedestación con la parte anterior de las rodillas
+  centrada sobre un dispositivo de rejilla vertical.
+
+posicion_region: >
+  Se hace que el paciente permanezca de pie con las rodillas en contacto con
+  el dispositivo de rejilla vertical.
+  Se centra el RI a un nivel 1,3 cm por debajo de los vértices de las rótulas.
+  Se hace al paciente sujetar los bordes del dispositivo de rejilla y flexionar
+  las rodillas hasta situar los fémures en un ángulo de 45°.
+
+rayo_central: >
+  Horizontal y perpendicular al centro del RI, perpendicular a la tibia y el
+  peroné. En ocasiones se utiliza una angulación caudal de 10°.
+
+anatomia_visible: >
+  Proyección PA bilateral de ambas rodillas en carga con flexión de 45°. Útil
+  para la evaluación del estrechamiento del espacio articular y la demostración
+  de patología del cartílago articular. La imagen es similar a la obtenida en la
+  proyección de la fosa intercondílea.
+
+criterios_calidad: >
+  Ausencia de rotación de rodillas.
+  Ambas rodillas centradas en la imagen.
+  La articulación de las rodillas centrada en el área de exposición.
+  La flexión de 45° permite una mejor apertura del espacio articular.
+  Nota: para estudio en carga de una sola rodilla el paciente aplica todo el
+  peso sobre el lado afectado; puede equilibrarse mediante una ligera presión
+  de los dedos del lado no afectado.

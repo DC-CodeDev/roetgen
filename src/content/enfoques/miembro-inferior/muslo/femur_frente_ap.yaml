@@ -1,0 +1,59 @@
+titulo: Fémur Frente AP
+region: miembro-inferior
+subregion: muslo
+orden: 1
+alias:
+  - femur AP
+  - frente de femur
+  - AP femur
+
+dato_clinico: >
+  Detección y evaluación de fracturas y/o lesiones óseas de la parte media y
+  distal del fémur, incluida la articulación de la rodilla.
+
+receptor: >
+  35x43 cm longitudinal.
+  Nota: efecto talón; colocar la cadera hacia el lado del cátodo.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino.
+  Se palpa la pelvis para comprobar que no está rotada.
+
+posicion_region: >
+  Se centra el muslo afectado en la línea media del RI. Cuando el paciente es
+  demasiado alto para que entre todo el fémur, se incluye la articulación más
+  próxima al área de interés en una imagen.
+
+  CON LA RODILLA INCLUIDA (fémur distal):
+  Se rota internamente la extremidad para situarla en posición anatómica
+  verdadera, ya que en decúbito supino el miembro tiende a la rotación externa.
+  Se asegura que los epicóndilos queden paralelos al RI.
+  Se sitúa el borde inferior del RI 5 cm por debajo de la rodilla.
+
+  CON LA CADERA INCLUIDA (fémur proximal):
+  Se sitúa la parte superior del RI a la altura de las EIAS (2 dedos por encima).
+  Se rota el miembro 10 a 15° en sentido interno para situar el cuello femoral
+  de perfil.
+
+rayo_central: >
+  Perpendicular a la zona media del fémur y al centro del RI.
+
+anatomia_visible: >
+  Proyección AP del fémur incluyendo la articulación de la rodilla y/o cadera
+  según la variante utilizada.
+
+criterios_calidad: >
+  La mayor parte del fémur y la articulación más próxima a la patología o al
+  punto de la lesión. Se recomienda una segunda proyección de la otra
+  articulación.
+  El cuello femoral no acortado en el fémur proximal.
+  El trocánter menor no visible más allá del borde medial del fémur, o solo
+  visible una pequeña parte sobre el fémur proximal.
+  Ausencia de rotación de la rodilla en el fémur distal.
+  Cualquier implante ortopédico visible en su totalidad.
+  Detalle de la trabeculación ósea de la diáfisis femoral.

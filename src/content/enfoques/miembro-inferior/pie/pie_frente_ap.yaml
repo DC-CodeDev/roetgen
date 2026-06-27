@@ -1,0 +1,63 @@
+titulo: Pie Frente AP
+region: miembro-inferior
+subregion: pie
+orden: 1
+alias:
+  - pie AP
+  - pie dorsoplantar
+  - pie AP axial
+
+dato_clinico: >
+  Localización y extensión de fracturas, alineación de fragmentos, alteraciones
+  en el espacio articular, derrames de partes blandas.
+
+receptor: >
+  24x30 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+  Nota: El rayo central puede dirigirse perpendicular al RI (AP) o angulado
+  10-15° en sentido cefálico. Con la angulación cefálica el rayo queda
+  perpendicular a los metatarsianos, reduciendo su acortamiento y demostrando
+  con mayor claridad los espacios de la articulación tarso-metatarsiana del pie
+  medio.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino.
+  Se flexiona la rodilla del lado afectado lo suficiente para que la planta del
+  pie se apoye con firmeza sobre la mesa radiográfica.
+
+posicion_region: >
+  Se coloca el RI bajo el pie del paciente, centrado en la base del tercer
+  metatarsiano, y se ajusta de forma que su eje longitudinal quede paralelo al
+  eje longitudinal del pie.
+  Se mantiene la pierna en posición vertical haciendo que el paciente flexione
+  la rodilla contraria y la apoye sobre la rodilla del lado afectado.
+  En esta posición toda la superficie plantar apoya sobre el RI; hay que tomar
+  precauciones para evitar que el RI se deslice y asegurarse de que no se
+  produce rotación del pie.
+
+rayo_central: >
+  Dos opciones:
+  1) Angulado 10° en sentido cefálico, entrando por la base del tercer
+  metatarsiano.
+  2) Perpendicular al RI, penetrando por la base del tercer metatarsiano.
+  Nota: La palpación de la base prominente del quinto metatarsiano ayuda a
+  localizar el tercero, que se encontrará en la línea media.
+
+anatomia_visible: >
+  Proyección AP (dorsoplantar) de los huesos del tarso anteriores al astrágalo,
+  los metatarsianos y las falanges. Permite localizar cuerpos extraños,
+  determinar la posición de fragmentos en metatarsianos y tarso anterior, y
+  realizar una evaluación global del pie.
+
+criterios_calidad: >
+  Ausencia de rotación del pie.
+  Espacios similares entre las diáfisis medias adyacentes de los metatarsianos
+  2do al 4to.
+  Superposición de las bases de los metatarsianos 2do al 5to.
+  Visualización de falanges, huesos del tarso distales al astrágalo y
+  metatarsianos.
+  Apertura del espacio articular entre las cuñas medial e intermedia.

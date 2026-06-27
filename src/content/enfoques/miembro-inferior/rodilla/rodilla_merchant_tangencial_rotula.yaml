@@ -1,0 +1,66 @@
+titulo: Método de Merchant — Proyección Tangencial Axial de Rótula
+region: miembro-inferior
+subregion: rodilla
+orden: 11
+alias:
+  - Merchant rótula
+  - axial rótula Merchant
+  - tangencial femoropatelar Merchant
+  - axial bilateral rótula
+
+dato_clinico: >
+  Subluxación de rótula y otras alteraciones de la rótula y la articulación
+  femororrotuliana.
+
+receptor: >
+  24x30 cm transversal para exploración bilateral.
+
+distancia: 2 m
+
+tecnica: >
+  Homogeneizada.
+  Nota: se registra el grado de flexión de rodilla para que sea reproducible
+  durante estudios de control, ya que la gravedad de la subluxación rotuliana
+  se modifica habitualmente de forma inversa en relación al grado de flexión.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino con ambas rodillas al extremo de
+  la mesa.
+  Se apoyan las rodillas y la parte inferior de las piernas sobre un dispositivo
+  ajustable de soporte del RI.
+  Para incrementar la comodidad y la relajación del cuádriceps femoral, se
+  puede colocar una almohada o una cuña de espuma bajo la cabeza y
+  espalda del paciente.
+
+posicion_region: >
+  Utilizando el dispositivo de visualización axial, se elevan las rodillas del
+  paciente aproximadamente 5 cm para colocar los fémures paralelos a la
+  superficie de la mesa.
+  Se ajusta el ángulo de flexión de rodilla en 40° (Merchant señaló que el
+  grado de angulación puede variarse entre 30 y 90° para demostrar varios
+  trastornos femorpatelares).
+  Se atan juntas ambas piernas a la altura de la pantorrilla para controlar la
+  rotación y permitir la relajación del paciente.
+  Se coloca el RI perpendicular al rayo central apoyado sobre las espinillas,
+  aproximadamente 30 cm por debajo de las rótulas. Una almohadilla fina de
+  espuma mejora la comodidad.
+  Es imprescindible asegurar que el paciente esté relajado. La relajación del
+  cuádriceps es clave para un diagnóstico preciso: si no está relajado, una
+  rótula subluxada puede desplazarse de vuelta al surco intercondíleo
+  mostrando una apariencia falsamente normal.
+
+rayo_central: >
+  Con angulación caudal de 30° desde la horizontal, perpendicular al RI,
+  dirigido al espacio articular femoropatelar.
+
+anatomia_visible: >
+  Proyección axial bilateral de ambas rótulas y la articulación femoropatelar.
+  Demuestra la relación entre la rótula y el surco intercondíleo femoral.
+
+criterios_calidad: >
+  Ambas rótulas demostradas en proyección axial.
+  La articulación femoropatelar abierta bilateralmente.
+  El surco intercondíleo femoral visible.
+  Las partes blandas de la articulación femoropatelar demostradas.
+  Ausencia de rotación de las piernas.
+  Cuádriceps relajado para evitar falsa normalización de subluxación.

@@ -1,0 +1,58 @@
+titulo: Rodilla Frente AP
+region: miembro-inferior
+subregion: rodilla
+orden: 1
+alias:
+  - rodilla AP
+  - frente de rodilla
+  - AP rodilla
+
+dato_clinico: >
+  Fracturas, lesiones y cambios óseos secundarios o artropatía degenerativa
+  que afecte al fémur distal, tibia y peroné proximales, rótula y articulación
+  de la rodilla.
+
+receptor: >
+  24x30 cm longitudinal.
+  Nota: si el diámetro de la rodilla supera los 15 cm, se utiliza Bucky.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino y se ajusta el cuerpo de forma que
+  la pelvis no esté rotada.
+
+posicion_region: >
+  Con el RI bajo la rodilla, se flexiona ligeramente la articulación, se localiza
+  el vértice de la rótula y, a medida que el paciente extiende la rodilla, se
+  centra el RI aproximadamente 1,5 cm por debajo del vértice patelar para
+  centrar sobre el espacio articular.
+  Se ajusta la pierna colocando los epicóndilos femorales paralelos al RI para
+  una proyección AP verdadera, rotando internamente 3-5°.
+  La rótula quedará ligeramente descentrada hacia el lado medial.
+
+rayo_central: >
+  Dirigido a un punto 1,5 cm inferior al vértice de la rótula.
+  La angulación varía según la medida entre la espina iliaca anterosuperior
+  (EIAS) y la parte superior de la mesa:
+  Menos de 19 cm: 3-5° caudal (pelvis pequeña).
+  19 a 24 cm: 0° (perpendicular).
+  Más de 24 cm: 5° cefálico (pelvis grande).
+
+anatomia_visible: >
+  Proyección AP de las estructuras de la rodilla: fémur distal, tibia y peroné
+  proximales, rótula y espacio articular femorotibial.
+
+criterios_calidad: >
+  El espacio articular femorotibial abierto, con interespacios de igual anchura
+  a ambos lados si la rodilla es normal.
+  La rodilla completamente extendida si la condición del paciente lo permite.
+  La rótula completamente superpuesta al fémur.
+  Ausencia de rotación del fémur (cóndilos femorales simétricos) y de la tibia
+  (eminencia intercondílea centrada).
+  Ligera superposición de la cabeza peronea si la tibia es normal.
+  Las partes blandas en torno a la articulación de la rodilla visibles.
+  Detalle óseo en torno a la rótula sobre el fémur distal.

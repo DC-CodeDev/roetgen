@@ -1,0 +1,46 @@
+titulo: Método de Slowman — Calcáneo Oblicua Lateromedial en Carga
+region: miembro-inferior
+subregion: pie
+orden: 11
+alias:
+  - Slowman calcáneo
+  - oblicua lateromedial calcáneo en carga
+  - calcáneo oblicua bipedestación
+
+dato_clinico: >
+  Coalición tarsiana, visualización del retropié y valoración de sinostosis
+  calcáneo-escafoidea (fusión parcial o total de uno o más huesos).
+  Signo del oso hormiguero.
+
+receptor: >
+  24x30 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente en bipedestación con el talón afectado centrado hacia el borde
+  lateral del RI.
+
+posicion_region: >
+  Se ajusta la pierna del paciente para que quede exactamente perpendicular,
+  con el peso del paciente sobre el pie a radiografiar.
+  Se centra el calcáneo de forma que quede proyectado en el centro del RI.
+  Se centra el maléolo lateral en el eje de la línea media del RI.
+
+rayo_central: >
+  Dirigido en sentido medial con angulación de 45° caudal, entrando por el
+  tercer metatarsiano.
+
+anatomia_visible: >
+  Proyección oblicua lateromedial del calcáneo en carga. Muestra el retropié
+  y la relación entre el calcáneo y el escafoides para valorar coalición tarsiana.
+
+criterios_calidad: >
+  El calcáneo centrado en la imagen.
+  El maléolo lateral centrado en la línea media del RI.
+  La pierna perpendicular al plano del suelo con el peso distribuido sobre el
+  pie estudiado.
+  La articulación calcáneo-escafoidea demostrada.

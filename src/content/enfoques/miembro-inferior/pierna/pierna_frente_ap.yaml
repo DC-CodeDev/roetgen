@@ -1,0 +1,51 @@
+titulo: Pierna Frente AP
+region: miembro-inferior
+subregion: pierna
+orden: 1
+alias:
+  - pierna AP
+  - frente de pierna
+  - AP pierna
+
+dato_clinico: >
+  Fracturas, cuerpos extraños o lesiones óseas. Control de osteosíntesis.
+
+receptor: >
+  35x43 cm longitudinal (o diagonal cuando la pierna es demasiado larga para
+  el formato longitudinal, si está permitido en la institución).
+  Nota: cuando se desconoce el punto de lesión y la pierna no cabe en un solo
+  RI, se obtienen dos imágenes. El RI debe extenderse entre 2,5 y 4 cm más
+  allá de las articulaciones de rodilla y tobillo para evitar proyección fuera del
+  campo por divergencia del haz.
+
+distancia: >
+  1 m. Con RI diagonal: 1,22 m (reduce la divergencia del haz y permite ver
+  mayor cantidad de la región).
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino.
+
+posicion_region: >
+  Se ajusta el cuerpo del paciente de forma que la pelvis no esté rotada.
+  Se ajusta la pierna de forma que los cóndilos femorales estén paralelos al RI
+  y el pie se encuentre vertical.
+  Se flexiona el tobillo hasta que el pie esté en posición vertical.
+  Si es necesario, se coloca un saco de arena contra la superficie plantar del
+  pie para inmovilizarlo en la posición correcta.
+
+rayo_central: >
+  Perpendicular al centro de la pierna.
+
+anatomia_visible: >
+  La tibia, el peroné y las articulaciones adyacentes de rodilla y tobillo.
+
+criterios_calidad: >
+  Las articulaciones del tobillo y la rodilla visibles en una o más proyecciones AP.
+  Las articulaciones del tobillo y la rodilla sin rotación.
+  Las articulaciones proximal y distal entre tibia y peroné con superposición
+  moderada.
+  La zona media diafisaria del peroné libre de superposición tibial.
+  Detalle trabecular y de partes blandas de toda la pierna.

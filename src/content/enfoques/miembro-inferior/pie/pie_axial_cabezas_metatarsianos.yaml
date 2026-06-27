@@ -1,0 +1,52 @@
+titulo: Estudio Axial de Cabezas de Metatarsianos
+region: miembro-inferior
+subregion: pie
+orden: 15
+alias:
+  - axial cabezas metatarsianos
+  - axial metatarsianos
+  - metatarsalgia axial
+
+dato_clinico: >
+  Metatarsalgia (dolor a nivel de los metatarsianos, especialmente en las
+  cabezas por ser punto de apoyo).
+
+receptor: >
+  24x30 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente en bipedestación sobre un cajón que disponga de ranura para
+  colocar el chasis en vertical.
+
+posicion_region: >
+  Se utilizan dos cuñas radiotransparentes de 4 y 20 cm de longitud y 20° de
+  angulación para librar el antepié de superposiciones con falanges y tarso.
+  El material de las cuñas debe ser radiotransparente y de consistencia rígida
+  no flexible para lograr la colocación correcta del pie en la proyección axial.
+  Se estudia primero al paciente en bipedestación (en carga) y luego sentado
+  en una silla manteniendo la misma posición (en descarga). Es un estudio
+  comparativo de la disposición anatómica del antepié bajo ambas condiciones.
+  Nota: el estudio no se limita a las cabezas metatarsianas sino que evalúa
+  también la alineación del sector distal del miembro inferior. Cuando el pie
+  no entra en un solo enfoque se realizan dos exposiciones que luego se
+  solapan para obtener la imagen completa.
+
+rayo_central: >
+  Perpendicular al chasis, de forma horizontal.
+
+anatomia_visible: >
+  Proyección axial de las cabezas de los metatarsianos. Con carga las cabezas
+  se disponen en una línea recta; en descarga describen una línea curva. La
+  desviación de alguna de estas líneas presupone una afección en el antepié.
+
+criterios_calidad: >
+  Las cabezas de los cinco metatarsianos visibles en proyección axial.
+  Ausencia de superposición de las falanges y el tarso sobre las cabezas
+  metatarsianas.
+  Correcta disposición lineal de las cabezas en la imagen en carga.
+  Ambas condiciones (carga y descarga) documentadas para comparación.

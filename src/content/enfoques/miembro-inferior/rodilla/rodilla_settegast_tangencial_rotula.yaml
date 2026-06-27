@@ -1,0 +1,64 @@
+titulo: Método de Settegast — Proyección Tangencial de Rótula
+region: miembro-inferior
+subregion: rodilla
+orden: 10
+alias:
+  - Settegast rótula
+  - tangencial de rótula Settegast
+  - axial rótula Settegast
+  - tangencial femoropatelar
+
+dato_clinico: >
+  Subluxación y fractura de rótula.
+  Advertencia: no debe intentarse esta proyección hasta haber descartado una
+  fractura transversal de la rótula con una imagen lateral, o si el paciente
+  siente dolor. La flexión aguda de la rodilla requerida puede provocar
+  desplazamiento de fragmentos.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino o prono. Se prefiere el decúbito
+  prono porque permite una mayor flexión de la rodilla y la inmovilización
+  resulta más fácil.
+  Si el paciente se encuentra sentado sobre la mesa radiográfica, se asegura
+  el RI en posición.
+
+posicion_region: >
+  Se flexiona lentamente la rodilla del paciente tanto como sea posible hasta
+  que la rótula quede perpendicular al RI, si la condición del paciente lo
+  permite. La flexión debe ser lenta y continua para que el paciente pueda
+  tolerarla; una flexión rápida y no uniforme puede provocar gran dolor.
+  Si se desea, se ata una tira larga de venda alrededor del tobillo o el pie
+  del paciente y se hace al paciente sujetar los extremos sobre el hombro
+  para mantener la pierna en posición.
+  Se ajusta cuidadosamente la pierna de forma que su eje longitudinal quede
+  vertical.
+  Se coloca el RI en transversal bajo la rodilla y se centra en el espacio
+  articular entre la rótula y los cóndilos femorales.
+  Al mantener la misma relación DORI y DFRI, esta posición puede obtenerse
+  con el paciente en posición lateral o sentado.
+
+rayo_central: >
+  Perpendicular al espacio articular entre la rótula y los cóndilos femorales
+  cuando la articulación se encuentra perpendicular.
+  Cuando no lo está, la angulación del RC depende del grado de flexión de la
+  rodilla: típicamente de 15 a 20°.
+  Se recomienda colimación estrecha.
+
+anatomia_visible: >
+  Fracturas verticales del hueso y las superficies articulares de la
+  articulación femoropatelar.
+
+criterios_calidad: >
+  La rótula de perfil.
+  La articulación femoropatelar abierta.
+  La superficie de los cóndilos femorales visible.
+  Las partes blandas de la articulación femoropatelar demostradas.
+  Detalle óseo de la rótula y los cóndilos femorales.

@@ -1,0 +1,51 @@
+titulo: Rodilla Frente AP en Carga
+region: miembro-inferior
+subregion: rodilla
+orden: 3
+alias:
+  - rodilla AP en carga
+  - rodilla frente bipedestación
+  - AP rodilla bipedestación bilateral
+
+dato_clinico: >
+  Patologías de la articulación de la rodilla. Estudio comparativo bilateral.
+  Control de prótesis.
+  Nota: el estudio en carga pone de manifiesto el estrechamiento del espacio
+  articular que con frecuencia parece normal durante un estudio sin carga
+  (Leach, Gregg y Siber).
+
+receptor: >
+  35x43 cm transversal para imagen bilateral y/o monopodal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en bipedestación con la espalda pegada a un
+  dispositivo con rejilla vertical.
+
+posicion_region: >
+  Se ajusta la posición del paciente para centrar las rodillas en el RI.
+  Se dirigen los dedos hacia adelante con los pies lo suficientemente
+  separados para mantener un buen equilibrio.
+  Se pide al paciente que permanezca de pie con las rodillas completamente
+  extendidas y el peso equitativamente distribuido entre ambos pies.
+  Se centra el RI 1,3 cm por debajo de los vértices de la rótula.
+
+rayo_central: >
+  Horizontal y perpendicular al centro del RI, penetrando 1,3 cm por debajo
+  de los vértices de las rótulas.
+
+anatomia_visible: >
+  Proyección AP bilateral de ambas rodillas bajo carga, mostrando el espacio
+  articular femorotibial con el peso del paciente distribuido sobre las
+  extremidades.
+
+criterios_calidad: >
+  Ambas rodillas centradas en la imagen.
+  El espacio articular femorotibial demostrado bajo carga.
+  Las rodillas completamente extendidas.
+  El peso equitativamente distribuido entre ambos pies.
+  Los vértices de las rótulas centrados en el RI.

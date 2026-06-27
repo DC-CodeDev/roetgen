@@ -1,0 +1,75 @@
+titulo: Fémur Perfil
+region: miembro-inferior
+subregion: muslo
+orden: 2
+alias:
+  - femur lateral
+  - perfil de femur
+  - muslo lateral
+  - femur mediolateral
+
+dato_clinico: >
+  Detección y evaluación de fracturas y/o lesiones del fémur medio y distal,
+  incluida la articulación de la rodilla.
+
+receptor: >
+  35x43 cm longitudinal.
+  Nota: efecto talón; colocar la cadera del paciente hacia el lado del cátodo.
+  Si es preciso, se utilizan dos RI para demostrar toda la longitud del fémur
+  en un adulto.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+  Nota: esta posición no se recomienda para pacientes con fracturas o
+  enfermedad destructiva ósea. En esos casos se coloca al paciente en decúbito
+  supino, el RI en vertical a lo largo de la cara medial o lateral del muslo y la
+  rodilla, y se dirige el rayo central en sentido horizontal.
+
+posicion_paciente: >
+  Se pide al paciente que se gire sobre el lado afectado.
+  Se ajusta la posición del cuerpo y se centra el muslo afectado en la línea
+  media de la rejilla.
+
+posicion_region: >
+  CON LA RODILLA INCLUIDA (fémur distal):
+  Se adelanta la parte superior de la extremidad y se apoya a la altura de la
+  cadera con sacos de arena.
+  Se ajusta la pelvis en posición lateral verdadera.
+  Se flexiona la rodilla afectada aproximadamente 45°, se coloca un saco de
+  arena bajo el tobillo y se ajusta la rotación del cuerpo para situar los
+  epicóndilos perpendiculares a la superficie de la mesa.
+  Se ajusta el RI para que incluya aproximadamente 5 cm por debajo de la
+  rodilla.
+
+  CON LA CADERA INCLUIDA (fémur proximal):
+  Se sitúa la parte superior del RI a la altura de las EIAS (2 dedos por encima).
+  Se desplaza la parte superior del miembro hacia atrás y se le coloca un apoyo.
+  Se ajusta la pelvis girada en sentido posterior lo suficiente para evitar
+  superposición: son suficientes de 10 a 15° desde la posición lateral.
+
+rayo_central: >
+  Perpendicular a la zona media del fémur y al centro del RI.
+
+anatomia_visible: >
+  Proyección lateral de aproximadamente tres cuartas partes del fémur y de la
+  articulación adyacente.
+
+criterios_calidad: >
+  La mayor parte del fémur y la articulación más próxima a la patología o al
+  punto de la lesión. Se recomienda una segunda proyección del otro extremo
+  del fémur.
+  Cualquier implante ortopédico visible en su totalidad.
+  Detalle de la trabeculación ósea de la diáfisis femoral.
+
+  CON LA RODILLA INCLUIDA:
+  Las superficies anteriores de los cóndilos femorales superpuestas entre sí.
+  La rótula de perfil.
+  El espacio femoropatelar abierto.
+  La superficie inferior de los cóndilos femorales no superpuesta debido a la
+  divergencia de los rayos.
+
+  CON LA CADERA INCLUIDA:
+  El muslo contrario fuera del área de interés.
+  Escasa notoriedad de los trocánteres mayor y menor.

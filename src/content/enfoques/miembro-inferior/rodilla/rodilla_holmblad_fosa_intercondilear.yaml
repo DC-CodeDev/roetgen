@@ -1,0 +1,65 @@
+titulo: Método de Holmblad — Fosa Intercondílea PA Axial
+region: miembro-inferior
+subregion: rodilla
+orden: 9
+alias:
+  - Holmblad fosa intercondílea
+  - fosa intercondílea PA axial
+  - túnel intercondíleo Holmblad
+
+dato_clinico: >
+  Patología ósea o cartilaginosa, defectos osteocondrales o estrechamiento
+  del espacio articular de la fosa intercondílea, cóndilos femorales, mesetas
+  tibiales y eminencia intercondílea.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Tras valorar la seguridad del paciente, se coloca en una de estas tres
+  posiciones:
+
+  POSICIÓN 1: De pie con la rodilla en estudio flexionada y apoyada sobre un
+  taburete al lado de la mesa radiográfica.
+
+  POSICIÓN 2: De pie al lado de la mesa radiográfica con la rodilla en estudio
+  flexionada y en contacto con la cara frontal del RI.
+
+  POSICIÓN 3 (Holmblad original, 1937): Arrodillado sobre la mesa
+  radiográfica con la rodilla afectada sobre el RI.
+
+  En las tres posiciones el paciente se inclina sobre la mesa radiográfica
+  como apoyo.
+  Nota: en 1983 se modificó el método para permitir la posición de pie cuando
+  la condición del paciente lo permite.
+
+posicion_region: >
+  Para todas las posiciones, se coloca el RI contra la superficie anterior de
+  la rodilla del paciente y se centra en el vértice de la rodilla.
+  Se flexiona la rodilla 70° respecto a la extensión completa (diferencia de
+  20° en relación con el rayo central).
+
+rayo_central: >
+  Perpendicular a la parte inferior de la pierna, entrando por el punto central
+  del RI en las tres posiciones.
+
+anatomia_visible: >
+  La fosa intercondílea del fémur y los tubérculos medial y lateral de la
+  eminencia intercondílea de perfil. El grado de flexión utilizado ensancha el
+  espacio articular entre el fémur y la tibia, proporcionando una imagen
+  mejorada de la articulación y de las superficies tibial y femoral.
+
+criterios_calidad: >
+  La fosa intercondílea bien abierta.
+  La superficie posteroinferior de los cóndilos femorales demostrada.
+  La eminencia intercondílea y el espacio articular de la rodilla visibles.
+  El vértice de la rótula no superpuesto a la fosa.
+  Ausencia de rotación, evidenciada por ligera superposición tibioperonea.
+  Las partes blandas y los espacios articulares en la fosa demostrados.
+  Detalle óseo de la eminencia intercondílea, el fémur distal y la tibia
+  proximal.

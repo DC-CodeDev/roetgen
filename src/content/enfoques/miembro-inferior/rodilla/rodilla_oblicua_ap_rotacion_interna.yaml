@@ -1,0 +1,49 @@
+titulo: Rodilla Oblicua AP Rotación Interna
+region: miembro-inferior
+subregion: rodilla
+orden: 6
+alias:
+  - rodilla oblicua interna
+  - rodilla oblicua medial
+  - AP oblicua rodilla rotación interna
+
+dato_clinico: >
+  Patología que afecta a la articulación femorotibial, fracturas, lesiones y
+  cambios óseos secundarios a artropatía degenerativa, especialmente en las
+  caras anterior, externa, posterior e interna de la rodilla.
+  Sirve para valorar la cabeza del peroné.
+  Siempre se realizan ambas rotaciones.
+
+receptor: >
+  24x30 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente sobre la mesa radiográfica en decúbito supino y se
+  hace que apoye los tobillos.
+
+posicion_region: >
+  Se rota en sentido medial el miembro y se eleva la cadera del lado afectado
+  lo suficiente como para rotar el miembro 45°.
+  Se coloca un soporte bajo la cadera si es necesario.
+  Se centra el RI a un nivel 1,3 cm por debajo del vértice de la rótula.
+
+rayo_central: >
+  Dirigido a 1,3 cm inferior al vértice de la rótula. La angulación es variable
+  como en la proyección AP perpendicular.
+
+anatomia_visible: >
+  Proyección oblicua AP de la articulación femorotibial con rotación interna
+  de 45°. Demuestra las caras articulares de la rodilla y la cabeza del peroné.
+
+criterios_calidad: >
+  La articulación de la rodilla centrada en el área de exposición.
+  Rotación interna de 45° mantenida.
+  El RI centrado 1,3 cm por debajo del vértice de la rótula.
+  La cabeza del peroné demostrada.
+  Las caras articulares de la rodilla demostradas en posición oblicua.
+  Estudio complementado siempre con la oblicua de rotación externa.

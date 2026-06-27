@@ -1,0 +1,55 @@
+titulo: Tobillo Perfil
+region: miembro-inferior
+subregion: pie
+orden: 6
+alias:
+  - tobillo lateral
+  - perfil de tobillo
+  - tobillo mediolateral
+  - tobillo lateromedial
+
+dato_clinico: >
+  Fracturas, luxaciones y derrames articulares asociados con artropatías.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino girado hacia el lado afectado hasta
+  que el tobillo se sitúe en posición lateral.
+
+posicion_region: >
+  Se sitúa el eje longitudinal del RI paralelo al eje longitudinal de la pierna del
+  paciente y se centra en la articulación del tobillo.
+  Se asegura que la superficie lateral del pie quede en contacto con el RI.
+  Se flexiona dorsalmente el pie y se ajusta en posición lateral. La dorsiflexión
+  es necesaria para evitar la rotación lateral del tobillo y mantener una
+  verdadera posición lateral.
+  Se puede elevar levemente la punta del pie para superponer tibia y peroné.
+
+rayo_central: >
+  Dos opciones según incidencia:
+  Mediolateral: perpendicular a la articulación del tobillo, penetrando a través
+  del maléolo medial.
+  Lateromedial: perpendicular a la articulación del tobillo, penetrando 1,3 cm
+  por encima del maléolo lateral.
+
+anatomia_visible: >
+  Proyección lateral verdadera del tercio inferior de la tibia y el peroné, la
+  articulación del tobillo y los huesos del tarso, incluyendo la base del quinto
+  metatarsiano.
+
+criterios_calidad: >
+  La articulación del tobillo centrada en el área de exposición.
+  La articulación tibioastragalina bien visualizada, con las cúpulas astragalinas
+  medial y lateral superpuestas entre sí.
+  El peroné sobre la mitad posterior de la tibia.
+  La tibia y el peroné distales, el astrágalo y huesos del tarso adyacentes
+  visibles.
+  El quinto metatarsiano visible para descartar fractura de Jones.
+  Densidad suficiente para ver el contorno de la parte distal del tobillo.

@@ -1,0 +1,45 @@
+titulo: Tobillo Frente AP en Carga
+region: miembro-inferior
+subregion: pie
+orden: 12
+alias:
+  - tobillo AP en carga
+  - tobillo frente bipedestación
+  - AP tobillo carga bilateral
+
+dato_clinico: >
+  Estrechamiento del espacio articular del tobillo bajo carga. Estudio
+  comparativo bilateral. Par radiológico: Tobillo Perfil en Carga.
+
+receptor: >
+  24x30 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en bipedestación, preferiblemente sobre una plataforma
+  baja. Se asegura que el paciente tenga apoyo adecuado. Nunca debe subirse
+  al paciente a la mesa.
+
+posicion_region: >
+  Se coloca el chasis en la ranura de la plataforma.
+  Se coloca al paciente de pie con los talones apoyados por detrás sobre el RI
+  y los dedos apuntando hacia el tubo de RX.
+
+rayo_central: >
+  Horizontal y perpendicular al centro del chasis, dirigido a la articulación
+  tibioastragalina.
+
+anatomia_visible: >
+  Proyección AP de ambos tobillos y la relación entre la tibia y el peroné
+  distales bajo carga del peso. Permite la comparación entre ambas
+  articulaciones.
+
+criterios_calidad: >
+  Ambos tobillos centrados en la imagen.
+  La mortaja medio abierta.
+  La tibia distal y el astrágalo parcialmente superpuestos al peroné distal.
+  La mortaja lateral cerrada.

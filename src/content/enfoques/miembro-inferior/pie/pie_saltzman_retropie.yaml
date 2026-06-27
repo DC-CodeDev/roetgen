@@ -1,0 +1,45 @@
+titulo: Proyección de Saltzman — Alineación de Retropié
+region: miembro-inferior
+subregion: pie
+orden: 19
+alias:
+  - Saltzman retropié
+  - alineación retropié Saltzman
+  - retropié Saltzman bipedestación
+
+dato_clinico: >
+  Artrosis, valoración de control quirúrgico y posoperatorio. Estudio
+  comparativo bilateral.
+
+receptor: >
+  35x43 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+  El chasis se coloca en una ranura de 15° para que quede a 15° con respecto
+  a la vertical. Estudio comparativo con chasis a 15°.
+
+posicion_paciente: >
+  Paciente en bipedestación sobre plataforma baja que contenga ranura para
+  chasis, con ambos pies sobre el RI en posición PA.
+
+posicion_region: >
+  Se coloca el chasis en la ranura de 15° de la plataforma.
+  Se posicionan ambos pies sobre el RI en posición PA con el peso distribuido
+  equitativamente.
+
+rayo_central: >
+  Angulado 15° caudal, ingresando por el talón y saliendo por el quinto
+  metatarsiano. El RC ingresa perpendicular al chasis.
+
+anatomia_visible: >
+  Relación del retropié con respecto al eje mayor de la tibia y con el
+  astrágalo. Buena visión de la articulación del tobillo.
+
+criterios_calidad: >
+  La relación del eje tibial con el retropié y el astrágalo demostrada.
+  La articulación del tobillo visible.
+  Ambos pies centrados en el RI en una imagen comparativa bilateral.
+  El chasis correctamente angulado a 15° respecto a la vertical.

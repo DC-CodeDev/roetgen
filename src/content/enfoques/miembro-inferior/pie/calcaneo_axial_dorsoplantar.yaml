@@ -1,0 +1,48 @@
+titulo: Calcáneo Axial Dorsoplantar
+region: miembro-inferior
+subregion: pie
+orden: 6
+alias:
+  - axial de calcáneo dorsoplantar
+  - calcáneo axial prono
+  - calcáneo dorsoplantar
+
+dato_clinico: >
+  Traumatismo y patologías con desplazamiento del calcáneo hacia adentro o
+  hacia afuera.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal para dos exposiciones.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito prono.
+
+posicion_region: >
+  Se eleva el tobillo del paciente sobre sacos de arena.
+  Se ajusta la altura y la posición de los sacos bajo el tobillo de forma que el
+  paciente pueda flexionar dorsalmente el tobillo lo suficiente para situar el eje
+  largo del pie perpendicular a la superficie de la mesa.
+  Se coloca el RI contra la superficie plantar del pie y se mantiene en esa
+  posición con sacos de arena o con un soporte portátil para RI.
+  Nota: si el RI no está totalmente vertical, se aumenta la angulación del RC.
+
+rayo_central: >
+  Dirigido al punto medio del RI con angulación caudal de 40° respecto al eje
+  longitudinal del pie. El RC entra a través de la superficie dorsal de la
+  articulación del tobillo.
+
+anatomia_visible: >
+  Proyección axial del calcáneo y la articulación subastragalina.
+
+criterios_calidad: >
+  El calcáneo y la articulación subastragalina visibles.
+  El sustentaculum tali demostrado.
+  Ausencia de rotación del calcáneo; el primero y el quinto metatarsiano no se
+  proyectan a los lados del pie.
+  La parte anterior del calcáneo sin densidad excesiva en la parte posterior; de
+  lo contrario pueden requerirse dos imágenes para las dos regiones de interés.

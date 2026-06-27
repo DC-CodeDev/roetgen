@@ -1,0 +1,47 @@
+titulo: Pie Perfil
+region: miembro-inferior
+subregion: pie
+orden: 2
+alias:
+  - lateral de pie
+  - pie lateral
+
+dato_clinico: >
+  Cuerpo extraño, desplazamiento.
+
+receptor: >
+  24x30 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente tumbado sobre la mesa radiográfica y se le gira hacia
+  el lado afectado hasta que la pierna y el pie queden en lateral.
+  Se coloca la pierna contraria detrás del paciente.
+
+posicion_region: >
+  Se eleva la rodilla del paciente lo suficiente como para situar la rótula
+  perpendicular al plano horizontal y se coloca un saco de arena como soporte
+  bajo la rodilla.
+  Se centra el RI sobre el área central del pie y se ajusta de forma que su eje
+  longitudinal quede paralelo al eje longitudinal del pie.
+  Se realiza una flexión dorsal del pie para que forme un ángulo de 90° con la
+  parte inferior de la pierna.
+
+rayo_central: >
+  Perpendicular a la base del tercer metatarsiano.
+
+anatomia_visible: >
+  Todo el pie de perfil, la articulación del tobillo y los extremos distales
+  de tibia y peroné.
+
+criterios_calidad: >
+  Los metatarsianos casi superpuestos entre sí.
+  La zona distal de la pierna visible.
+  El peroné superpuesto a la parte posterior de la tibia.
+  La articulación tibioastragalina demostrada.
+  Densidad suficiente para demostrar los huesos del tarso y los metatarsianos
+  superpuestos.

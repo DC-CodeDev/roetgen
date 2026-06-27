@@ -1,0 +1,51 @@
+titulo: Calcáneo Axial Plantodorsal
+region: miembro-inferior
+subregion: pie
+orden: 5
+alias:
+  - axial de calcáneo plantodorsal
+  - calcáneo axial supino
+  - calcáneo plantodorsal
+
+dato_clinico: >
+  Traumatismo y patologías con desplazamiento del calcáneo hacia adentro o
+  hacia afuera.
+
+receptor: >
+  18x24 cm longitudinal o 24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+  Nota: se puede mejorar la imagen de forma significativa utilizando un filtro de
+  compensación debido a la mayor densidad de la parte central del pie.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino o en sedestación con las piernas
+  completamente extendidas y el tobillo en dorsiflexión.
+
+posicion_region: >
+  Se coloca el RI bajo el tobillo del paciente, centrado en la línea media del
+  tobillo.
+  Se coloca una tira de gasa larga alrededor de la zona convexa de la cabeza
+  de los metatarsianos. Se indica al paciente que tire de la gasa para mantener
+  el tobillo en flexión dorsal perpendicular.
+  Si el paciente no puede flexionar el tobillo lo suficiente para colocar la
+  superficie plantar del pie perpendicular al RI, se eleva la pierna sobre sacos
+  de arena para lograr la posición correcta.
+
+rayo_central: >
+  Dirigido al punto medio del RI con angulación craneal de 40° respecto al eje
+  longitudinal del pie. El RC entra a través de la base del tercer metatarsiano.
+
+anatomia_visible: >
+  Proyección axial del calcáneo y la articulación subastragalina.
+
+criterios_calidad: >
+  El calcáneo y la articulación subastragalina (ambas porciones) visibles.
+  El sustentaculum tali demostrado.
+  Ausencia de rotación del calcáneo; el primero y el quinto metatarsiano no se
+  proyectan a los lados del pie.
+  La parte anterior del calcáneo sin densidad excesiva en la parte posterior; de
+  lo contrario pueden requerirse dos imágenes para las dos regiones de interés.

@@ -1,0 +1,56 @@
+titulo: Axial de Retropié — Enfoque de Harris
+region: miembro-inferior
+subregion: pie
+orden: 16
+alias:
+  - Harris retropié
+  - axial de talón Harris
+  - retropié axial bilateral
+
+dato_clinico: >
+  Visualización de la articulación subastragalina anterointerna y
+  posteroexterna. Coalición tarsal. Valoración de malformaciones tarsales.
+  Estudio bilateral y simultáneo.
+  Nota: el astrágalo y el calcáneo están unidos por dos articulaciones
+  separadas por el seno astragalocalcáneo, razón por la cual el estudio
+  requiere dos angulaciones independientes.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+  La radiografía debe abarcar todo el pie y parte de tibia y peroné.
+
+posicion_paciente: >
+  Paciente en posición del esquiador sobre la mesa, si el paciente lo permite.
+
+posicion_region: >
+  Se coloca al paciente con las piernas ligeramente flexionadas en posición
+  del esquiador, con ambos pies apoyados y el peso distribuido
+  equitativamente.
+  Se realizan dos exposiciones con angulaciones distintas del RC sobre el
+  mismo punto de entrada.
+
+rayo_central: >
+  Punto de entrada común para ambas angulaciones: cara posterior de la
+  pierna, a la altura de la inserción del tendón de Aquiles.
+
+  40° CAUDAL: visualiza la articulación subastragalina anterointerna.
+
+  45° CAUDAL: visualiza la articulación subastragalina posteroexterna.
+
+anatomia_visible: >
+  Las dos articulaciones subastragalinas (anterointerna y posteroexterna) en
+  función de la angulación utilizada. El seno astragalocalcáneo separando
+  ambas articulaciones.
+
+criterios_calidad: >
+  Ambas articulaciones subastragalinas demostradas en las dos exposiciones.
+  Las carillas articulares paralelas entre sí en estudio normal.
+  En coalición tarsal: la carilla articular media de mayor tamaño y las carillas
+  no paralelas entre sí.
+  El seno astragalocalcáneo visible.
+  Todo el pie y parte de tibia y peroné incluidos en la imagen.

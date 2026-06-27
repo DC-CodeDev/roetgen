@@ -1,0 +1,63 @@
+titulo: Pie Oblicua AP
+region: miembro-inferior
+subregion: pie
+orden: 3
+alias:
+  - oblicua de pie
+  - pie oblicua medial
+  - pie oblicua lateral
+
+dato_clinico: >
+  Localización y extensión de fracturas, alineación de fragmentos, alteraciones
+  en los espacios articulares, derrames de partes blandas.
+
+receptor: >
+  24x30 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito supino.
+  Se flexiona la rodilla del lado afectado lo suficiente como para que la planta
+  del pie se apoye con firmeza sobre la mesa radiográfica.
+
+posicion_region: >
+  OBLICUA MEDIAL (posición de base):
+  Se coloca el RI bajo el pie del paciente, paralelo a su eje longitudinal, y se
+  centra en la línea media del pie a la altura de la base del tercer metatarsiano.
+  Se rota la pierna en sentido medial hasta que la superficie plantar forme un
+  ángulo de 30° con el plano del RI.
+  Nota Bontrager: Se recomienda una mayor oblicuidad, más próxima a 40-45°,
+  para mostrar mejor los tarsianos y metatarsianos libres de superposición en
+  pies con arco transverso promedio. Si la angulación supera los 30°, la cuña
+  lateral tiende a superponerse a las otras cuñas.
+
+  OBLICUA LATERAL (posición opcional):
+  Se rota el pie lateralmente 30° (se requiere menor oblicuidad respecto a la
+  medial, debido al arco natural del pie).
+
+rayo_central: >
+  Perpendicular a la base del tercer metatarsiano.
+
+anatomia_visible: >
+  OBLICUA MEDIAL:
+  Espacios entre: cuboides y calcáneo, cuboides y cuarto y quinto metatarsiano,
+  cuboides y cuña lateral, astrágalo y escafoides. El cuboides aparece de perfil.
+  El seno del tarso puede demostrarse con claridad.
+
+  OBLICUA LATERAL:
+  Espacio entre el primer y segundo metatarsiano, entre la primera y segunda
+  cuña. El escafoides queda bien visualizado.
+
+criterios_calidad: >
+  La base de los metatarsianos tercero a quinto libre de superposición.
+  Los huesos laterales del tarso con menor superposición que en proyección AP.
+  Las articulaciones tarso-metatarsianas laterales e intertarsianas visibles.
+  El seno del tarso demostrado.
+  La tuberosidad del quinto metatarsiano visible.
+  Las bases de los metatarsianos primero y segundo visibles.
+  Espacios similares entre las diáfisis de los metatarsianos segundo a cuarto.
+  Densidad suficiente para demostrar falanges, metatarsianos y huesos del tarso.

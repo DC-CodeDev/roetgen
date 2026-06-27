@@ -1,0 +1,46 @@
+titulo: Rótula PA
+region: miembro-inferior
+subregion: rodilla
+orden: 7
+alias:
+  - rótula frente PA
+  - PA rótula
+  - patela PA
+
+dato_clinico: >
+  Evaluación de fracturas rotulianas antes de flexionar la articulación.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Básica o intermedia.
+  Nota: esta proyección PA registra mayor detalle que la AP por la menor
+  distancia entre el objeto y el receptor de imagen (DORI).
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito prono. Si hay dolor en la rodilla, se
+  coloca un saco de arena bajo el muslo y otro bajo la pierna para aliviar
+  la presión sobre la rótula.
+
+posicion_region: >
+  Se centra el RI en la rótula.
+  Se ajusta la posición de la pierna con el fin de situar la rótula en paralelo
+  con el plano del RI. Esto suele requerir una rotación de 5 a 10° del talón
+  en sentido lateral.
+  Se colima estrechamente el área patelar.
+
+rayo_central: >
+  Perpendicular a la zona poplítea media, saliendo por la rótula.
+
+anatomia_visible: >
+  Proyección PA de la rótula completamente superpuesta al fémur. Mayor
+  detalle que la proyección AP gracias a la menor DORI.
+
+criterios_calidad: >
+  La rótula completamente superpuesta al fémur.
+  Penetración adecuada para clara visualización de la rótula a través del
+  fémur superpuesto.
+  Ausencia de rotación.

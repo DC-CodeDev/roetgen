@@ -1,0 +1,57 @@
+titulo: Pie Perfil en Carga
+region: miembro-inferior
+subregion: pie
+orden: 10
+alias:
+  - pie lateral en carga
+  - pie perfil bipedestación
+  - pie lateral bipedestación
+
+dato_clinico: >
+  Par radiológico del Frente en carga. Evaluación estructural del arco
+  longitudinal del pie bajo carga. Estudio comparativo bilateral.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en bipedestación, preferiblemente sobre una pequeña
+  plataforma que disponga de una ranura para el RI.
+  Si es preciso, se puede utilizar un equipo portátil para permitir que el tubo
+  alcance el suelo.
+
+posicion_region: >
+  Se coloca el RI en el surco de la plataforma previsto.
+  Se indica al paciente que permanezca de pie en posición natural, con un pie
+  a cada lado del RI y el peso del cuerpo distribuido equitativamente entre
+  ambos pies.
+  Se ajusta el RI de forma que quede centrado en la base del tercer
+  metatarsiano.
+  Tras la exposición, se sustituye el RI y se coloca uno nuevo para tomar la
+  imagen del pie contrario.
+
+rayo_central: >
+  Perpendicular a un punto inmediatamente por encima de la base del tercer
+  metatarsiano.
+
+anatomia_visible: >
+  Proyección lateromedial del pie en carga. Permite demostrar la situación
+  estructural del arco longitudinal. Se estudian ambos lados como comparación.
+
+criterios_calidad: >
+  Las superficies plantares de las cabezas de los metatarsianos superpuestas.
+  Todo el pie y la zona distal de la pierna visibles.
+  El peroné superpuesto a la parte posterior de la tibia.
+  Densidad suficiente para demostrar los huesos del tarso y los
+  metatarsianos superpuestos.
+  Ángulo de Moreau-Costa-Bartani demostrado:
+  Ángulo interno (125-130°): punto más bajo del astrágalo, punto más bajo del
+  calcáneo y punto más bajo de la primera articulación MTF.
+  Ángulo externo (145°): punto más inferior del calcáneo, punto más bajo de
+  la articulación calcaneocuboidea y punto más bajo de la primera articulación
+  MTF.

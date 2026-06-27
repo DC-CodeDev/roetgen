@@ -1,0 +1,44 @@
+titulo: Tobillo Oblicua PA Rotación Medial
+region: miembro-inferior
+subregion: pie
+orden: 13
+alias:
+  - tobillo oblicua medial
+  - tobillo oblicua 45 medial
+  - AP oblicua tobillo rotación interna
+
+dato_clinico: >
+  Fractura que afecte la articulación tibioperonea distal, la parte distal del
+  peroné y el maléolo externo, la base del quinto metatarsiano.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente en decúbito supino con la extremidad afectada completamente
+  extendida.
+
+posicion_region: >
+  Se centra el RI sobre la articulación del tobillo a mitad de distancia entre
+  los maléolos y se ajusta de forma que su eje longitudinal quede paralelo al
+  eje longitudinal de la pierna.
+  Se rota el pie y la pierna 45° en sentido medial.
+
+rayo_central: >
+  Perpendicular a la articulación del tobillo, incidiendo en un punto medio entre
+  los maléolos.
+
+anatomia_visible: >
+  Los extremos distales de la tibia y el peroné, parte de los cuales pueden
+  aparecer superpuestos al astrágalo. La articulación tibioperonea distal.
+
+criterios_calidad: >
+  La tibia distal, el peroné y el astrágalo demostrados.
+  La tibia y el peroné distales superpuestos aparte del astrágalo.
+  El astrágalo, la tibia y el peroné distales con penetración adecuada.
+  La articulación tibioperonea distal libre de superposición.

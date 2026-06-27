@@ -1,0 +1,60 @@
+titulo: Método de Lewis y Holly — Proyección Tangencial de Sesamoideos
+region: miembro-inferior
+subregion: pie
+orden: 3
+alias:
+  - tangencial de sesamoideos
+  - sesamoideos pie
+
+dato_clinico: >
+  Sesamoiditis, traumatismo.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  MÉTODO DE LEWIS:
+  Se coloca al paciente en decúbito prono.
+  Se eleva el tobillo del lado afectado sobre sacos de arena para estabilizarlo
+  si es necesario. Se puede colocar una toalla doblada bajo la rodilla por
+  comodidad.
+
+  MÉTODO DE HOLLY:
+  Con el paciente sentado sobre la mesa radiográfica.
+
+posicion_region: >
+  MÉTODO DE LEWIS:
+  Se apoya el dedo grueso sobre la mesa en posición de flexión dorsal y se
+  ajusta de forma que la parte convexa de la planta quede perpendicular al RI.
+  Se centra el RI sobre el segundo metatarsiano.
+
+  MÉTODO DE HOLLY:
+  Se ajusta el pie de forma que su borde medial quede vertical y la superficie
+  plantar forme un ángulo de 75° con el plano del RI.
+  El paciente mantiene los dedos en posición de flexión con una tira de gasa.
+
+rayo_central: >
+  MÉTODO DE LEWIS:
+  Perpendicular y tangencial a la primera articulación MTF, entre el sesamoideo
+  y la cabeza del primer metatarsiano.
+
+  MÉTODO DE HOLLY:
+  Perpendicular a la cabeza del primer metatarsiano. La angulación varía
+  según el grado de dorsiflexión obtenido.
+
+anatomia_visible: >
+  Proyección tangencial de la cabeza de los metatarsianos de perfil y los
+  sesamoideos. Los huesos sesamoideos se proyectan axiolateralmente con una
+  ligera superposición.
+
+criterios_calidad: >
+  Los sesamoideos libres de superposición del primer metatarsiano.
+  Las cabezas de los metatarsianos visibles.
+  Los primeros sesamoideos MTF con mínima superposición entre sí.
+  El sesamoideo lateral proyectado más por detrás y de menor tamaño que el
+  medial.

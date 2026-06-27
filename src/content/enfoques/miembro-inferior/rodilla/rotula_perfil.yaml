@@ -1,0 +1,48 @@
+titulo: Rótula Perfil
+region: miembro-inferior
+subregion: rodilla
+orden: 8
+alias:
+  - rótula lateral
+  - perfil de rótula
+  - rótula mediolateral
+  - patela lateral
+
+dato_clinico: >
+  Evaluación de fracturas rotulianas, así como alteraciones de las
+  articulaciones femororrotuliana y femorotibial.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se coloca al paciente en decúbito lateral, apoyado sobre la cadera afectada.
+
+posicion_region: >
+  Se hace al paciente flexionar la rodilla y la cadera no afectadas y se coloca
+  el pie no afectado delante del miembro afectado como estabilización.
+  Se puede colocar un saco de arena bajo el tobillo como apoyo.
+  Se flexiona la rodilla afectada aproximadamente 5 a 10°.
+  Nota: aumentar la flexión reduce el espacio articular femoropatelar.
+  Se ajusta la rodilla en posición lateral de forma que los epicóndilos femorales
+  se superpongan y la rótula quede perpendicular al RI.
+  Se centra el RI en la rótula.
+  Se colima estrechamente el área de la rótula.
+
+rayo_central: >
+  Perpendicular al RI, penetrando por la zona media de la articulación
+  femoropatelar.
+
+anatomia_visible: >
+  Proyección lateral de la rótula y del espacio articular femoropatelar.
+
+criterios_calidad: >
+  La rótula flexionada entre 5 y 10°.
+  El espacio articular femoropatelar abierto.
+  La rótula en perfil lateral.
+  Colimación estrecha del área patelar.

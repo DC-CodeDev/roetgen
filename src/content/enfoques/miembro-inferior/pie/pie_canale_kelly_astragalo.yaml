@@ -1,0 +1,42 @@
+titulo: Enfoque de Canale y Kelly — Proyección Axial Oblicua de Astrágalo
+region: miembro-inferior
+subregion: pie
+orden: 20
+alias:
+  - Canale Kelly astrágalo
+  - axial oblicua astrágalo
+  - Canale y Kelly pie
+
+dato_clinico: >
+  Fractura y/o luxofractura de astrágalo (el cuello es la localización más
+  frecuente). Planificación quirúrgica y control posoperatorio.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente sentado, con rotación del pie de 30 a 45° en sentido interno,
+  similar a la posición para una oblicua de pie con rotación interna.
+
+posicion_region: >
+  Se coloca el pie sobre el RI.
+  Se realiza rotación medial del pie de 30 a 45°.
+
+rayo_central: >
+  Angulación de 15° craneal hacia el talón, incidiendo 4 cm por delante del
+  maléolo externo.
+
+anatomia_visible: >
+  El astrágalo de perfil. El seno del tarso también se visualiza en esta
+  proyección.
+
+criterios_calidad: >
+  El astrágalo demostrado en su totalidad de perfil.
+  El cuello del astrágalo libre de superposiciones.
+  El seno del tarso visible.
+  Rotación medial del pie de 30 a 45° mantenida.

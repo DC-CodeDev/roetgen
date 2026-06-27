@@ -1,0 +1,52 @@
+titulo: Proyección Axial de Pierna y Calcáneo — Alineación de Retropié
+region: miembro-inferior
+subregion: pie
+orden: 18
+alias:
+  - axial pierna calcáneo
+  - alineación retropié axial
+  - retropié axial bipedestación
+
+dato_clinico: >
+  Planificación preoperatoria, evaluación clínica y seguimiento radiográfico de
+  alineamiento. Valoración de artrodesis (cirugía que fusiona dos huesos
+  anclando una articulación). Estudio comparativo bilateral.
+
+receptor: >
+  35x43 cm longitudinal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Paciente en bipedestación apoyando ambos pies. Posición del esquiador:
+  cara posterior del talón del pie a estudiar apoyada en el borde del chasis,
+  el otro pie unos pasos adelante como apoyo.
+
+posicion_region: >
+  Paciente de pie con flexión dorsal de tobillo de 5 a 10° preferiblemente,
+  con ligera flexión de rodillas.
+  Se puede apoyar en el respaldo de una silla para mayor estabilidad.
+  Se realizan ambos pies sobre el mismo RI en un solo disparo. Si el
+  paciente no puede realizarlo, se hacen dos disparos con el pie contrario
+  apoyado por delante.
+  Estudio comparativo bilateral simultáneo.
+
+rayo_central: >
+  Angulación de 45° caudal, incidiendo por el talón y saliendo por la base
+  del quinto metatarsiano.
+
+anatomia_visible: >
+  Relación del eje de la pierna con el calcáneo. La alineación del retropié
+  como causa de discapacidad de pie y tobillo. Valoración del valgo pre y
+  post artrodesis del tobillo.
+
+criterios_calidad: >
+  Relación del eje de la pierna, el calcáneo y el espacio subastragalino
+  demostrada.
+  El espacio subastragalino visible.
+  La línea medio diafisaria de la tibia correspondiente a la línea medial del
+  cuerpo del calcáneo.
+  En caso de alteraciones en el apoyo posterior, definidas por varo y/o valgo.

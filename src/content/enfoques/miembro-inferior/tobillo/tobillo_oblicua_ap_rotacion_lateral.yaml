@@ -1,0 +1,39 @@
+titulo: Tobillo Oblicua AP Rotación Lateral
+region: miembro-inferior
+subregion: pie
+orden: 14
+alias:
+  - tobillo oblicua lateral
+  - tobillo oblicua 45 lateral
+  - AP oblicua tobillo rotación externa
+
+dato_clinico: >
+  Fractura de maléolo medial.
+
+receptor: >
+  24x30 cm transversal.
+
+distancia: 1 m
+
+tecnica: >
+  Homogeneizada.
+
+posicion_paciente: >
+  Se sienta al paciente sobre la mesa con la pierna afectada extendida.
+
+posicion_region: >
+  Se coloca la superficie plantar del pie del paciente en posición vertical.
+  Se rota la pierna y el pie 45° en sentido lateral.
+
+rayo_central: >
+  Perpendicular, incidiendo por la articulación del tobillo en un punto medio
+  entre ambos maléolos.
+
+anatomia_visible: >
+  Proyección oblicua lateral del tobillo. Útil para el estudio de fracturas y
+  visualización de la parte superior del calcáneo.
+
+criterios_calidad: >
+  La articulación subastragalina demostrada.
+  El surco calcáneo (parte superior del calcáneo) visible.
+  El peroné superpuesto a la tibia.
