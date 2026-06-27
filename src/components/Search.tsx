@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
+import { createPortal } from 'react-dom';
 import Fuse from 'fuse.js';
 
 interface EnfoqueEntry {
@@ -59,10 +60,15 @@ export default function Search() {
     if (open) {
       setTimeout(() => inputRef.current?.focus(), 10);
       document.body.style.overflow = 'hidden';
+      document.body.classList.add('search-open');
     } else {
       document.body.style.overflow = '';
+      document.body.classList.remove('search-open');
     }
-    return () => { document.body.style.overflow = ''; };
+    return () => {
+      document.body.style.overflow = '';
+      document.body.classList.remove('search-open');
+    };
   }, [open]);
 
   const close = useCallback(() => {
@@ -84,7 +90,7 @@ export default function Search() {
         </svg>
       </button>
 
-      {open && (
+      {open && createPortal(
         <div className="search-overlay" role="dialog" aria-modal="true" aria-label="Buscar">
           <div className="search-box">
             <div className="search-header">
@@ -119,7 +125,8 @@ export default function Search() {
             </div>
           </div>
           <button className="search-backdrop" onClick={close} aria-label="Cerrar" />
-        </div>
+        </div>,
+        document.body
       )}
     </>
   );
