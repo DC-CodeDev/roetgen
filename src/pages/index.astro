@@ -1,6 +1,7 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
 import { REGION_SLUGS, getRegionName } from '../lib/regions';
+import CalculadoraCard from '../components/CalculadoraCard';
 
 const regions = REGION_SLUGS.map(slug => ({
   slug,
@@ -29,6 +30,10 @@ const currentPath = Astro.url.pathname;
         </a>
       ))}
     </div>
+
+    <div class="section-divider"></div>
+    <h2 class="page-title">CALCULADORA</h2>
+    <CalculadoraCard client:load />
   </div>
 </PageLayout>
 
@@ -127,6 +132,20 @@ const currentPath = Astro.url.pathname;
       background: var(--accent-bg);
       color: var(--accent-text);
       border-color: var(--accent-bg);
+    }
+  }
+
+  /* ── Section divider + Calculadora title ─────────────────── */
+
+  .section-divider {
+    height: 1px;
+    background: var(--border);
+    margin: 40px 0;
+  }
+
+  @media (min-width: 1024px) {
+    .section-divider {
+      margin: 56px 0;
     }
   }
 

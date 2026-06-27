@@ -41,6 +41,330 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* ─── CalculadoraCard ────────────────────────────────────────────── */
+
+.cc-card {
+  border: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.cc-readout-bar {
+  display: flex;
+  gap: 40px;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+.cc-readout {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.cc-readout-label {
+  font-family: 'Outfit', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.cc-readout-value {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 56px;
+  line-height: 1;
+  letter-spacing: 0.02em;
+}
+
+.cc-layout {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 1024px) {
+  .cc-layout {
+    flex-direction: row;
+  }
+}
+
+.cc-tabs {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid var(--border);
+}
+
+@media (min-width: 1024px) {
+  .cc-tabs {
+    flex-direction: column;
+    border-bottom: none;
+    border-right: 1px solid var(--border);
+    min-width: 148px;
+    flex-shrink: 0;
+  }
+}
+
+.cc-tab {
+  flex: 1;
+  padding: 12px 8px;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.04em;
+  text-align: center;
+  background: var(--surface);
+  color: var(--text);
+  border: none;
+  border-right: 1px solid var(--border);
+  cursor: pointer;
+  transition: background var(--transition-color), color var(--transition-color);
+}
+
+.cc-tab:last-child {
+  border-right: none;
+}
+
+@media (min-width: 1024px) {
+  .cc-tab {
+    text-align: left;
+    padding: 16px 20px;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    font-size: 20px;
+    flex: 0 0 auto;
+  }
+
+  .cc-tab:last-child {
+    border-bottom: none;
+  }
+}
+
+.cc-tab--active {
+  background: var(--accent-bg);
+  color: var(--accent-text);
+}
+
+@media (hover: hover) {
+  .cc-tab:not(.cc-tab--active):hover {
+    background: var(--accent-bg);
+    color: var(--accent-text);
+  }
+}
+
+@media (hover: none) {
+  .cc-tab:active {
+    background: var(--accent-bg);
+    color: var(--accent-text);
+  }
+}
+
+.cc-panel {
+  flex: 1;
+  padding: 20px;
+  min-width: 0;
+}
+
+.cc-field-group {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+}
+
+.cc-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  flex: 1;
+  min-width: 72px;
+}
+
+.cc-label {
+  font-family: 'Outfit', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.cc-input {
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  padding: 8px 10px;
+  width: 100%;
+  -moz-appearance: textfield;
+}
+
+.cc-input::-webkit-outer-spin-button,
+.cc-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.cc-input:focus {
+  outline: 1px solid var(--text);
+  outline-offset: -1px;
+}
+
+.cc-btn {
+  font-family: 'Outfit', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 10px 18px;
+  cursor: pointer;
+  transition: background var(--transition-color), color var(--transition-color), border-color var(--transition-color);
+}
+
+@media (hover: hover) {
+  .cc-btn:hover {
+    background: var(--accent-bg);
+    color: var(--accent-text);
+    border-color: var(--accent-bg);
+  }
+}
+
+@media (hover: none) {
+  .cc-btn:active {
+    background: var(--accent-bg);
+    color: var(--accent-text);
+    border-color: var(--accent-bg);
+  }
+}
+
+.cc-variants {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.cc-variant {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  padding: 12px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  cursor: pointer;
+  transition: background var(--transition-color), color var(--transition-color), border-color var(--transition-color);
+}
+
+.cc-variant--active {
+  background: var(--accent-bg);
+  color: var(--accent-text);
+  border-color: var(--accent-bg);
+}
+
+@media (hover: hover) {
+  .cc-variant:not(.cc-variant--active):hover {
+    background: var(--accent-bg);
+    color: var(--accent-text);
+    border-color: var(--accent-bg);
+  }
+}
+
+@media (hover: none) {
+  .cc-variant:active {
+    background: var(--accent-bg);
+    color: var(--accent-text);
+    border-color: var(--accent-bg);
+  }
+}
+
+.cc-variant-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.04em;
+  line-height: 1;
+}
+
+.cc-variant-kvp {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
+
+.cc-variant-mas {
+  font-family: 'Outfit', sans-serif;
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1;
+}
+
+.cc-variant--active .cc-variant-mas {
+  color: var(--accent-text);
+  opacity: 0.75;
+}
+
+.cc-current-mas {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 14px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  margin-bottom: 16px;
+}
+
+.cc-current-mas-value {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
+
+.cc-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 16px;
+  border: 1px solid var(--border);
+}
+
+.cc-table th {
+  font-family: 'Outfit', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding: 7px 10px;
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.cc-table th:first-child {
+  text-align: left;
+}
+
+.cc-table td {
+  font-family: 'Outfit', sans-serif;
+  font-size: 14px;
+  padding: 7px 10px;
+  text-align: center;
+  color: var(--text);
+  border-bottom: 1px solid var(--border);
+}
+
+.cc-table td:first-child {
+  font-weight: 600;
+  font-size: 13px;
+  text-align: left;
+}
+
+.cc-table tr:last-child td {
+  border-bottom: none;
+}
+
 /* ─── Print ─────────────────────────────────────────────────────── */
 
 @media print {

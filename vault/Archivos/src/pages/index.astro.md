@@ -9,6 +9,7 @@ Página home (`/`): grid de 5 cards de región. Toma los slugs de `REGION_SLUGS`
 ## Importa
 - [[../../layouts/PageLayout.astro.md]]
 - [[../../lib/regions.ts.md]] — `REGION_SLUGS`, `getRegionName`
+- [[../../components/CalculadoraCard.tsx.md]] — `CalculadoraCard` (`client:load`)
 
 ## Importado por
 - (ninguno — es la ruta raíz `/`)
@@ -22,6 +23,12 @@ Página home (`/`): grid de 5 cards de región. Toma los slugs de `REGION_SLUGS`
 
 ## Animación de entrada
 Cada `.rg-card` recibe `style="--i: {índice}"`. Al cargar la página, las cards hacen fade-in + `translateY(8px→0)` en 150ms ease-out con `animation-delay: calc(var(--i) * 150ms)` — aparecen secuencialmente una detrás de la otra. Definido con `@keyframes cardFadeIn`.
+
+## Estructura del contenido
+Después del `.region-grid`:
+1. `.section-divider` (1px var(--border), margen 40px mobile / 56px desktop)
+2. `<h2 class="page-title">CALCULADORA</h2>` — mismo estilo que "REGIONES"
+3. `<CalculadoraCard client:load />`
 
 ## Flujos relacionados
 - [[../../../Flujos/Flujo - Navegación por Proyección.md]]
