@@ -1,0 +1,88 @@
+titulo: Urografía Intravenosa Excretora OPD y OPI
+region: abdomen
+subregion: abdomen
+orden: 9
+alias:
+  - UIV oblicua
+  - Urografía excretora OPD
+  - Urografía excretora OPI
+  - Pielografía intravenosa oblicua
+
+dato_clinico: >
+  Obstrucción del riñón elevado. Signos de infección del tracto urinario.
+  Traumatismos en la cara inferior del uréter. Proyección complementaria;
+  forma par con la proyección AP de frente de la UIV. Se realiza con medio
+  de contraste endovenoso administrado previamente. El giro del cuerpo permite
+  separar el riñón elevado de la columna vertebral y proyectarlo en perfil,
+  despejando el uréter de la superposición vertebral para su evaluación
+  completa.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal. Centrado de modo que el campo incluya
+  desde los riñones en el borde superior hasta la sínfisis del pubis en el
+  borde inferior.
+
+distancia: 100 cm
+
+tecnica: >
+  Intermedia o básica. Bucky de mesa con grilla.
+
+posicion_paciente: >
+  Decúbito supino, girado de manera parcial hacia el lado derecho o izquierdo
+  según el lado de interés.
+
+posicion_region: >
+  Rotar el cuerpo 30° para obtener una oblicua posterior derecha (OPD) o
+  izquierda (OPI). Flexionar la pierna del lado elevado para estabilizar
+  el cuerpo. Elevar el brazo del lado elevado y cruzarlo sobre el tórax.
+  Centrar la columna vertebral sobre la línea media del receptor.
+
+  OPD (Oblicua Posterior Derecha): se gira el cuerpo hacia el lado derecho;
+  el hombro posterior derecho apoya contra la mesa. Se utiliza para separar
+  el riñón derecho de la columna vertebral y proyectarlo en perfil.
+
+  OPI (Oblicua Posterior Izquierda): se gira el cuerpo hacia el lado izquierdo;
+  el hombro posterior izquierdo apoya contra la mesa. Se utiliza para separar
+  el riñón izquierdo de la columna vertebral y proyectarlo en perfil.
+
+rayo_central: >
+  Perpendicular al plano del receptor. Punto de entrada: 5 cm lateral a la
+  línea media del paciente, hacia el lado elevado, a la altura de las crestas
+  ilíacas. Desplazar el RC 5 cm hacia el lado elevado es crítico: un RC
+  centrado en la línea media distorsiona la proyección del riñón de interés.
+  Respiración: suspendida en espiración. La espiración completa desciende el
+  diafragma y reduce la superposición de estructuras abdominales sobre los
+  riñones.
+
+anatomia_visible: >
+  Lado elevado (alejado del RI): riñón paralelo al receptor, proyectado de
+  frente sin superposición con la columna vertebral; uréter distal visible
+  en su trayecto completo. Lado apoyado (próximo al RI): riñón en perfil;
+  uréter proximal y medio proyectados lejos de la columna, despejados. Sínfisis
+  del pubis visible en el borde inferior del campo.
+
+criterios_calidad: >
+  Posicionamiento correcto: riñón elevado paralelo al receptor y separado
+  de la columna vertebral; riñón apoyado en perfil; sínfisis del pubis
+  incluida en el borde inferior; ambos riñones dentro del campo superior.
+  Ausencia de rotación: el grado de oblicuidad es correcto cuando el riñón
+  elevado se muestra completamente de frente sin superponerse a la columna
+  y el riñón apoyado aparece en perfil neto.
+  Penetración y contraste: diferenciación adecuada del medio de contraste
+  en el sistema colector renal, pelvis renal y uréter respecto a las
+  estructuras óseas y tejidos blandos circundantes.
+  Puntos críticos — Oblicuidad insuficiente: el riñón elevado se superpone
+  a la columna vertebral, impidiendo la evaluación del uréter distal;
+  corregir aumentando la rotación hasta 30°. Centrado incorrecto del RC:
+  un RC centrado en la línea media en lugar de 5 cm hacia el lado elevado
+  distorsiona la proyección del riñón de interés y reduce el valor diagnóstico;
+  verificar el desplazamiento lateral del RC antes de exponer.
+  Adaptaciones: en pacientes con limitación de movilidad o trauma, apoyar
+  la oblicua con cuñas radiolúcidas para mantener los 30° de rotación sin
+  esfuerzo del paciente.
+  Trucos: verificar antes de exponer que la columna esté centrada sobre la
+  línea media del receptor; esto asegura que el riñón elevado quede
+  correctamente lateralizado respecto al RC. La rotación de 30° es
+  sustancialmente menor que la de las oblicuas de vejiga (40-60°): el
+  objetivo aquí es separar el riñón de la columna, no desplegar el pasaje
+  ureterovesical.

@@ -92,7 +92,8 @@ criterios_calidad: >
   cardiotorácico. Ausencia de Bucky: genera mayor ruido y menor contraste;
   se compensa reduciendo el kVp para disminuir la radiación secundaria por
   efecto Compton.
-  Trucos: la calidad de imagen de una radiografía portátil nunca debe aceptarse
+  
+  Tips: >  la calidad de imagen de una radiografía portátil nunca debe aceptarse
   como inferior por el solo hecho de serlo; el objetivo sigue siendo alcanzar
   los mismos criterios diagnósticos de la proyección estándar dentro de las
   limitaciones del contexto. Visualizar al paciente desde arriba (cerca del tubo)
