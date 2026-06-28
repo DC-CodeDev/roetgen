@@ -1,0 +1,85 @@
+titulo: Vejiga Urinaria AP Axial
+region: abdomen
+subregion: abdomen
+orden: 7
+alias:
+  - Vejiga AP axial
+  - AP axial de vejiga
+  - Cistografía AP axial
+  - Proyección axial de vejiga
+
+dato_clinico: >
+  Divertículo vesical. Reflujo vesicoureteral. Evaluación de próstata en
+  hombres. Proyección complementaria; se realiza cuando el receptor 35 x 43
+  cm no alcanza para incluir la vejiga en el AUS, o para valorar
+  específicamente la vejiga como estructura de interés diagnóstico.
+
+receptor: >
+  24 x 30 cm. Orientación transversal en todos los biotipos. Centrado 5 cm
+  por encima del borde superior de la sínfisis del pubis (referencia de
+  altura equivalente al trocánter mayor del fémur). Debe incluir los
+  extremos distales de los uréteres, la vejiga y la parte proximal de la
+  uretra.
+
+distancia: 100 cm
+
+tecnica: >
+  Intermedia. Permite diferenciar la densidad de la vejiga llena con medio
+  de contraste respecto a las estructuras óseas (pelvis y sacro) que se
+  encuentran por detrás. Bucky de mesa con grilla.
+
+posicion_paciente: >
+  Decúbito supino sobre la mesa (también puede realizarse en bipedestación).
+  Plano medio sagital perpendicular al receptor. Brazos ubicados de modo
+  que no proyecten sombra sobre el receptor de imagen.
+
+posicion_region: >
+  Pelvis sin rotación: espinas ilíacas anterosuperiores (EIAS) equidistantes
+  al receptor. Piernas extendidas para lograr que la zona lumbosacra se
+  arquee e incline hacia abajo los huesos pélvicos anteriores, maximizando
+  el efecto de la angulación caudal del RC. Hombros en un mismo plano.
+
+rayo_central: >
+  Angulado 10 a 15° en sentido caudal respecto al plano del receptor. La
+  angulación caudal desplaza la sínfisis del pubis hacia caudal, liberando
+  la región del cuello vesical y los uréteres distales de su superposición.
+  La angulación exacta depende del grado de lordosis lumbar: a mayor
+  lordosis, menor angulación requerida. Punto de entrada: 5 cm por encima
+  del borde superior de la sínfisis del pubis. Respiración: espiración
+  máxima, luego suspendida. Reduce el contenido abdominal sobre la región
+  de interés y mejora la visualización de la vejiga.
+
+anatomia_visible: >
+  Extremos distales de los uréteres (unión ureterovesical), vejiga urinaria
+  con medio de contraste, y parte proximal de la uretra. Los huesos del
+  pubis deben proyectarse por debajo del cuello vesical y la uretra proximal,
+  sin superponerse a estas estructuras. La angulación caudal del RC desplaza
+  la sínfisis del pubis hacia caudal, dejando libre la región del cuello
+  vesical para su evaluación.
+
+criterios_calidad: >
+  Posicionamiento correcto: sínfisis del pubis proyectada por debajo de
+  la vejiga, sin superponer el cuello vesical ni la zona de los uréteres
+  distales; el medio de contraste se visualiza claramente en vejiga, uréteres
+  distales y uretra proximal; extremos distales de los uréteres, vejiga y
+  uretra proximal incluidos en el campo.
+  Ausencia de rotación: EIAS equidistantes respecto a la línea media; pelvis
+  simétrica en la imagen.
+  Penetración y contraste: escala de contraste corta (alta densidad relativa)
+  que permita diferenciar claramente el medio de contraste en la vejiga
+  respecto a las estructuras óseas de la pelvis y el sacro subyacente.
+  Puntos críticos — Angulación insuficiente del RC: la sínfisis del pubis
+  se superpone al cuello vesical y a los uréteres distales impidiendo su
+  evaluación; aumentar la angulación caudal dentro del rango 10 a 15°.
+  Piernas no extendidas: la zona lumbosacra no se arquea correctamente y
+  los huesos pélvicos anteriores no se inclinan hacia abajo, reduciendo la
+  efectividad de la angulación; verificar extensión completa de piernas
+  antes de exponer.
+  Adaptaciones: en pacientes con mayor lordosis lumbar puede requerirse
+  menor angulación (incluso por debajo de 10°); en bipedestación verificar
+  que el plano medio sagital se mantenga perpendicular al receptor.
+  Trucos: el trocánter mayor del fémur sirve como referencia de altura para
+  centrar el receptor cuando no se palpa fácilmente el borde superior de
+  la sínfisis. La angulación caudal es el elemento técnico diferenciador
+  de esta proyección respecto a la AP estándar de pelvis: sin ella, la
+  sínfisis superpone y encubre el cuello vesical.

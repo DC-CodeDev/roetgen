@@ -1,0 +1,89 @@
+titulo: Tórax Frente PA
+region: torax
+subregion: torax
+orden: 1
+alias:
+  - Tórax PA
+  - Chest X-Ray PA
+  - Proyección posteroanterior de tórax
+
+dato_clinico: >
+  Neumonía, bronquitis e infecciones del tracto respiratorio inferior.
+  Neumotórax (se complementa con proyección en espiración forzada).
+  Evaluación de silueta cardiaca: cardiomegalia, derrame pericárdico.
+  Derrame pleural y engrosamiento pleural.
+  Lesiones mediastínicas y masas pulmonares.
+  Control post-quirúrgico, post-intubación y seguimiento de patologías crónicas.
+
+receptor: >
+  35 x 43 cm. Orientación transversal en paciente hiperesténico y esténico;
+  longitudinal en asténico e hipoesténico. Borde superior ubicado 4 a 5 cm
+  por encima de los hombros.
+
+distancia: 180 a 200 cm
+
+tecnica: >
+  Ultra-homogeneizada con alto kVp (escala larga de grises). Permite visualizar
+  simultáneamente el parénquima pulmonar y el mediastino, que de otro modo
+  quedarían enmascarados por la superposición ósea y la densidad cardiaca.
+  kVp alto — mAs según hábito corporal. Espesor medido a los 2/3 del tórax,
+  no en el punto más grueso. Bucky mural (vertical) con grilla, obligatorio
+  dado el espesor del tórax y la producción significativa de radiación dispersa.
+
+posicion_paciente: >
+  Bipedestación o, si no es posible, sedestación erguida. Posición PA: el tórax
+  enfrenta el receptor de imagen y la espalda queda dirigida hacia el tubo,
+  lo que protege las estructuras radiosensibles anteriores (radioprotección activa).
+  El mentón elevado, mirando hacia adelante, sin rotar la cabeza. El peso
+  corporal se distribuye de manera equitativa entre ambas piernas. La posición
+  vertical favorece el descenso del diafragma por acción de la gravedad,
+  permitiendo mejor visualización de los campos pulmonares y los ángulos
+  costofrénicos, facilita la demostración de niveles hidroaéreos y evita la
+  ingurgitación de los vasos sanguíneos pulmonares.
+
+posicion_region: >
+  Plano medio sagital (PMS) perpendicular al receptor de imagen y centrado
+  en la línea media del mismo. Los hombros deben quedar a la misma altura,
+  en un plano horizontal. Se solicita al paciente que lleve los hombros
+  hacia adelante, abrazando el receptor, para desplazar las escápulas
+  lateralmente fuera de los campos pulmonares. Los brazos caen a los lados
+  del cuerpo o las manos se apoyan en las caderas con los codos hacia afuera.
+
+rayo_central: >
+  Perpendicular al receptor de imagen, sin angulación. Si es necesario,
+  se angula caudalmente (aproximadamente -5°) hasta lograr la perpendicularidad
+  respecto al eje longitudinal del esternón, para impedir que las clavículas
+  oculten los vértices pulmonares. Punto de entrada: T7, aproximadamente
+  8 a 10 cm por debajo de la escotadura yugular. Receptor de imagen centrado
+  a nivel de T7. Respiración suspendida al final de una inspiración completa.
+  Marcación radiológica del lado contrario a la silueta cardiaca.
+
+anatomia_visible: >
+  Campos pulmonares en su totalidad, desde los vértices hasta los ángulos
+  costofrénicos. Silueta cardiaca y botón aórtico. Mediastino con tráquea
+  visible en la línea media llena de aire. Hemidiafragmas con contornos
+  definidos. Estructuras óseas torácicas: costillas posteriores (mínimo 10
+  por encima del diafragma), clavículas, arcos anteriores y escápulas
+  proyectadas fuera de los campos pulmonares. Trama vascular visible desde
+  el hilio a la periferia. Sombra tenue de costillas y vértebras torácicas
+  superiores visible a través de la silueta cardiaca. Árbol bronquial
+  con angulación oblicua.
+
+criterios_calidad: >
+  Posicionamiento correcto: escápulas proyectadas fuera de los campos
+  pulmonares; tórax centrado respecto al receptor; ambos ángulos costofrénicos
+  y vértices pulmonares incluidos en el campo; borde superior del receptor
+  4 a 5 cm por encima de los hombros.
+  Ausencia de rotación: extremos esternales de las clavículas equidistantes
+  de la columna vertebral; columna vertebral centrada en la imagen.
+  Penetración y contraste: escala larga de grises con visualización simultánea
+  del parénquima pulmonar y el mediastino; trama vascular visible hasta la
+  periferia; mínimo 10 arcos costales posteriores visibles por encima del
+  diafragma; contornos del corazón y el diafragma bien definidos.
+  Trucos: si no se ve trama a través del corazón, el kVp o las
+  homogenizaciones fueron insuficientes. La DFRI larga compensa la pérdida
+  de mAs de las homogenizaciones. La PA magnifica menos el corazón que la AP,
+  relevante para medir el índice cardiotorácico. Adaptaciones: paciente que
+  no puede estar de pie: AP en sedestación o decúbito (mayor magnificación
+  cardiaca esperada, debe consignarse). Mamas voluminosas: elevarlas y
+  separarlas. Clavícula congénitamente más alta: no confundir con rotación.

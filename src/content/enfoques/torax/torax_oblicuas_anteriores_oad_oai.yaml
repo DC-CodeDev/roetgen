@@ -1,0 +1,131 @@
+titulo: Tórax Oblicuas Anteriores OAD y OAI
+region: torax
+subregion: torax
+orden: 5
+alias:
+  - OAD tórax
+  - OAI tórax
+  - Oblicua anterior derecha de tórax
+  - Oblicua anterior izquierda de tórax
+  - Oblicuas anteriores corazón y grandes vasos
+
+dato_clinico: >
+  Bloque quirúrgico: control de stent, malla endovascular o aorta con contraste.
+  Esofagograma y estudio gastroduodenal con contraste baritado (desplegar el
+  esófago retrocardiaco). Valoración del cayado aórtico y aorta descendente
+  (preferentemente OAI). Estudio del mediastino: separar la columna vertebral
+  de las estructuras mediastínicas superpuestas en el frente PA estándar.
+  Evaluación del campo pulmonar completo libre de superposición cardiaca
+  o columnar. Proyecciones complementarias que forman par entre sí:
+  la OAD y la OAI se solicitan conjuntamente según la indicación clínica.
+  Solo se realizan oblicuas anteriores; las oblicuas posteriores están
+  contraindicadas por mayor magnificación y exposición frontal al haz primario.
+  Nomenclatura: se nombran según el lado del cuerpo que se apoya contra el RI.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal en todo tipo de paciente, para incluir
+  ambos pulmones desde los vértices hasta los ángulos costofrénicos.
+  Borde superior situado 4 a 5 cm por encima de C7 (vértebra prominente).
+
+distancia: 180 cm
+
+tecnica: >
+  Ultra-homogeneizada con alto kVp (escala larga de grises). Permite visualizar
+  simultáneamente el parénquima pulmonar y el mediastino, que de otro modo
+  quedarían enmascarados por la superposición ósea y la densidad cardiaca.
+  Variantes: paciente obeso: técnica intermedia con incremento controlado de
+  mAs por mayor radiación dispersa. Control de stent o malla metálica: kVp
+  muy alto para atravesar la densidad cardiaca y revelar el metal con claridad.
+  kVp alto — mAs según hábito corporal. Espesor medido a nivel del tórax
+  en su diámetro AP. Bucky mural (vertical) con grilla, dado el espesor del
+  tórax y la producción significativa de radiación dispersa.
+
+posicion_paciente: >
+  Bipedestación o, si no es posible, sedestación erguida. El tórax enfrenta
+  el receptor de imagen (posición PA como base), con la espalda dirigida
+  hacia el tubo. El mentón elevado, mirando hacia adelante, sin rotar la cabeza.
+  Los hombros deben quedar en un mismo plano horizontal.
+
+posicion_region: >
+  Rotación del tórax sobre su eje longitudinal alejando el lado de interés del RI.
+  El principio de visualización es que el lado de interés diagnóstico es el más
+  alejado del receptor.
+
+  OAD (Oblicua Anterior Derecha):
+  Se aleja el hombro izquierdo del receptor; el hombro anterior derecho queda
+  apoyado en el RI. Rotación de 45° para estudio del pulmón; 60° para estudio
+  del corazón y grandes vasos, medidos desde el plano frontal. Del lado apoyado
+  (derecho), la mano se coloca sobre la cadera con la palma hacia afuera. Del
+  lado alejado (izquierdo), el paciente eleva el brazo hasta la altura del hombro
+  y apoya la mano sobre la cabeza para no tapar el campo pulmonar.
+
+  OAI (Oblicua Anterior Izquierda):
+  Se aleja el hombro derecho del receptor; el hombro anterior izquierdo queda
+  apoyado en el RI. Mismos grados de rotación que en OAD según el objetivo
+  diagnóstico. Del lado apoyado (izquierdo), la mano sobre la cadera con la
+  palma hacia afuera. Del lado alejado (derecho), brazo elevado con mano
+  sobre la cabeza. Variante para ambas: ambos codos tomados por encima
+  de la cabeza.
+
+rayo_central: >
+  Perpendicular al plano del receptor, sin angulación.
+
+  OAD: punto de entrada en el ángulo inferior de la escápula izquierda
+  (lado alejado).
+  OAI: punto de entrada en el ángulo inferior de la escápula derecha
+  (lado alejado).
+  Referencia alternativa equivalente: T7, aproximadamente 8 a 10 cm por
+  debajo de la escotadura yugular (referenciando C7). Receptor centrado
+  respecto al eje del tórax del paciente, incluyendo ambos pulmones completos
+  desde los vértices hasta los ángulos costofrénicos y la totalidad de las
+  estructuras mediastínicas. Respiración: inspiración máxima sostenida.
+  Control: 9 a 10 arcos costales posteriores visibles por encima de la cúpula
+  diafragmática; si solo se observan 8, la inspiración fue insuficiente y debe
+  repetirse.
+
+anatomia_visible: >
+  En OAD: silueta cardiaca de morfología triangular; espacio aéreo retroesternal
+  anterior con forma triangular; cayado aórtico sin desplegar (superpuesto);
+  tráquea llena de aire y árbol bronquial izquierdo completamente desplegado;
+  cámara gástrica alejada de la columna (posición de esgrimista); campo
+  pulmonar izquierdo en mayor extensión.
+  En OAI: silueta cardiaca de morfología en pera (ventrículo izquierdo
+  proyectado hacia la izquierda inferior); cayado aórtico desplegado con aorta
+  ascendente, cayado y aorta descendente separados y nítidos; espacio aéreo
+  anterior de morfología rectangular; cámara gástrica próxima a la columna
+  (posición de boxeador); campo pulmonar derecho en mayor extensión;
+  esófago retrocardiaco visible cuando se usa contraste baritado.
+  En ambas proyecciones: bifurcación traqueal (carina) proyectada sobre la
+  silueta cardiaca, nunca sobre la columna vertebral.
+
+criterios_calidad: >
+  Posicionamiento correcto: OAD — corazón triangular, espacio aéreo anterior
+  triangular, cámara gástrica alejada de la columna, árbol bronquial izquierdo
+  desplegado. OAI — corazón en pera, cayado aórtico desplegado, espacio aéreo
+  anterior rectangular, cámara gástrica próxima a la columna. En ambas: carina
+  proyectada sobre la silueta cardiaca y hombros en el mismo plano horizontal.
+  Ausencia de rotación: la columna vertebral no debe superponerse al campo
+  pulmonar contralateral (exceso de rotación); el corazón no debe quedar
+  encimado a la columna (falta de rotación); la tráquea debe mostrar un perfil
+  aéreo nítido y continuo.
+  Penetración y contraste: escala larga de grises que permita visualizar
+  simultáneamente el parénquima pulmonar y el mediastino; trama vascular
+  visible hasta la periferia; corazón no completamente radiopaco (estructuras
+  retrocardiacas evaluables); 9 a 10 arcos costales posteriores visibles sobre
+  el diafragma confirmando inspiración adecuada.
+  Puntos críticos — Corazón encimado a la columna (OAI): falta de rotación;
+  corrección: aumentar la rotación hasta 60° y verificar posición de hombros.
+  Columna tapando el campo pulmonar contralateral: rotación excesiva;
+  corrección: reducir el grado de rotación. Corazón muy radiopaco sin poder
+  atravesarlo: kVp insuficiente; corrección: subir kVp para obtener escala larga
+  de grises. Imagen con apariencia de parrilla costal: técnica ósea aplicada
+  erróneamente; corrección: técnica ultra-homogeneizada con alto kVp.
+  Adaptaciones: en pacientes con limitación para la bipedestación, realizar en
+  sedestación erguida. En bloque quirúrgico, priorizar alto kVp con escala muy
+  larga para revelar el material metálico a través de la densidad cardiaca.
+  Trucos: para desplegar el cayado aórtico siempre OAI; en OAD el cayado
+  queda superpuesto y no es valorable. Nemotecnia: esgrimista = OAD (cámara
+  gástrica alejada de la columna); boxeador = OAI (cámara gástrica próxima
+  a la columna). Contar arcos posteriores para evaluar la inspiración, no los
+  anteriores; son más horizontales y más fáciles de identificar. Las oblicuas
+  posteriores para corazón no se realizan.

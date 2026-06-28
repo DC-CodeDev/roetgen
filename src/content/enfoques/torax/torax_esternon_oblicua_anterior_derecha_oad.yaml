@@ -1,0 +1,89 @@
+titulo: Esternón Oblicua Anterior Derecha OAD
+region: torax
+subregion: torax
+orden: 10
+alias:
+  - OAD esternón
+  - Oblicua anterior derecha esternón
+  - Esternón oblicua PA
+
+dato_clinico: >
+  Fractura esternal en contexto postraumático. Dolor retroesternal o dolor
+  medio del pecho. Procesos inflamatorios o infecciosos esternales. Control
+  de osteosíntesis esternal. Proyección de elección para el estudio del
+  esternón; complementa con lateral de esternón cuando se requiere.
+
+receptor: >
+  24 x 30 cm. Orientación longitudinal en relación al eje mayor del esternón.
+  Centrado en el esternón. Borde superior ubicado 4 cm por encima de la
+  escotadura yugular para asegurar la inclusión del manubrio.
+
+distancia: 100 cm
+
+tecnica: >
+  Básica o intermedia. kVp bajo para obtener alto contraste, lo que permite
+  resaltar la estructura ósea del esternón a través de la silueta cardiaca,
+  aprovechando la densidad homogénea del mediastino como fondo. Un kVp
+  elevado produce escala larga que dificulta la diferenciación de bordes
+  esternales y la detección de trazos de fractura. mAs según espesor del
+  tórax medido a nivel del esternón. Bucky con grilla.
+
+posicion_paciente: >
+  De pie (preferible) o en semidecúbito prono con ligera rotación. Brazo
+  derecho al lado del cuerpo; brazo izquierdo elevado por encima de la
+  cabeza. El esternón es un órgano hematopoyético y radiosensible; la OAD
+  lo aleja de la fuente de radiación, reduciendo la dosis respecto a la OAI
+  y produciendo menor magnificación geométrica.
+
+posicion_region: >
+  Paciente rotado 15 a 20° hacia el lado derecho, alejando el lado izquierdo
+  del receptor. La rotación varía según biotipo: tórax ancho requiere menor
+  rotación; tórax delgado requiere mayor rotación. Para determinar el grado
+  correcto de rotación se puede colocar una mano sobre el esternón y otra
+  sobre la apófisis espinosa correspondiente. El objetivo es proyectar el
+  esternón sobre la silueta cardiaca, utilizando la densidad homogénea del
+  mediastino como fondo uniforme que facilita la detección de alteraciones
+  en el contorno y la cortical esternal.
+
+rayo_central: >
+  Perpendicular al plano del receptor. Punto de entrada: centro del esternón,
+  a 2,5 cm a la izquierda de la línea media del paciente. Respiración:
+  suspendida en espiración. La espiración eleva el diafragma, reduce el
+  campo pulmonar superpuesto y mejora el contraste sobre el esternón.
+
+anatomia_visible: >
+  Manubrio, cuerpo y apéndice xifoides del esternón. Articulaciones
+  esternoclaviculares. Articulaciones costoesternales. El esternón debe
+  proyectarse sobre la silueta cardiaca, libre de superposición de vértebras
+  dorsales. La superposición sobre el mediastino es una ventaja: su densidad
+  homogénea actúa como fondo uniforme que facilita la detección de
+  alteraciones en el contorno y la cortical esternal. Todo el eje longitudinal
+  desde el manubrio hasta el xifoides debe estar visible en la imagen.
+
+criterios_calidad: >
+  Posicionamiento correcto: esternón superpuesto con la silueta cardiaca sin
+  contacto con las vértebras dorsales; todo el eje longitudinal desde el
+  manubrio hasta el xifoides visible en la imagen; borde superior del receptor
+  4 cm por encima de la escotadura yugular asegurando inclusión del manubrio.
+  Ausencia de rotación incorrecta: el esternón no debe proyectarse sobre el
+  campo pulmonar derecho; si se observa trama pulmonar superpuesta al hueso
+  la rotación es insuficiente o está invertida.
+  Penetración y contraste: esternón visible a través de las costillas, el
+  corazón y el pulmón con alto contraste; kVp bajo garantiza diferenciación
+  de bordes esternales y detección de trazos de fractura.
+  Puntos críticos — Proyección hacia el campo pulmonar derecho: si el esternón
+  se superpone con el parénquima pulmonar derecho, la trama vascular puede
+  simular fracturas o lesiones óseas, con especial riesgo en pacientes añosos
+  y fumadores; siempre proyectar hacia la silueta cardiaca izquierda.
+  Rotación insuficiente o excesiva: la rotación insuficiente superpone el
+  esternón sobre la columna vertebral; la excesiva lo desplaza hacia el pulmón
+  derecho; el rango de 15 a 20° debe ajustarse al biotipo del paciente.
+  Adaptaciones: para paciente politraumatizado que no puede oblicuarse, se
+  realiza una OPI en decúbito supino angulando el RC 15 a 20° hacia el lado
+  izquierdo; la imagen tiene menor fidelidad diagnóstica y se valoran el
+  contorno esternal y la integridad de la cortical.
+  Trucos: el esternón es un órgano hematopoyético y radiosensible; la OAD
+  lo aleja de la fuente reduciendo la dosis respecto a la OAI y produciendo
+  menor magnificación geométrica. Usar la mano como referencia para
+  determinar la rotación correcta: una mano sobre el esternón y otra sobre
+  la apófisis espinosa correspondiente orienta el grado de oblicuidad necesario.

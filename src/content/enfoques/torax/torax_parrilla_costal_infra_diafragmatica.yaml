@@ -1,0 +1,86 @@
+titulo: Parrilla Costal Frente Infra Diafragmática
+region: torax
+subregion: torax
+orden: 7
+alias:
+  - Costillas infra diafragmáticas frente
+  - Arcos costales inferiores AP
+  - Parrilla costal inferior
+
+dato_clinico: >
+  Traumatismo con sospecha de fractura de arcos costales inferiores
+  (9.a a 12.a costilla). Dolor costal agudo o crónico de localización
+  inferior al diafragma. Evaluación post-protocolo de tórax PA para
+  descartar neumotórax o hemotórax. Proyección básica; forma par con
+  la proyección oblicua costal inferior correspondiente. Protocolo
+  obligatorio de dos pasos: primero radiografía de tórax PA estándar
+  a 180 cm para descartar neumotórax o hemotórax, luego el estudio
+  específico de costillas.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal. Centrado a nivel de la apófisis
+  xifoides para estudios bilaterales. El borde inferior de la imagen debe
+  llegar a nivel de las crestas ilíacas para incluir las costillas 11.a y
+  12.a en su totalidad.
+
+distancia: 100 cm
+
+tecnica: >
+  Básica o contrastada en pacientes de gran contextura. Las costillas infra
+  diafragmáticas están rodeadas de estructuras abdominales densas y el
+  diafragma muscular, lo que genera mayor dispersión y requiere mayor
+  contraste entre hueso y tejidos blandos. kVp 70 a 80: un kVp medio
+  garantiza la penetración adecuada a través del diafragma muscular y las
+  estructuras abdominales densas. Bucky mural con grilla.
+
+posicion_paciente: >
+  Decúbito supino (preferible al de pie para la región infra diafragmática).
+  En decúbito el diafragma se eleva a su posición más alta, reduciendo el
+  espesor abdominal efectivo y mejorando la visualización de las costillas
+  inferiores a través de las estructuras abdominales. Adaptación: si el
+  paciente no puede mantenerse en decúbito supino, considerar la
+  bipedestación, teniendo presente que en esa posición el diafragma
+  desciende y el abdomen se engrosa, pudiendo requerir ajuste de kVp.
+  En pacientes de gran contextura usar técnica contrastada.
+
+posicion_region: >
+  Plano medio sagital perpendicular al receptor e isocentrado. Se apoya
+  la región posterior para los arcos posteriores.
+
+rayo_central: >
+  Perpendicular al plano del receptor.
+  Bilateral: centrado a nivel de la apófisis xifoides.
+  Unilateral: centrado en la línea medioclavicular del hemitórax de interés,
+  a la misma altura de la apófisis xifoides. Respiración: espiración y apnea.
+  El ascenso del diafragma lo posiciona a nivel de la 7.a a 8.a costilla
+  posterior, proporcionando una densidad uniforme sin interfase aire-partes
+  blandas por debajo del diafragma. La ausencia de esta interfase evita
+  artefactos que pueden simular fracturas costales.
+
+anatomia_visible: >
+  11.a y 12.a costillas (costillas flotantes) por debajo del diafragma,
+  proyectadas a través de las estructuras abdominales. La región abdominal
+  circundante (hígado, bazo, riñones) se visualiza como densidad de partes
+  blandas. El borde inferior de la imagen incluye las crestas ilíacas como
+  referencia de margen inferior.
+
+criterios_calidad: >
+  Posicionamiento correcto: visualización de la 11.a y 12.a costilla por
+  debajo del diafragma; borde inferior de la imagen a nivel de las crestas
+  ilíacas.
+  Ausencia de rotación: simetría bilateral de las estructuras abdominales;
+  columna vertebral centrada en la imagen.
+  Penetración y contraste: visualización de los arcos costales inferiores
+  con contraste adecuado a través de la densidad abdominal; sin
+  sobreexposición de partes blandas.
+  Puntos críticos — Fase respiratoria incorrecta (inspiración): el diafragma
+  desciende y genera una interfase aire-partes blandas que puede simular
+  fracturas costales y dificulta la evaluación; instruir correctamente al
+  paciente para espiración y apnea. kVp insuficiente: subexposición con
+  arcos costales inferiores no visibles a través de la densidad abdominal;
+  asegurar kVp 70 a 80 para adecuada penetración.
+  Trucos: el cambio de posición (decúbito para infra, bipedestación para
+  supra) responde a la lógica del diafragma: se necesita que esté alto para
+  la región infra y bajo para la región supra. La fase respiratoria es opuesta
+  a la de la proyección supra diafragmática por la misma razón: espiración
+  para infra, inspiración para supra.

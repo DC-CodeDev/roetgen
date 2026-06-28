@@ -1,0 +1,102 @@
+titulo: Aparato Urinario Simple AP
+region: abdomen
+subregion: abdomen
+orden: 6
+alias:
+  - AUS
+  - Urograma simple
+  - Riñones uréteres vejiga
+  - RUV
+  - KUB
+
+dato_clinico: >
+  Litiasis renal o ureteral: detección de cálculos por su densidad cálcica
+  pura (el medio de contraste los encubriría). Valoración de calcificaciones
+  anómalas en la vía urinaria. Estudio preliminar previo a la administración
+  de medio de contraste para identificar signos basales: obstrucción,
+  hidronefrosis, tumores, infecciones. Proyección básica; radiografía
+  exploratoria sin contraste equivalente a un frente de abdomen. Constituye
+  la proyección preliminar obligatoria antes de estudios con medio de
+  contraste (UIV, uretrocistografía, etc.). Los cálculos solo se ven sin
+  medio de contraste: esta proyección es la única que los muestra por su
+  densidad cálcica pura.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal para incluir desde T12 hasta la
+  sínfisis del pubis. Centrado a la altura de las crestas ilíacas (L4).
+  En pacientes muy altos, realizar una primera exposición con este receptor
+  y complementar con un segundo receptor de 24 x 30 cm en orientación
+  transversal, centrado 5 a 7 cm por encima del borde superior de la
+  sínfisis del pubis, para incluir la vejiga.
+
+distancia: 100 cm
+
+tecnica: >
+  Intermedia. Las densidades del abdomen son muy homogéneas (bajo contraste
+  intrínseco), por lo que se requiere escala larga de grises para diferenciar
+  el contorno de las vísceras (riñones), tejido adiposo, aire y estructuras
+  óseas. Espesor medido a nivel de las crestas ilíacas (L4). Bucky de mesa
+  con grilla.
+
+posicion_paciente: >
+  Decúbito supino sobre la mesa de examen. Plano medio sagital (PMS)
+  perpendicular a la mesa y centrado sobre la línea media del receptor.
+  Brazos colocados de manera que no proyecten sombras sobre el receptor
+  de imagen. Solicitar al paciente que retire ropa interior con elementos
+  metálicos (hebillas, ganchos) para evitar artefactos sobre la región
+  pelviana. En paciente con dificultad para el decúbito supino, puede
+  realizarse en bipedestación (AP de pie); verificar que no haya
+  desplazamiento renal por efecto gravitacional que altere la región incluida.
+
+posicion_region: >
+  Sin rotación de pelvis ni tronco: las espinas ilíacas anterosuperiores
+  (EIAS) deben quedar equidistantes a la mesa. Leve flexión de rodillas
+  con apoyo para aliviar la tensión lumbar. La región a incluir comprende
+  desde T12 (polo superior de los riñones) hasta la sínfisis del pubis
+  (incluida la vejiga, que puede extenderse por debajo de la sínfisis
+  cuando está llena).
+
+rayo_central: >
+  Perpendicular al plano del receptor. Punto de entrada: a la altura de
+  las crestas ilíacas (L4), sobre el plano medio coronal. Receptor centrado
+  a la altura de las crestas ilíacas. Respiración: suspendida al final de
+  la espiración. Estabiliza los órganos abdominales y reduce el espesor
+  efectivo.
+
+anatomia_visible: >
+  Riñones (silueta renal bilateral desde T12 hasta L3 aproximadamente),
+  uréteres en su trayecto desde la pelvis renal hasta la vejiga, vejiga
+  urinaria y sínfisis del pubis. Contorno hepático inferior. Silueta del
+  músculo psoas bilateral. Columna lumbar y pelvis ósea. Líneas grasas
+  periviscerales: borde ínfero-externo del hígado, línea de los músculos
+  psoas, contorno perirrenal. Calcificaciones cálcicas en la vía urinaria
+  si presentes, visibles por su densidad pura sin enmascaramiento por
+  contraste. No es indispensable incluir las cúpulas diafragmáticas; la
+  región crítica es el polo inferior renal, la vejiga y la sínfisis.
+
+criterios_calidad: >
+  Posicionamiento correcto: ambos riñones incluidos desde T12; sínfisis
+  del pubis visible en el borde inferior; columna lumbar centrada en el
+  receptor; vejiga incluida en el campo.
+  Ausencia de rotación: espinas ilíacas anterosuperiores simétricas; alas
+  ilíacas y agujeros obturadores simétricos; apófisis espinosas centradas
+  en los cuerpos vertebrales lumbares; ambas articulaciones sacroilíacas
+  equidistantes de la columna vertebral.
+  Penetración y contraste: escala larga de grises con diferenciación entre
+  contorno renal, tejido adiposo perivisceral, calcificaciones y estructuras
+  óseas; líneas grasas periviscerales visibles confirmando técnica adecuada.
+  Puntos críticos — Rotación de pelvis o tronco: proyección asimétrica de
+  las alas ilíacas y falsa lateralización de estructuras urinarias,
+  dificultando la localización de cálculos; si un lado aparece más inclinado
+  el medio de contraste puede llegar más rápido a ese riñón en estudios
+  dinámicos, falseando el resultado funcional; verificar que las EIAS sean
+  equidistantes antes de disparar. Artefactos metálicos: hebillas o ganchos
+  de ropa interior sobre la región pelviana oscurecen la vía urinaria
+  inferior; solicitar su retiro antes de posicionar al paciente.
+  Trucos: recordar que los cálculos NO se ven con medio de contraste; esta
+  proyección es la única que los muestra por su densidad cálcica pura, por
+  lo que debe realizarse siempre como estudio previo a cualquier estudio
+  con contraste de la vía urinaria. En pacientes muy altos complementar
+  con segundo receptor de 24 x 30 cm para incluir la vejiga. El polo
+  inferior renal es la referencia más importante: debe quedar siempre
+  dentro del campo.

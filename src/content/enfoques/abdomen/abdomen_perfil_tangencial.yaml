@@ -1,0 +1,89 @@
+titulo: Abdomen Perfil Tangencial
+region: abdomen
+subregion: abdomen
+orden: 5
+alias:
+  - Perfil tangencial de abdomen
+  - Abdomen lateral tangencial
+  - Perfil de abdomen en politraumatizado
+
+dato_clinico: >
+  Paciente que no puede ponerse de pie. Paciente politraumatizado con
+  imposibilidad de movimiento. Sospecha de neumoperitoneo en paciente
+  inmovilizado. Proyección complementaria; variante del perfil de abdomen
+  para pacientes que no pueden adoptar bipedestación ni movilizarse. No
+  reemplaza al perfil estándar en pacientes móviles: se reserva
+  exclusivamente para politraumatizados o pacientes que no pueden moverse.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal en relación con el eje mayor de la
+  región. Centrado a la altura de las crestas ilíacas. Debe incluir desde
+  las cúpulas diafragmáticas hasta la pelvis y los bordes anterior y
+  posterior del abdomen. El receptor se coloca vertical junto al paciente.
+
+distancia: 100 cm
+
+tecnica: >
+  Básica o contrastada según indicación. Espesor medido en la región de
+  mayor grosor abdominal. Bucky mural con grilla adaptado a la posición
+  del paciente, con el tubo orientado horizontalmente.
+
+posicion_paciente: >
+  Decúbito supino, sin movilizar al paciente. Brazos fuera del campo
+  visual, elevados o colocados sobre el pecho. Técnica diseñada
+  específicamente para pacientes con movilidad reducida o nula. El tubo
+  de rayos X se orienta horizontalmente y el receptor se coloca vertical
+  junto al costado del paciente.
+
+posicion_region: >
+  El paciente permanece en decúbito supino sin rotación. El receptor
+  vertical se posiciona adyacente al flanco del paciente, paralelo al
+  eje longitudinal del cuerpo. La alineación correcta del plano sagital
+  medio del paciente perpendicular al receptor es fundamental para obtener
+  un perfil verdadero sin rotación.
+
+rayo_central: >
+  Perpendicular al plano del receptor, dirigido horizontalmente. Punto de
+  entrada: a la altura de las crestas ilíacas, al plano medio coronal.
+  La horizontalidad estricta del RC garantiza que el aire libre ascienda
+  y se proyecte en la región anterior del abdomen, entre la pared abdominal
+  anterior y las vísceras. Respiración: suspendida al final de una
+  espiración. Reduce el espesor abdominal y mejora la diferenciación de
+  tejidos blandos.
+
+anatomia_visible: >
+  Abdomen de perfil desde cúpulas diafragmáticas hasta pelvis. Huesos
+  ilíacos superpuestos como indicador de ausencia de rotación. Columna
+  lumbar de perfil. Paredes abdominal anterior y posterior. En caso de
+  neumoperitoneo, el aire libre se visualiza en la región anterior del
+  abdomen, entre la pared abdominal anterior y el hígado o las vísceras.
+
+criterios_calidad: >
+  Posicionamiento correcto: abdomen de perfil visible desde cúpulas
+  diafragmáticas hasta pelvis; bordes anterior y posterior del abdomen
+  incluidos en el campo.
+  Ausencia de rotación: huesos ilíacos superpuestos; cualquier rotación
+  del paciente impide la superposición de los ilíacos y dificulta la
+  identificación de neumoperitoneo; verificar alineación antes de la
+  exposición.
+  Penetración y contraste: diferenciación de tejidos blandos; región
+  anterior del abdomen visible para detectar aire libre subdiafragmático
+  anterior.
+  Puntos críticos — Indicación incorrecta: el perfil tangencial no reemplaza
+  al perfil estándar en pacientes móviles; se reserva exclusivamente para
+  politraumatizados o pacientes que no pueden moverse; en pacientes que
+  pueden movilizarse, utilizar el perfil estándar o el decúbito lateral
+  izquierdo con RC horizontal. Rotación del paciente: impide la
+  superposición de los ilíacos y dificulta la identificación de
+  neumoperitoneo; corregir la alineación antes de exponer.
+  Adaptaciones: técnica diseñada específicamente para pacientes con
+  movilidad reducida o nula; el tubo se orienta horizontalmente con el
+  receptor vertical junto al paciente; en pacientes con trauma abdominal
+  severo o inestabilidad hemodinámica, se puede posicionar el receptor
+  sin mover al paciente del transporte si la situación lo requiere.
+  Trucos: la presencia de aire libre anterior al abdomen en esta proyección
+  es indicador sensible de neumoperitoneo en el paciente inmovilizado.
+  La diferencia clave respecto al decúbito lateral izquierdo con RC
+  horizontal es que en el perfil tangencial el paciente permanece en
+  decúbito supino y el tubo se orienta horizontalmente, mientras que en
+  el decúbito lateral el paciente se gira sobre su flanco.

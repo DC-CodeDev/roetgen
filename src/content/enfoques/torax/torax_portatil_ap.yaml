@@ -1,0 +1,101 @@
+titulo: Tórax Portátil AP
+region: torax
+subregion: torax
+orden: 3
+alias:
+  - Tórax AP portátil
+  - Chest X-Ray AP
+  - Proyección anteroposterior de tórax
+  - Radiografía de tórax en UCI
+
+dato_clinico: >
+  Pacientes críticos o no colaborativos en UCI o sala de internación.
+  Control de posición de dispositivos médicos: sondas, catéteres,
+  tubo endotraqueal. Seguimiento de patología torácica en pacientes
+  con imposibilidad de bipedestación. Sospecha de derrame pleural,
+  neumotórax o consolidación en contexto de urgencia.
+
+receptor: >
+  35 x 43 cm. Orientación transversal en pacientes hiperesténicos y
+  esténicos; longitudinal en pacientes asténicos e hipoesténicos, para
+  incluir correctamente el eje longitudinal del tórax según el hábito
+  corporal. Borde superior 4 a 5 cm por encima de los hombros.
+
+distancia: >
+  La mayor distancia que permita el equipo y la situación clínica.
+  Mínima de 100 cm. A menor distancia se incrementa la magnificación
+  del mediastino; con la distancia habitual de trabajo portátil se genera
+  una magnificación aproximada del 15% respecto a la proyección PA estándar.
+
+tecnica: >
+  Ajustada a la distancia real de trabajo y a la ausencia de Bucky.
+  kVp reducido respecto a la técnica estándar para disminuir la radiación
+  secundaria por efecto Compton, compensando la falta de grilla y mejorando
+  el contraste de la imagen. mAs ajustado a la distancia utilizada. Sin
+  método de medición de espesor estandarizado; se ajusta según las
+  condiciones del paciente y el equipo disponible. Sin Bucky ni grilla:
+  limitación inherente a la técnica portátil que genera mayor ruido y
+  menor contraste respecto a la técnica estándar.
+
+posicion_paciente: >
+  Paciente lo más erguido posible, idealmente a 90° en la camilla
+  (sedestación o semisentado). La posición vertical favorece la detección
+  de derrames pleurales, neumotórax y niveles hidroaéreos. En posición
+  supina o con escasa elevación estas patologías son más difíciles de
+  detectar por pérdida del efecto gravitacional. En decúbito supino
+  estricto se asumen las limitaciones diagnósticas correspondientes.
+
+posicion_region: >
+  Se indica rodar los hombros del paciente hacia adelante, rotando los
+  brazos medial o internamente, para alejar las escápulas de los campos
+  pulmonares. Se centra al paciente respecto al rayo central y al receptor,
+  verificando la alineación visionando al paciente desde la parte superior,
+  cerca del tubo. Receptor colocado detrás del tórax del paciente, centrado
+  a nivel de T7. En pacientes con múltiples dispositivos médicos se solicita
+  ayuda al personal del área para posicionar el receptor sin traccionar ni
+  desconectar los dispositivos.
+
+rayo_central: >
+  Perpendicular al receptor y al esternón. Si es necesario, se angula
+  caudalmente (aproximadamente -5°) hasta lograr la perpendicularidad
+  respecto al eje longitudinal del esternón, para impedir que las clavículas
+  oculten los vértices pulmonares. Punto de entrada: T7, aproximadamente
+  8 a 10 cm por debajo de la escotadura yugular. Respiración: idealmente
+  suspendida al final de una inspiración completa; dado que muchos pacientes
+  no pueden colaborar plenamente, se recomienda visualizar el tórax del
+  paciente y disparar en el momento de mayor volumen respiratorio visible.
+
+anatomia_visible: >
+  Campos pulmonares. Silueta cardiaca con magnificación inherente a la
+  técnica AP y al menor DFRI. Mediastino. Estructuras óseas torácicas:
+  costillas, clavículas, esternón proyectado. Hemidiafragmas y ángulos
+  costofrénicos (con limitaciones en posición supina). Dispositivos médicos
+  en caso de estar presentes: sondas, catéteres, tubo endotraqueal.
+
+criterios_calidad: >
+  Posicionamiento correcto: escápulas alejadas de los campos pulmonares;
+  tórax centrado respecto al receptor; inclusión de ambos ángulos costofrénicos
+  y vértices pulmonares; borde superior del receptor 4 a 5 cm por encima
+  de los hombros.
+  Ausencia de rotación: simetría de las articulaciones esternoclaviculares
+  respecto a la columna vertebral; columna vertebral centrada en la imagen.
+  Penetración y contraste: se deben mantener los mismos criterios de valor
+  diagnóstico que en la radiografía estándar. Se aceptan tres variaciones
+  inherentes a la técnica: (1) silueta cardiaca magnificada por el menor DFRI
+  y el aumento de la distancia objeto-receptor; (2) posible ocultamiento de
+  la trama vascular por derrame pleural; (3) visualización de solo 8 a 9
+  costillas posteriores por inspiración incompleta, con pulmones de mayor
+  densidad aparente al no estar completamente ventilados.
+  Puntos críticos — Magnificación del mediastino: consecuencia directa del
+  menor DFRI y de la proyección AP; no es un error técnico sino una limitación
+  estructural de la técnica, debe tenerse en cuenta al evaluar el índice
+  cardiotorácico. Ausencia de Bucky: genera mayor ruido y menor contraste;
+  se compensa reduciendo el kVp para disminuir la radiación secundaria por
+  efecto Compton.
+  Trucos: la calidad de imagen de una radiografía portátil nunca debe aceptarse
+  como inferior por el solo hecho de serlo; el objetivo sigue siendo alcanzar
+  los mismos criterios diagnósticos de la proyección estándar dentro de las
+  limitaciones del contexto. Visualizar al paciente desde arriba (cerca del tubo)
+  antes de disparar permite verificar la alineación sin movilizarlo. La PA
+  magnifica menos el corazón que la AP: dato relevante para interpretar el
+  índice cardiotorácico en este contexto.

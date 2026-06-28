@@ -1,0 +1,99 @@
+titulo: Abdomen AP Decúbito Lateral Izquierdo RC Horizontal
+region: abdomen
+subregion: abdomen
+orden: 3
+alias:
+  - Frente lateralizado de abdomen
+  - Abdomen decúbito lateral izquierdo
+  - Abdomen RC horizontal
+  - Decúbito lateral izquierdo abdomen agudo
+
+dato_clinico: >
+  Sospecha de neumoperitoneo (aire libre intraperitoneal). Detección de
+  niveles hidroaéreos en paciente sin tolerancia a la bipedestación. Paciente
+  en estado crítico o con movilidad muy reducida. Proyección complementaria;
+  suplanta la proyección frente en bipedestación cuando el paciente no puede
+  ponerse de pie. Es la proyección más importante para detectar neumoperitoneo
+  en el paciente que no puede deambular. Se prefiere el lado izquierdo para
+  evitar que el aire libre se confunda con la burbuja gástrica, que normalmente
+  ocupa el hemiabdomen izquierdo.
+
+receptor: >
+  35 x 43 cm. Orientación transversal, siguiendo el eje longitudinal de la
+  región abdominal. El receptor se coloca vertical, paralelo al eje longitudinal
+  del paciente. Centrado a nivel de las crestas ilíacas. Debe incluir ambos
+  diafragmas en el margen superior y la sínfisis del pubis en el margen
+  inferior.
+
+distancia: 100 cm
+
+tecnica: >
+  Básica con alto kVp. Permite visualizar el aire libre como zona radiolúcida
+  sobre el fondo gris de los órganos sólidos; el RC atraviesa el abdomen de
+  forma horizontal para que el aire, al ascender por flotabilidad, quede
+  proyectado en el margen superior de la cavidad. Espesor medido a nivel de
+  las crestas ilíacas. Bucky de mesa con grilla.
+
+posicion_paciente: >
+  Decúbito lateral izquierdo (perfil), apoyando el flanco izquierdo sobre
+  la mesa o camilla. Si es posible, mantener al paciente en esta posición
+  durante al menos 5 minutos antes de la exposición para permitir que el
+  aire libre ascienda a su máxima altura y el líquido intraperitoneal se
+  redistribuya hacia el flanco izquierdo. En pacientes con trauma abdominal
+  severo o inestabilidad hemodinámica, la exposición se realiza con el mínimo
+  movimiento posible; se puede posicionar el receptor sin mover al paciente
+  del transporte si la situación lo requiere.
+
+posicion_region: >
+  Crestas ilíacas centradas sobre el receptor de imagen. Rodillas parcialmente
+  flexionadas, apoyadas una sobre la otra, para estabilizar al paciente.
+  Brazos elevados por encima del nivel del diafragma y apoyados bajo la
+  cabeza, de modo que no se superpongan sobre el contenido abdominal.
+  Alas ilíacas simétricas; bordes costales inferiores externos equidistantes
+  respecto a la columna vertebral.
+
+rayo_central: >
+  Horizontal, perpendicular al plano del receptor. La horizontalidad estricta
+  del RC es la condición técnica más crítica de esta proyección: si el RC
+  no es horizontal los niveles hidroaéreos se distorsionan y el aire libre
+  puede no proyectarse en el margen correcto, llevando a falsos negativos.
+  Punto de entrada: centro de la región abdominal, 5 cm por encima de las
+  crestas ilíacas. Respiración: al final de la espiración. Reduce el volumen
+  pulmonar, desciende los diafragmas y amplía el espacio visible de la
+  cavidad abdominal superior.
+
+anatomia_visible: >
+  Cavidad abdominal completa con ambos diafragmas incluidos. Silueta
+  hepática en el hemiabdomen derecho. Burbuja gástrica en el hemiabdomen
+  izquierdo. Niveles hidroaéreos dentro de las asas intestinales, con gas
+  en la parte superior y líquido en la inferior. Aire libre intraperitoneal
+  proyectado sobre la silueta del hígado (lado derecho, margen superior)
+  cuando existe neumoperitoneo. El lado superior de la imagen es el de mayor
+  relevancia diagnóstica para la detección de aire libre.
+
+criterios_calidad: >
+  Posicionamiento correcto: ambos diafragmas incluidos en el campo; RC
+  horizontal confirmado por la visualización de niveles líquidos perfectamente
+  horizontales dentro de las asas; crestas ilíacas centradas en la imagen.
+  Ausencia de rotación: alas ilíacas simétricas; bordes costales inferiores
+  externos equidistantes respecto a la columna vertebral; cuerpos vertebrales
+  sin oblicuidad apreciable.
+  Penetración y contraste: escala de grises que permite distinguir el aire
+  libre (negro) sobre el fondo gris de los órganos sólidos; niveles hidroaéreos
+  visibles tanto en posición superior (gas) como inferior (líquido) dentro
+  de las asas intestinales; aire intraperitoneal libre identificable sobre la
+  silueta hepática.
+  Puntos críticos — RC no horizontal: si el RC no es estrictamente horizontal
+  los niveles hidroaéreos se distorsionan y el aire libre puede no proyectarse
+  en el margen correcto generando falsos negativos; verificar la horizontalidad
+  del tubo antes de exponer. Tiempo insuficiente en decúbito: si no se
+  respetan los 5 minutos previos el aire libre puede no haber ascendido lo
+  suficiente y quedar oculto; respetar el tiempo de espera cuando la situación
+  clínica lo permita.
+  Trucos: visualizar siempre el lado superior de la imagen al evaluar, es
+  donde se proyecta el aire libre. La burbuja gástrica en el lado izquierdo
+  no debe confundirse con neumoperitoneo; el decúbito izquierdo aleja
+  precisamente ese artefacto del área diagnóstica crítica (margen hepático
+  derecho). No confundir esta proyección (frente de abdomen con RC
+  horizontal) con un perfil de abdomen: el paciente está en decúbito lateral
+  pero la imagen resultante es un frente, no un perfil.

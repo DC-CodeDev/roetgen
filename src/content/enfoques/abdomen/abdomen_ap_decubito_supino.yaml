@@ -1,0 +1,101 @@
+titulo: Abdomen AP Decúbito Supino
+region: abdomen
+subregion: abdomen
+orden: 2
+alias:
+  - Abdomen acostado
+  - Abdomen AP supino
+  - Frente de abdomen en decúbito
+  - Abdomen simple
+
+dato_clinico: >
+  Obstrucción intestinal y evaluación de niveles hidroaéreos en paciente
+  sin capacidad de bipedestación. Calcificaciones abdominales. Ascitis
+  (acumulación de líquido seroso en la cavidad peritoneal). Exploraciones
+  con contraste. Abdomen agudo. Neoplasias abdominales. Litiasis en vías
+  urinarias y biliares. Aparato urinario simple. Proyección básica; forma
+  par con la proyección AP en bipedestación. Protocolo abdomen agudo:
+  frente en decúbito supino + frente en bipedestación.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal en todos los biotipos. Centrado a
+  la altura de las crestas iliacas. El borde inferior debe incluir la
+  sínfisis del pubis; el borde superior debe alcanzar las cúpulas
+  diafragmáticas. Si el paciente es muy alto y no se logra abarcar toda
+  la pelvis, realizar una segunda exposición centrada en pelvis para
+  incluir la vejiga.
+
+distancia: 100 cm
+
+tecnica: >
+  Intermedia para paciente de contextura normal. Las densidades del abdomen
+  son muy homogéneas (bajo contraste intrínseco), por lo que se requiere
+  escala larga de grises con kVp intermedio para diferenciar el contorno
+  de las vísceras (riñones), tejido adiposo, aire y hueso. En paciente obeso
+  se utiliza técnica básica por el gran espesor y la consecuente mayor
+  radiación dispersa que engrisa la imagen. En paciente pediátrico muy
+  delgado puede homogeneizarse con herramientas de posproceso. Espesor
+  medido a nivel de las crestas iliacas. Bucky de mesa con grilla. Tiempo
+  de exposición corto para compensar movimientos involuntarios.
+
+posicion_paciente: >
+  Decúbito supino, con el plano medio sagital centrado en la línea media
+  de la mesa. Brazos a los lados del cuerpo, separados del tronco. Piernas
+  extendidas con soporte bajo las rodillas para reducir la lordosis lumbar
+  y mejorar el contacto de la espalda con la mesa. Se puede aplicar
+  tracción desde los tobillos (verificar ausencia de prótesis) o desde
+  los hombros para corregir la alineación vertebral.
+
+posicion_region: >
+  Pelvis y abdomen sin rotación: EIAS equidistantes al receptor. El
+  colimador se abre en su totalidad a lo ancho para incluir toda la región
+  abdominal. Receptor centrado a la altura de las crestas iliacas, con el
+  borde inferior situado en la sínfisis del pubis (debe quedar incluida).
+
+rayo_central: >
+  Perpendicular al plano del receptor. Punto de entrada: a la altura de
+  las crestas iliacas, dirigido al centro del receptor. Respiración: al
+  final de la espiración. La espiración disminuye el espesor abdominal
+  al reducir el aire y permite mayor relajación de la pared abdominal,
+  mejorando la nitidez de los contornos viscerales.
+
+anatomia_visible: >
+  Contorno de riñones. Borde inferior hepático. Músculo psoas bilateral.
+  Marco intestinal. Columna lumbar y pelvis ósea. Cúpulas diafragmáticas
+  en el límite superior. Sínfisis del pubis en el límite inferior. Pared
+  abdominal lateral y capa adiposa peritoneal. Apófisis transversas de
+  las vértebras lumbares. Costillas inferiores. Líneas grasas periviscerales
+  como indicador de técnica adecuada: borde ínfero-externo del hígado,
+  línea de los músculos psoas (desde L1 hasta la pelvis), contorno
+  perirrenal. En decúbito supino los niveles hidroaéreos pueden observarse
+  pero no son tan evidentes como en bipedestación.
+
+criterios_calidad: >
+  Posicionamiento correcto: columna vertebral centrada en el receptor;
+  crestas iliacas y cúpulas diafragmáticas incluidas; sínfisis del pubis
+  visible en el borde inferior. Si alguno de los dos límites queda excluido,
+  la radiografía carece de valor diagnóstico.
+  Ausencia de rotación: espinas iliacas anterosuperiores simétricas; alas
+  iliacas y agujeros obturadores simétricos; apófisis espinosas centradas
+  en los cuerpos vertebrales lumbares; caderas equidistantes a los bordes
+  laterales de la imagen.
+  Penetración y contraste: escala larga de grises con kVp intermedio;
+  diferenciación visible entre contorno renal, tejido adiposo perivisceral,
+  gas intestinal y estructuras óseas; líneas grasas periviscerales visibles
+  confirmando técnica adecuada.
+  Puntos críticos — No incluir la sínfisis del pubis: vejiga y segmento
+  pélvico fuera del campo; ante paciente de gran talla agregar una segunda
+  proyección centrada en pelvis. Rotación de pelvis u hombros: genera
+  asimetría de alas iliacas y agujeros obturadores; corregir distribución
+  del peso y alineación del plano sagital antes de la exposición.
+  Adaptaciones: si el paciente no puede mantenerse en bipedestación para
+  evaluar aire libre, realizar decúbito lateral izquierdo con RC horizontal
+  como alternativa. Si los riñones no son el área de interés, el enfoque
+  puede realizarse en PA para reducir la dosis gonadal.
+  Trucos: la tracción desde los tobillos mejora la alineación vertebral;
+  si hay prótesis en miembros inferiores, traccionar desde los hombros.
+  Usar el cátodo en la parte superior del abdomen (región más gruesa) para
+  obtener exposición uniforme aprovechando el efecto anódico. El decúbito
+  supino es menos eficaz que la bipedestación para detectar niveles
+  hidroaéreos y neumoperitoneo; siempre complementar con bipedestación
+  cuando el paciente lo tolere.

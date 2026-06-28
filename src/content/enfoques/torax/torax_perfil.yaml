@@ -1,0 +1,98 @@
+titulo: Tórax Perfil
+region: torax
+subregion: torax
+orden: 2
+alias:
+  - Tórax lateral
+  - Proyección lateral de tórax
+  - Lateral izquierda de tórax
+  - Lateral derecha de tórax
+
+dato_clinico: >
+  Demostración de patologías situadas por detrás del corazón, grandes vasos
+  y el esternón. Demostración de fisuras interlobulares y diferenciación de
+  lóbulos pulmonares. Localización de lesiones pulmonares (complementa la
+  proyección frontal). Derrame pleural. Hemotórax (presencia de sangre en
+  cavidad pleural). Neumotórax (pérdida de trama pulmonar). Atelectasias
+  y signos de infección.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal (vertical), con el borde superior
+  ubicado 4 a 5 cm por encima de los hombros.
+
+distancia: 180 a 200 cm
+
+tecnica: >
+  Ultra-homogeneizada (5 o 6 homogenizaciones). Permite obtener una escala
+  de grises larga, reduciendo el contraste y posibilitando la visualización
+  simultánea del parénquima pulmonar, el mediastino y las estructuras óseas,
+  incluyendo la trama pulmonar detrás de las costillas y el corazón.
+  kVp igual al utilizado en la proyección frontal. mAs = mAs del frente x 4
+  (factor 3,5 estándar; factor 4 en pacientes obesos). El factor de
+  multiplicación compensa el mayor espesor que debe atravesar el rayo central
+  en la proyección lateral. Bucky mural con grilla, obligatorio dado el espesor
+  de la región y la técnica de alta tensión utilizada.
+
+posicion_paciente: >
+  Bipedestación o sedestación erguida. Plano medio sagital (PMS) paralelo al
+  receptor de imagen. El peso corporal se distribuye de manera equitativa entre
+  ambas piernas. La posición vertical favorece el descenso del diafragma por
+  acción de la gravedad, permitiendo mejor visualización de los campos
+  pulmonares y los ángulos costofrénicos, facilita la demostración de niveles
+  hidroaéreos y evita la ingurgitación de los vasos sanguíneos pulmonares.
+  Elección del lado: lateral izquierda (lado izquierdo apoyado en el receptor)
+  para demostrar el corazón y el pulmón izquierdo; lateral derecha para
+  demostrar el pulmón derecho.
+
+posicion_region: >
+  El hombro adyacente al receptor se apoya sobre el mismo. El plano medio
+  coronal debe estar perpendicular y centrado en la línea media del receptor.
+  El paciente eleva ambos brazos directamente hacia arriba, flexiona los codos
+  y mantiene los antebrazos apoyados sobre la cabeza; en pacientes inestables
+  se coloca un pie de gotero al frente y el paciente se sujeta lo más alto
+  posible. Borde superior del receptor 4 a 5 cm por encima de los hombros.
+  Se verifica que el plano medio sagital esté vertical: en función de la anchura
+  de los hombros, la parte inferior del tórax y las caderas pueden quedar a mayor
+  distancia del receptor, pero esta posición es necesaria para obtener una
+  proyección lateral verdadera. No se debe inclinar el paciente hacia el receptor
+  (acortamiento), ya que produce distorsión de todas las estructuras torácicas.
+
+rayo_central: >
+  Perpendicular al receptor de imagen, sin angulación. Punto de entrada:
+  plano medio coronal a la altura de T7, aproximadamente a nivel del ángulo
+  inferior de las escápulas, 8 a 10 cm por debajo de la escotadura yugular.
+  Receptor centrado a nivel de T7. Respiración suspendida al final de una
+  inspiración máxima (segunda inspiración forzada para garantizar la máxima
+  expansión pulmonar). Marcación radiológica: perfil derecho se marca
+  anterior; perfil izquierdo se marca posterior. En el par radiológico solo
+  se marca el frente.
+
+anatomia_visible: >
+  Campos pulmonares con eje longitudinal en posición vertical sin inclinación
+  anterior ni posterior. Silueta cardiaca con contornos nítidos. Mediastino.
+  Esternón en perfil sin rotación. Tráquea y esófago llenos de aire. Región
+  hilar en el centro aproximado de la imagen. Costillas posteriores
+  superpuestas entre sí sobre la columna vertebral. Hemidiafragmas con
+  ángulos costofrénicos incluidos. Espacios intervertebrales torácicos y
+  agujeros intervertebrales abiertos (excepto en pacientes con escoliosis).
+  Brazos y partes blandas no superpuestos a la parte superior de los campos
+  pulmonares.
+
+criterios_calidad: >
+  Posicionamiento correcto: costillas posteriores superpuestas sobre la columna
+  vertebral; esternón en perfil sin rotación; eje largo de los campos pulmonares
+  en posición vertical sin inclinación anterior ni posterior; ángulos costofrénicos
+  y vértices pulmonares incluidos; hilios pulmonares en el centro aproximado
+  de la imagen; borde superior del receptor 4 a 5 cm por encima de los hombros.
+  Ausencia de rotación: superposición de las costillas posteriores; esternón
+  proyectado en perfil verdadero; brazos y partes blandas sin superponerse
+  a los campos pulmonares superiores.
+  Penetración y contraste: escala larga de grises con visualización simultánea
+  del parénquima pulmonar, el mediastino y las estructuras óseas; trama
+  pulmonar visible detrás de las costillas y el corazón; contornos nítidos del
+  corazón y el diafragma; espacios intervertebrales torácicos abiertos.
+  Trucos: el factor de multiplicación de mAs x 4 compensa el mayor espesor
+  lateral. La DFRI aumentada reduce la magnificación de las estructuras
+  mediastínicas. No inclinar al paciente hacia el receptor; la inclinación produce
+  distorsión geométrica de todas las estructuras torácicas. Pacientes
+  inestables: utilizar pie de gotero como apoyo.

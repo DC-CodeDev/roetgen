@@ -1,0 +1,85 @@
+titulo: Esternón Perfil
+region: torax
+subregion: torax
+orden: 11
+alias:
+  - Lateral de esternón
+  - Esternón lateral
+  - Perfil de esternón
+
+dato_clinico: >
+  Fractura esternal en contexto postraumático. Dolor retroesternal o dolor
+  medio del pecho. Procesos inflamatorios o infecciosos esternales. Control
+  de osteosíntesis esternal. Proyección complementaria del esternón; forma
+  par con la OAD de esternón.
+
+receptor: >
+  24 x 30 cm. Orientación longitudinal en relación al eje mayor del esternón.
+  Centrado en el esternón. Borde superior ubicado 4 cm por encima de la
+  escotadura yugular para incluir el manubrio. Colimar a los cuatro lados
+  del área esternal.
+
+distancia: 140 a 180 cm
+
+tecnica: >
+  Intermedia. El esternón es un hueso plano, subcutáneo y rodeado de partes
+  blandas y aire; se utiliza únicamente el espesor del esternón como referencia
+  de medición. Se busca máximo contraste óseo. kVp intermedio — mAs según
+  espesor medido exclusivamente a nivel del esternón. La DFRI aumentada
+  (140 a 180 cm) compensa la magnificación geométrica producida por la mayor
+  distancia entre el esternón y el receptor en posición lateral. Bucky con grilla.
+
+posicion_paciente: >
+  De pie (preferible) o en decúbito lateral. En bipedestación, el hombro
+  del lado estudiado apoyado contra el receptor. Plano medio sagital paralelo
+  al receptor de imagen.
+
+posicion_region: >
+  En bipedestación — posición de himno: se instruye al paciente a sacar el
+  pecho, llevar los brazos y hombros hacia atrás y entrelazar las manos por
+  detrás de la espalda. Esta maniobra proyecta el esternón anteriormente,
+  separándolo de las estructuras posteriores y reduciendo la superposición
+  de costillas.
+  En decúbito lateral: paciente recostado sobre un lado, brazos elevados por
+  encima de la cabeza, hombros llevados hacia atrás. Posición lateral estricta,
+  sin rotación.
+
+rayo_central: >
+  Perpendicular al plano del receptor. Punto de entrada: borde lateral del
+  esternón a nivel de su zona media. Respiración: suspendida en inspiración.
+  Al inspirar, los pulmones se llenan de aire y el esternón se desplaza
+  anteriormente, mejorando su separación de las estructuras posteriores y
+  aumentando el contraste. Nota: fase respiratoria opuesta a la OAD de
+  esternón, que utiliza espiración.
+
+anatomia_visible: >
+  Todo el esternón en perfil: manubrio, cuerpo y apéndice xifoides, desde
+  la escotadura yugular hasta el extremo inferior del xifoides. El esternón
+  debe visualizarse libre de superposición de costillas y con mínima
+  superposición de partes blandas. No es una imagen de alta fidelidad
+  diagnóstica; su valor principal reside en la evaluación del contorno
+  anterior y posterior del hueso.
+
+criterios_calidad: >
+  Posicionamiento correcto: todo el eje longitudinal del esternón visible
+  desde el manubrio hasta el xifoides, sin superposición de costillas;
+  borde superior del receptor 4 cm por encima de la escotadura yugular.
+  Ausencia de rotación: el esternón se proyecta en perfil estricto; cualquier
+  rotación del tronco superpone estructuras costales sobre el cuerpo esternal.
+  Penetración y contraste: bordes óseos nítidos con máximo contraste;
+  la nitidez de los bordes confirma además la ausencia de movimiento durante
+  la exposición; mínima superposición de partes blandas sobre la cortical
+  esternal.
+  Puntos críticos — Magnificación por distancia objeto-receptor: en posición
+  lateral el esternón queda alejado del receptor; si no se compensa aumentando
+  la DFRI a 140 a 180 cm se produce magnificación significativa que distorsiona
+  la imagen y dificulta la evaluación de trazos de fractura. Rotación del
+  paciente: cualquier rotación del tronco superpone las costillas sobre el
+  esternón oscureciendo el contorno óseo; corrección: verificar que el PMS
+  quede estrictamente paralelo al receptor antes de exponer.
+  Trucos: la posición de himno (pecho hacia adelante, brazos atrás, manos
+  entrelazadas detrás de la espalda) es el recurso clave en bipedestación para
+  proyectar el esternón anteriormente y liberar su contorno. La inspiración
+  amplifica este efecto al desplazar el esternón aun más hacia adelante.
+  La DFRI aumentada es obligatoria: no compensarla es el error técnico más
+  frecuente en esta proyección.

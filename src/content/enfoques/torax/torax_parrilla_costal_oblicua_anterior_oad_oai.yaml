@@ -1,0 +1,120 @@
+titulo: Parrilla Costal Oblicua Anterior PA — Porción Axilar OAD y OAI
+region: torax
+subregion: torax
+orden: 8
+alias:
+  - Oblicua anterior costal OAD
+  - Oblicua anterior costal OAI
+  - Oblicua costal PA porción axilar
+  - OAD parrilla costal
+  - OAI parrilla costal
+
+dato_clinico: >
+  Golpe en el borde axilar del tórax. Lesiones, fisuras o traumatismo costal
+  con dolor localizado post-trauma. Puntada o dolor en el costado de origen
+  traumático. Proyección complementaria; se realiza siempre luego de la
+  radiografía de tórax PA estándar a 180 cm para descartar neumotórax,
+  hemotórax o hemoneumotórax y priorizar el hemitórax a estudiar.
+  Forma par según el lado afectado: OAI (hombro anterior izquierdo apoyado)
+  para desplegar la curva axilar derecha; OAD (hombro anterior derecho
+  apoyado) para visualizar las porciones medias y anteriores del lado derecho.
+  Para la porción anterior y medial de los arcos costales la oblicua estándar
+  es insuficiente: se debe agregar una segunda oblicua del mismo lado afectado
+  acercando el lado afectado al receptor.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal (eje mayor del receptor paralelo al
+  eje mayor de la región costal). Borde superior colocado 4 cm por encima
+  del borde superior del hombro. La región a incluir abarca el hemitórax
+  de interés desde los vértices costales hasta los ángulos costofrénicos.
+
+distancia: 100 cm
+
+tecnica: >
+  Básica o intermedia con interés óseo. Se utiliza kVp bajo para obtener
+  alto contraste, permitiendo visualizar las costillas de extremo a extremo
+  con su cortical ósea sin que el contraste del aire pulmonar enmascare
+  posibles fisuras o fracturas. kVp bajo (técnica de alto contraste) — mAs
+  según espesor del hemitórax medido en la región de interés. Bucky de
+  pared con grilla, dado el espesor de la región y para reducir la radiación
+  dispersa.
+
+posicion_paciente: >
+  Bipedestación en posición PA frente al Bucky de pared, o en decúbito
+  semiprono si el paciente no puede estar de pie. El lado afectado se
+  aleja del receptor a 45°. El paciente mira hacia adelante durante toda
+  la exposición.
+
+posicion_region: >
+  Rotación del cuerpo de 45° respecto al plano del receptor, alejando el
+  lado afectado del receptor. La nomenclatura se da por el lado que apoya
+  contra el receptor, no por el lado afectado.
+
+  OAI (hombro anterior izquierdo apoyado — lado afectado derecho):
+  El hombro anterior izquierdo queda apoyado contra el RI; el lado afectado
+  derecho queda alejado a 45°. El brazo izquierdo (lado apoyado) con el
+  codo flexionado y la mano sobre la cadera con la palma hacia afuera.
+  El brazo derecho (lado alejado) elevado hasta la altura del hombro o
+  tomado a la parte superior del Bucky para no tapar los pulmones.
+  Despliega la curva axilar y los arcos costales anteriores derechos.
+
+  OAD (hombro anterior derecho apoyado — lado afectado izquierdo):
+  El hombro anterior derecho queda apoyado contra el RI; el lado afectado
+  izquierdo queda alejado a 45°. El brazo derecho (lado apoyado) con el
+  codo flexionado y la mano sobre la cadera con la palma hacia afuera.
+  El brazo izquierdo (lado alejado) elevado hasta la altura del hombro o
+  tomado a la parte superior del Bucky. Visualiza las porciones medias y
+  anteriores del lado derecho con mayor nitidez para la búsqueda de fracturas.
+
+rayo_central: >
+  Perpendicular al plano del receptor. Punto de entrada: T7, equivalente
+  a 8 a 10 cm por debajo de la escotadura yugular (por debajo del nivel
+  de la vértebra prominente C7). Respiración según región de interés:
+  costillas supra diafragmáticas: suspensión al final de una inspiración
+  profunda, para descender el diafragma y liberar los arcos costales
+  superiores; costillas infra diafragmáticas: suspensión al final de una
+  espiración profunda, para elevar el diafragma y descubrir los arcos
+  costales inferiores.
+
+anatomia_visible: >
+  Porción axilar de las costillas del hemitórax de interés desplegada y
+  libre de superposición. Las costillas son visibles a través del pulmón
+  o del abdomen según la región estudiada (supra o infra diafragmática).
+  La columna vertebral queda separada del borde lateral costal, generando
+  una doble distancia entre la columna y el borde lateral de las costillas
+  del lado afectado respecto al lado contralateral. Para costillas supra
+  diafragmáticas: 8 a 9 arcos costales posteriores por encima del diafragma
+  y costillas anteriores de la 5.a a la 7.a en su totalidad por encima del
+  diafragma. La escápula del lado afectado queda desplazada lateralmente,
+  fuera del campo costal.
+
+criterios_calidad: >
+  Posicionamiento correcto: porción axilar de las costillas del lado afectado
+  libre de superposición y desplegada; doble distancia entre la columna
+  vertebral y el borde lateral costal del lado afectado respecto al
+  contralateral; escápula del lado afectado desplazada fuera del campo.
+  Ausencia de rotación excesiva: bases de los cuerpos vertebrales con borde
+  único, confirmando rotación no mayor de 45°; si se visualiza doble borde
+  en los cuerpos vertebrales el paciente está rotado más de 45° (casi de
+  perfil) y debe corregirse.
+  Penetración y contraste: costillas visibles con cortical ósea nítida a través
+  del parénquima pulmonar o del abdomen; el alto contraste obtenido con
+  bajo kVp permite identificar fisuras o fracturas sin que el contraste del
+  aire enmascare los detalles óseos.
+  Puntos críticos — Exceso de rotación (más de 45°): las costillas se acortan
+  y muestran curvatura cerrada perdiendo el despliegue axilar; corrección:
+  verificar que el plano medio sagital forme exactamente 45° con el receptor.
+  Brazo del lado alejado mal posicionado: el húmero y la escápula se
+  superponen al campo de interés; corrección: indicar al paciente que eleve
+  el brazo hasta la altura del hombro o que lo apoye en la parte superior
+  del Bucky.
+  Adaptaciones: en pacientes con trauma agudo que no toleran la
+  bipedestación, realizar en decúbito semiprono con el mismo criterio de
+  rotación de 45°; ajustar la técnica si el paciente usa inmovilizador costal.
+  Trucos: la nomenclatura de las oblicuas anteriores se da por el lado que
+  apoya contra el receptor, no por el lado afectado; para ver un lado se
+  apoya el lado contrario (principio inverso al de las oblicuas posteriores,
+  donde siempre se acerca el lado afectado). La OAD es equivalente a la
+  OPI y viceversa. Siempre anteceder con Rx de tórax PA a 180 cm para
+  descartar complicaciones pleuropulmonares antes de focalizar en la
+  parrilla costal.

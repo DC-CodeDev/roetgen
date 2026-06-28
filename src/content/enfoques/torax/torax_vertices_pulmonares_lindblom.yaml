@@ -1,0 +1,86 @@
+titulo: Método de Lindblom — Vértices Pulmonares
+region: torax
+subregion: torax
+orden: 4
+alias:
+  - Vértices pulmonares
+  - Posición lordótica
+  - Apical lordótica
+  - Proyección lordótica de tórax
+
+dato_clinico: >
+  Tuberculosis pulmonar (bacilo de Koch) y sospecha de focos apicales.
+  Nódulos, masas o tumores en vértices pulmonares. Casquetes apicales
+  y calcificaciones en región de los vértices. Descartar patología pulmonar
+  superior no visible en PA convencional por superposición clavicular.
+  Proyección complementaria: debe realizarse luego de la proyección PA
+  y perfil de tórax convencionales.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal. Borde superior del receptor
+  ubicado 7 a 8 cm por encima de los hombros. Colimación restringida
+  exclusivamente a los vértices pulmonares; incluir la totalidad de los
+  campos pulmonares implica irradiación innecesaria.
+
+distancia: 180 cm
+
+tecnica: >
+  Ultra-homogeneizada, igual que en tórax PA, pero ligeramente mayor
+  dado el mayor espesor del tórax en posición lordótica, que requiere
+  mayor penetración para visualizar tejido pulmonar retroóseo.
+  kVp similar al tórax PA, levemente aumentado. mAs levemente aumentado
+  respecto a PA. Espesor medido con el tórax en posición lordótica.
+  Bucky mural con grilla, dado el espesor de la región.
+
+posicion_paciente: >
+  Bipedestación a unos 30 cm del receptor. Plano medio sagital perpendicular
+  al receptor. Posición AP: el paciente se inclina lentamente hacia atrás,
+  apoyando hombros, cuello y nuca contra el Bucky de pared, manteniendo
+  los pies fijos en el piso. La hiperextensión del tórax es el mecanismo
+  que proyecta las clavículas hacia arriba, liberando los vértices pulmonares
+  de su superposición.
+
+posicion_region: >
+  Ambas manos sobre las caderas con las palmas hacia afuera y los hombros
+  proyectados hacia adelante. El dorso de las escápulas queda en contacto
+  con el receptor. Se verifica que el plano medio sagital esté centrado
+  respecto al receptor para evitar rotación. Receptor centrado en los
+  vértices pulmonares con borde superior 7 a 8 cm por encima de los hombros.
+
+rayo_central: >
+  Opción preferida (paciente logra lordosis): perpendicular al plano del
+  receptor, sin angulación. Punto de entrada: zona media del esternón.
+  Opción alternativa (paciente no logra lordosis): angulado 15 a 20° en
+  sentido cefálico, centrado en el manubrio esternal. La angulación introduce
+  distorsión geométrica de la región; siempre evitar angular cuando sea posible.
+  Respiración: inspiración máxima. Expande los pulmones y maximiza la
+  visualización del tejido pulmonar apical.
+
+anatomia_visible: >
+  Vértices pulmonares bilaterales libres de superposición clavicular.
+  Clavículas proyectadas por encima de los vértices en disposición horizontal.
+  Primeras y segundas costillas con sus extremos mediales superpuestos
+  a los extremos mediales de las clavículas. Segmentos anterior y posterior
+  de las costillas superpuestos y distorsionados por la oblicuación del tórax.
+  Región apical del parénquima pulmonar despejada para evaluar nódulos,
+  infiltrados o calcificaciones.
+
+criterios_calidad: >
+  Posicionamiento correcto: clavículas situadas por encima de los vértices
+  pulmonares, sin superponerse sobre el tejido pulmonar apical; colimación
+  restringida a la región apical.
+  Ausencia de rotación: extremos mediales de ambas clavículas equidistantes
+  respecto a la columna vertebral; clavículas en disposición horizontal y
+  simétrica.
+  Penetración y contraste: técnica ultra-homogeneizada que permita visualizar
+  el tejido pulmonar a través de la densidad ósea superpuesta; segmentos
+  anteriores y posteriores de las costillas distorsionados y superpuestos,
+  confirmando la correcta posición lordótica.
+  Puntos críticos — Paciente no logra la posición lordótica: las clavículas
+  permanecen superpuestas a los vértices; corrección: angular el RC 15 a 20°
+  en sentido cefálico centrando en el manubrio, con asunción de distorsión
+  geométrica. Colimación excesiva: incluir la totalidad de los campos
+  pulmonares implica irradiación innecesaria; al ser proyección complementaria
+  la colimación debe restringirse a los vértices. Adaptaciones: en pacientes
+  con dolor torácico agudo o limitación de movilidad, optar directamente
+  por la angulación del RC sin forzar la posición lordótica.

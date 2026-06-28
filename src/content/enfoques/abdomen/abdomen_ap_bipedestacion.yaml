@@ -1,0 +1,98 @@
+titulo: Abdomen AP Bipedestación
+region: abdomen
+subregion: abdomen
+orden: 1
+alias:
+  - Abdomen ortostático
+  - Abdomen de pie
+  - Frente de abdomen en bipedestación
+  - Abdomen AP ortostático
+
+dato_clinico: >
+  Búsqueda de aire libre subdiafragmático (neumoperitoneo). Obstrucción
+  intestinal con evaluación de niveles hidroaéreos. Abdomen agudo cuando
+  el paciente puede mantenerse en pie. Masas abdominales. Acumulación
+  de aire intraperitoneal debajo del diafragma. Proyección básica; forma
+  par con la proyección AP en decúbito supino. Protocolo abdomen agudo:
+  frente en decúbito supino + frente en bipedestación. Si el paciente no
+  puede pararse, sustituir por decúbito lateral izquierdo con RC horizontal.
+  Todo estudio que busque aire libre debe realizarse en bipedestación: el
+  aire tiende a ascender a la zona más alta.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal en todos los biotipos. Centrado por
+  encima del nivel de las crestas iliacas de forma que el borde superior
+  incluya ambas cúpulas diafragmáticas y el borde inferior alcance la
+  sínfisis del pubis. Si el paciente es muy alto, agregar una segunda
+  proyección centrada en pelvis.
+
+distancia: 100 cm
+
+tecnica: >
+  Intermedia para paciente de contextura normal. El bajo contraste
+  intrínseco abdominal (densidades muy homogéneas) requiere escala larga
+  de grises con kVp intermedio para diferenciar el contorno de las vísceras,
+  tejido adiposo, aire y hueso. En paciente obeso se prefiere técnica básica
+  por la mayor radiación dispersa generada por el gran espesor. En paciente
+  delgado puede homogeneizarse. Bucky mural con grilla. Tiempo de exposición
+  corto para compensar movimientos involuntarios. Espesor medido a nivel
+  de las crestas iliacas.
+
+posicion_paciente: >
+  De pie, peso distribuido equitativamente entre ambos pies con piernas
+  ligeramente separadas. Dorso apoyado contra el Bucky mural. Brazos a
+  los lados, separados del cuerpo. Plano medio sagital perpendicular y
+  centrado al receptor vertical. Ausencia de rotación de pelvis y hombros.
+
+posicion_region: >
+  Abdomen y pelvis sin rotación: EIAS equidistantes al receptor; misma
+  distancia a un lado y al otro. El colimador se abre en su totalidad a lo
+  ancho para incluir toda la región. Receptor centrado 3 dedos (aproximadamente
+  5 cm) por encima de las crestas iliacas, incluyendo las caderas, de modo
+  que el borde superior alcance las cúpulas diafragmáticas.
+
+rayo_central: >
+  Perpendicular al plano del receptor, sin angulación. El RC debe mantenerse
+  estrictamente perpendicular para no distorsionar los niveles hidroaéreos.
+  Punto de entrada: 5 cm por encima de las crestas iliacas, para abarcar
+  las cúpulas diafragmáticas. Respiración: al final de la espiración. El
+  diafragma desciende, maximizando la visualización del espacio
+  subdiafragmático y facilitando la detección de aire libre.
+
+anatomia_visible: >
+  Cúpulas diafragmáticas bilaterales y espacio subdiafragmático.
+  Contorno hepático inferior. Riñones. Músculo psoas bilateral. Marco
+  intestinal con eventuales niveles hidroaéreos. Columna lumbar. Pelvis
+  ósea hasta la sínfisis del pubis. Líneas grasas periviscerales como
+  referencia de técnica adecuada: borde ínfero-externo del hígado, línea
+  de los músculos psoas (desde L1 hasta la pelvis), contorno perirrenal.
+
+criterios_calidad: >
+  Posicionamiento correcto: cúpulas diafragmáticas incluidas en el borde
+  superior; sínfisis del pubis en el borde inferior; columna lumbar centrada
+  en el receptor.
+  Ausencia de rotación: alas iliacas y agujeros obturadores simétricos;
+  apófisis espinosas centradas en cuerpos vertebrales lumbares; caderas
+  equidistantes a los bordes laterales.
+  Penetración y contraste: escala larga de grises con diferenciación entre
+  gas, tejido blando, grasa y hueso; niveles hidroaéreos nítidos si están
+  presentes; líneas grasas periviscerales visibles confirmando técnica
+  adecuada.
+  Puntos críticos — No incluir las cúpulas diafragmáticas: se pierde la
+  posibilidad de detectar neumoperitoneo o patología subdiafragmática;
+  corregir elevando el RI o recentrando el RC 5 cm por encima de las crestas
+  iliacas. No incluir la sínfisis del pubis: la imagen carece de valor
+  diagnóstico completo; si el paciente es muy alto, agregar proyección
+  complementaria de pelvis. RC angulado: distorsiona los niveles hidroaéreos;
+  el RC debe ser siempre perpendicular en bipedestación.
+  Adaptaciones: si el paciente no puede mantenerse de pie, sustituir por
+  decúbito lateral izquierdo con RC horizontal para evaluar aire libre; el
+  decúbito lateral izquierdo es el sustituto más importante para detectar
+  neumoperitoneo. Si los riñones no son área de interés, realizar en PA
+  para proteger las gónadas.
+  Trucos: todo estudio que busque aire libre debe realizarse en bipedestación;
+  la bipedestación es condición indispensable para la detección de
+  neumoperitoneo y niveles hidroaéreos. La preparación del paciente
+  (dieta controlada, laxantes, enemas) es indispensable para estudios
+  programados pero no aplica en abdomen agudo, sospecha de perforación
+  o emergencias.

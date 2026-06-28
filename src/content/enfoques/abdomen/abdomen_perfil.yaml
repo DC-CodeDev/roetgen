@@ -1,0 +1,84 @@
+titulo: Abdomen Perfil
+region: abdomen
+subregion: abdomen
+orden: 4
+alias:
+  - Lateral de abdomen
+  - Abdomen lateral
+  - Perfil de abdomen
+
+dato_clinico: >
+  Localización tridimensional de cuerpo extraño. Aneurisma o calcificación
+  de aorta abdominal. Neoplasias abdominales. Ascitis y exploraciones con
+  medio de contraste. Proyección complementaria; forma par con la proyección
+  frente de abdomen. No se emplea para diagnóstico de oclusión intestinal:
+  en ese caso usar frente en decúbito dorsal más frente en bipedestación.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal en relación con el eje mayor de la
+  región. Centrado a la altura de las crestas ilíacas (o 5 cm por encima).
+  Debe incluir desde las cúpulas diafragmáticas hasta la pelvis, y los
+  bordes anterior y posterior del abdomen.
+
+distancia: 100 cm
+
+tecnica: >
+  Básica o contrastada según indicación. A mayor espesor, mayor kVp
+  requerido. Espesor medido en la región de mayor grosor abdominal.
+  Bucky mural con grilla en bipedestación; Bucky de mesa con grilla en
+  decúbito lateral. Tiempo de exposición corto para compensar movimientos
+  involuntarios.
+
+posicion_paciente: >
+  De pie (bipedestación) o en decúbito lateral derecho o izquierdo. Plano
+  medio sagital paralelo al receptor. Codos flexionados con ambos brazos
+  levantados por encima de la cabeza, alejándose de la región abdominal.
+
+posicion_region: >
+  Pelvis sin rotación. Rodillas flexionadas para reducir la lordosis lumbar;
+  colocar apoyo bajo rodillas y tobillos en decúbito lateral para mantener
+  el plano coronal perpendicular y evitar rotación involuntaria. Plano
+  coronal del paciente estrictamente perpendicular al receptor.
+
+rayo_central: >
+  Perpendicular al plano del receptor. Punto de entrada: 5 cm por encima
+  de las crestas ilíacas, al plano medio coronal, de modo que incluya el
+  diafragma. Si el RC se dirige a la altura exacta de las crestas sin
+  compensar, el diafragma puede quedar excluido. Respiración: al final de
+  la espiración. Permite mayor inclusión del diafragma y reduce la
+  superposición de estructuras intestinales.
+
+anatomia_visible: >
+  Asas intestinales y niveles hidroaéreos si presentes. Aorta abdominal y
+  sus calcificaciones. Columna lumbar en perfil. Cúpulas diafragmáticas.
+  Retroperitoneo y pelvis ósea. La columna debe verse recta y alineada con
+  el receptor. Los huesos ilíacos deben aparecer superpuestos (con
+  magnificación inevitable de uno respecto al otro por la divergencia del
+  haz). La sínfisis del pubis no se incluye en esta proyección.
+
+criterios_calidad: >
+  Posicionamiento correcto: abdomen de perfil visible desde cúpulas
+  diafragmáticas hasta pelvis; columna lumbar alineada con el receptor;
+  sínfisis del pubis excluida.
+  Ausencia de rotación: bordes posteriores de los arcos costales
+  superpuestos; bordes posteriores de las alas ilíacas superpuestos. Un
+  ilíaco siempre presentará mayor magnificación que el otro por efecto
+  geométrico (hallazgo normal inherente a la proyección).
+  Penetración y contraste: asas intestinales y niveles hidroaéreos
+  diferenciables; tejidos blandos abdominales visibles en la región anterior
+  y posterior.
+  Puntos críticos — Rotación del paciente: produce asimetría de los arcos
+  costales e ilíacos posteriores, impidiendo la localización tridimensional;
+  corregir alineando el plano coronal estrictamente perpendicular al receptor.
+  Centrado incorrecto del RC: si el RC se dirige a la altura exacta de las
+  crestas sin compensar, el diafragma puede quedar excluido; subir 5 cm por
+  encima de las crestas para asegurar su inclusión.
+  Adaptaciones: en paciente politraumatizado que no puede moverse se
+  utiliza el perfil tangencial. Esta proyección no se emplea para diagnóstico
+  de oclusión intestinal.
+  Trucos: usar el cátodo en la parte superior del abdomen (región más gruesa)
+  para obtener exposición uniforme aprovechando el efecto anódico. Colocar
+  apoyo bajo rodillas y tobillos en decúbito lateral para mantener el plano
+  coronal perpendicular y evitar rotación involuntaria. La superposición
+  no perfecta de los huesos ilíacos es esperada por efecto geométrico y no
+  debe interpretarse como rotación del paciente.

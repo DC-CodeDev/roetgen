@@ -1,0 +1,99 @@
+titulo: Parrilla Costal Frente Supra Diafragmática
+region: torax
+subregion: torax
+orden: 6
+alias:
+  - Costillas supra diafragmáticas frente
+  - Arcos costales superiores PA
+  - Parrilla costal superior AP
+
+dato_clinico: >
+  Traumatismo de parrilla costal con sospecha de fractura de arcos costales
+  superiores (1.a a 10.a costilla). Dolor costal agudo o crónico de localización
+  superior al diafragma. Evaluación post-protocolo de tórax PA para descartar
+  neumotórax o hemotórax. Proyección básica; forma par con la proyección
+  oblicua costal correspondiente. Protocolo obligatorio de dos pasos: primero
+  radiografía de tórax PA estándar a 180 cm para descartar neumotórax o
+  hemotórax, luego el estudio específico de costillas. Antes de iniciar el
+  estudio verificar: (1) naturaleza y mecanismo del traumatismo; (2)
+  localización exacta del dolor; (3) presencia de dificultad respiratoria;
+  (4) capacidad del paciente para la bipedestación.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal. Centrado en T7 para estudios
+  bilaterales, o en la línea medioclavicular ipsilateral para estudios
+  unilaterales. El borde superior del receptor debe superar los ápices
+  pulmonares y el borde inferior incluir hasta por debajo del diafragma.
+
+distancia: 100 cm
+
+tecnica: >
+  Homogeneizada o intermedia según biotipo del paciente. Las costillas supra
+  diafragmáticas están rodeadas de parénquima pulmonar aireado, por lo que
+  no se requiere técnica básica de alta diferenciación de partes blandas.
+  kVp 65 a 70: un kVp relativamente bajo mantiene el contraste radiológico
+  y permite visualizar las costillas a través del pulmón lleno de aire. Si la
+  lesión se proyecta sobre la silueta cardiaca, incrementar el kVp para obtener
+  mayor penetración en esa región. Bucky mural con grilla.
+
+posicion_paciente: >
+  Bipedestación. La posición de pie favorece el descenso gravitacional del
+  diafragma a su posición más baja, ampliando el campo pulmonar y
+  facilitando una inspiración profunda. La orientación depende de la región
+  a evaluar: arcos posteriores en posición AP (dorso apoyado contra el
+  receptor); arcos anteriores en posición PA (tórax apoyado contra el
+  receptor, ya que los arcos anteriores quedan más próximos al receptor
+  mejorando el detalle). En pacientes con dolor intenso que impide la
+  bipedestación, realizar en decúbito supino (AP acostado), teniendo en
+  cuenta que el diafragma asciende y puede superponerse sobre los arcos
+  inferiores.
+
+posicion_region: >
+  Plano medio sagital perpendicular al receptor e isocentrado. Se apoya
+  siempre la región que se desea radiografiar para reducir la distancia
+  objeto-receptor y minimizar la ampliación geométrica.
+
+rayo_central: >
+  Perpendicular al plano del receptor.
+  Bilateral: centrado en T7 (equivalente a la mitad del esternón).
+  Unilateral: centrado en la línea medioclavicular del hemitórax de interés,
+  a la misma altura de T7. Respiración: inspiración profunda y apnea. El
+  descenso del diafragma expande los campos pulmonares y proyecta el
+  diafragma por debajo de la 9.a a 10.a costilla posterior, evitando la
+  superposición sobre los arcos costales superiores. En pacientes con dolor
+  intenso la inspiración puede ser limitada; se acepta la imagen con 8 a 9
+  costillas visibles documentando la limitación.
+
+anatomia_visible: >
+  Arcos costales posteriores del 1.o al 10.o por encima del diafragma,
+  proyectados a través del parénquima pulmonar. En proyección PA se obtiene
+  mejor detalle de los arcos anteriores por su proximidad al receptor. Los
+  arcos costales anteriores presentan imagen cortada en su porción
+  cartilaginosa, ya que el cartílago no calcificado es radiotransparente.
+  La mayor concentración de fracturas se localiza en el borde axilar de los
+  arcos, zona que puede requerir proyecciones oblicuas adicionales para su
+  correcta evaluación.
+
+criterios_calidad: >
+  Posicionamiento correcto: visualización de los arcos costales posteriores
+  del 1.o al 10.o por encima del diafragma; en estudios unilaterales las
+  costillas contralaterales pueden estar incompletas sin pérdida diagnóstica.
+  Ausencia de rotación: simetría bilateral de las estructuras torácicas;
+  distancias claviculares equidistantes respecto a la columna vertebral.
+  Penetración y contraste: visualización nítida de los arcos costales a través
+  del parénquima pulmonar con contraste adecuado entre hueso y tejido
+  pulmonar aireado.
+  Puntos críticos — Técnica incorrecta (kVp excesivo): sobreexposición con
+  pérdida de contraste óseo; los arcos costales se pierden en el fondo del
+  parénquima; utilizar kVp 65 a 70 como valor de referencia. Fase respiratoria
+  incorrecta (espiración): el diafragma asciende y se superpone sobre los
+  arcos costales inferiores, reduciendo el número de costillas visibles;
+  instruir correctamente al paciente para inspiración profunda y apnea.
+  Adaptaciones: en pacientes con dolor intenso que impide la bipedestación,
+  realizar en decúbito supino AP; si el dolor impide inspiración profunda,
+  documentar la limitación y aceptar imagen con 8 a 9 costillas visibles.
+  Trucos: la localización del dolor determina si se realiza estudio supra o infra
+  diafragmático. El cambio de posición (bipedestación para supra, decúbito
+  para infra) responde a la lógica del diafragma: se necesita que esté bajo
+  para la región supra. La fase respiratoria es opuesta a la de la proyección
+  infra diafragmática por la misma razón.

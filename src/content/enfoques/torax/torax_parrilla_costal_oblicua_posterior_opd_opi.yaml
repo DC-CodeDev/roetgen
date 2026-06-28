@@ -1,0 +1,115 @@
+titulo: Parrilla Costal Oblicua Posterior AP — Porción Axilar OPD y OPI
+region: torax
+subregion: torax
+orden: 9
+alias:
+  - Oblicua posterior costal OPD
+  - Oblicua posterior costal OPI
+  - Oblicua costal AP porción axilar
+  - OPD parrilla costal
+  - OPI parrilla costal
+
+dato_clinico: >
+  Traumatismo costal con dolor axilar y/o posterior (ejemplo: caída de
+  costado hacia atrás). Sospecha de fractura costal en arcos posteriores
+  o borde axilar. Lesiones costales no visualizadas en la proyección PA
+  estándar. Proyección complementaria; forma par con las oblicuas anteriores
+  (OAD / OAI) para completar el estudio de la parrilla costal. Siempre
+  complementar con radiografía de tórax PA estándar previa para descartar
+  neumotórax, hemotórax o hemoneumotórax.
+
+receptor: >
+  35 x 43 cm. Orientación longitudinal (eje mayor vertical) en relación
+  al eje mayor de la región. Borde superior colocado 2 cm por encima de
+  la vértebra prominente (C7), para incluir la totalidad de los arcos
+  costales de interés.
+
+distancia: 100 cm
+
+tecnica: >
+  Básica o intermedia según biotipo del paciente. kVp y mAs según técnica
+  básica o intermedia adaptada al espesor del hemitórax de interés.
+  Bucky con grilla.
+
+posicion_paciente: >
+  Bipedestación o decúbito supino. El lado afectado se apoya contra el
+  receptor de imagen. El plano medio sagital forma un ángulo de 45° con
+  respecto al plano del receptor. Principio diferencial respecto a las
+  oblicuas anteriores: en las oblicuas posteriores siempre se acerca el
+  lado afectado al receptor (principio inverso a las oblicuas anteriores,
+  donde se aleja el lado afectado).
+
+posicion_region: >
+  Rotación del cuerpo de 45° sobre su eje longitudinal, de modo que el
+  hombro posterior del lado afectado quede en contacto con el receptor.
+  La nomenclatura se da por el lado que apoya contra el receptor.
+
+  OPD (Oblicua Posterior Derecha — lado afectado derecho):
+  Se acerca el lado derecho al receptor; el hombro posterior derecho apoya
+  contra el RI. Se utiliza para visualizar los arcos costales posteriores
+  derechos. El brazo derecho (lado afectado, más cercano al receptor) se
+  levanta con la mano apoyada sobre la cabeza para retirar la escápula del
+  campo de interés. El brazo contralateral izquierdo se abduce con la mano
+  apoyada en la cadera.
+
+  OPI (Oblicua Posterior Izquierda — lado afectado izquierdo):
+  Se acerca el lado izquierdo al receptor; el hombro posterior izquierdo
+  apoya contra el RI. Se utiliza para visualizar los arcos costales
+  posteriores izquierdos y el borde axilar izquierdo. El brazo izquierdo
+  (lado afectado, más cercano al receptor) se levanta con la mano apoyada
+  sobre la cabeza. El brazo contralateral derecho se abduce con la mano
+  apoyada en la cadera.
+
+rayo_central: >
+  Perpendicular al plano del receptor. Punto de entrada: T7 (a nivel de
+  la séptima vértebra torácica), centrado en la mitad de la región de
+  interés. Respiración según región de interés: costillas supra
+  diafragmáticas: suspensión al final de una inspiración profunda, para
+  descender el diafragma y liberar los arcos costales superiores; costillas
+  infra diafragmáticas: suspensión al final de una espiración profunda,
+  para elevar el diafragma y permitir visualizar las costillas bajas sin
+  superposición.
+
+anatomia_visible: >
+  Porción axilar de los arcos costales del lado afectado libre de
+  superposición y elongada. Arcos costales posteriores del hemitórax
+  correspondiente: OPD para arcos derechos, OPI para arcos izquierdos.
+  Las costillas son visibles a través del parénquima pulmonar (región
+  supra diafragmática) o a través del abdomen (región infra diafragmática)
+  según la zona de estudio. Columna vertebral separada de la región de
+  interés por la rotación de 45°. La escápula del lado afectado queda
+  desplazada lateralmente fuera del campo costal.
+
+criterios_calidad: >
+  Posicionamiento correcto: porción axilar de las costillas del lado afectado
+  libre de superposición y alargada; distancia entre la columna vertebral
+  y el borde lateral de las costillas del lado afectado aproximadamente el
+  doble que la del lado contralateral; escápula del lado afectado desplazada
+  fuera del campo costal.
+  Ausencia de rotación excesiva: si las costillas aparecen acortadas con
+  curvatura cerrada sobre sí mismas el paciente está demasiado de perfil
+  (más de 45°) y debe reducirse la rotación; si la columna superpone
+  excesivamente el parénquima del lado afectado la rotación también es
+  excesiva.
+  Penetración y contraste: costillas visibles tanto en la zona pulmonar
+  como en la zona abdominal según la región estudiada; técnica básica o
+  intermedia garantizando visualización ósea con contraste adecuado.
+  Puntos críticos — Rotación excesiva (más de 45°): costillas acortadas
+  con curvatura cerrada; corrección: reducir el ángulo de rotación hasta
+  45° o menos. Escápula superpuesta al borde costal externo: el brazo del
+  lado afectado no fue elevado correctamente; corrección: indicar al
+  paciente que eleve el brazo con la mano sobre la cabeza para desplazar
+  lateralmente la escápula. Columna superpuesta al parénquima del lado
+  afectado: rotación excesiva; corrección: recolocar el paciente con
+  rotación de 45° o menos.
+  Adaptaciones: en pacientes con trauma severo o imposibilidad de
+  bipedestación, realizar en decúbito supino con el lado afectado elevado
+  sobre el receptor, manteniendo la rotación de 45° con apoyo de cuñas o
+  almohadillas radiolúcidas.
+  Trucos: la nomenclatura se da por el lado que apoya contra el receptor;
+  OPD = lado derecho pegado al receptor. Para las oblicuas posteriores
+  siempre se acerca el lado afectado (principio inverso a las anteriores,
+  donde se aleja). La OAD es equivalente a la OPI y viceversa. Verificar
+  la marca del lado en la imagen: debe coincidir con el lado de las apófisis
+  espinosas visibles. Siempre comenzar con PA de tórax a 180 cm para
+  descartar complicaciones pleurales antes de realizar las oblicuas.
