@@ -1,0 +1,90 @@
+titulo: Vejiga Oblicua Posterior OPI y OPD
+region: abdomen
+subregion: abdomen
+orden: 8
+alias:
+  - Vejiga OPI
+  - Vejiga OPD
+  - Oblicua posterior vejiga
+  - Pasaje ureterovesical oblicua
+
+dato_clinico: >
+  Valoración de la unión ureterovesical (pasaje ureterovesical). Estudio
+  de uréteres distales sin superposición con estructuras pélvicas. Solicitud
+  en el contexto de urografía excretora. Proyección complementaria; se
+  realizan ambas oblicuas (OPD y OPI) como estudio comparativo bilateral.
+
+receptor: >
+  24 x 30 cm. Orientación longitudinal (vertical). Centrado 5 cm por encima
+  del borde superior de la sínfisis púbica y aproximadamente 5 cm medial
+  a la EIAS ipsilateral (referencia Merrill: a la altura de las crestas
+  ilíacas). Debe incluir los extremos distales de los uréteres, la vejiga
+  completa y la parte proximal de la uretra.
+
+distancia: 100 cm
+
+tecnica: >
+  Intermedia. La rotación del paciente aumenta el espesor efectivo atravesado
+  por el haz; se requiere mayor kVp para diferenciar la morfología interna
+  de la vejiga sin que el medio de contraste sature la imagen. Bucky de mesa
+  con grilla.
+
+posicion_paciente: >
+  Decúbito supino sobre la mesa de examen.
+
+posicion_region: >
+  Se gira al paciente 40 a 60° hacia el lado de interés. Para visualización
+  óptima del pasaje ureterovesical, la rotación se reduce a 35°, ángulo que
+  corresponde a la llegada del uréter a la vejiga respecto al plano coronal.
+  La parte superior del muslo ipsilateral se extiende y abduce para evitar
+  superposición sobre la zona vesical. Se realizan ambas oblicuas para
+  comparación bilateral.
+
+  OPD (Oblicua Posterior Derecha): lado derecho apoyado contra el receptor.
+  Se utiliza para visualizar la unión ureterovesical derecha libre de
+  superposición.
+
+  OPI (Oblicua Posterior Izquierda): lado izquierdo apoyado contra el
+  receptor. Se utiliza para visualizar la unión ureterovesical izquierda
+  libre de superposición.
+
+rayo_central: >
+  Perpendicular al plano del receptor. Punto de entrada: 5 cm por encima
+  del borde superior de la sínfisis del pubis y 5 cm medial a la EIAS
+  ipsilateral. En estudios miccionales: perpendicular a la altura de la
+  sínfisis púbica. Respiración: suspendida al final de la espiración.
+  Estabiliza los órganos pélvicos durante la exposición.
+
+anatomia_visible: >
+  Extremo distal de los uréteres, vejiga urinaria y parte proximal de la
+  uretra. La unión ureterovesical del lado apoyado se proyecta libre de
+  superposición. Los huesos del pubis deben proyectarse por debajo del
+  cuello vesical y la uretra proximal. La parte superior del muslo no debe
+  superponerse sobre la zona vesical.
+
+criterios_calidad: >
+  Posicionamiento correcto: huesos del pubis proyectados por debajo del
+  cuello vesical y la uretra proximal; extremos distales de los uréteres,
+  vejiga y uretra proximal incluidos en el campo.
+  Ausencia de rotación: el agujero obturador del lado apoyado aparece cerrado
+  o estrecho; el del lado elevado aparece abierto; el ala ilíaca del lado
+  apoyado se ve desplegada.
+  Penetración y contraste: escala de contraste semi-corta que muestre con
+  claridad el medio de contraste en la vejiga, los uréteres distales y la
+  uretra proximal, sin saturación de la imagen.
+  Puntos críticos — Rotación incorrecta: menos de 35° superpone el uréter
+  distal con la vejiga e impide ver el pasaje ureterovesical; más de 60°
+  pierde la referencia anatómica del lado de interés; usar 35°
+  específicamente para el pasaje ureterovesical y 40 a 60° para evaluación
+  general. Superposición del muslo: si no se extiende y abduce la parte
+  superior del muslo ipsilateral se cubre la región vesical inferior y la
+  uretra proximal; corregir la posición antes de la exposición.
+  Adaptaciones: en pacientes con limitación de movilidad usar cuñas
+  radiolúcidas bajo el lado a elevar; en trauma pélvico no forzar la
+  rotación y documentar el grado alcanzado.
+  Trucos: para identificar el lado oblicuado en la radiografía, el agujero
+  obturador cerrado indica el lado hacia el que está oblicuado el paciente
+  y el agujero obturador abierto indica el lado elevado. La rotación de 35°
+  es el ángulo crítico para el pasaje ureterovesical: corresponde
+  exactamente a la orientación anatómica de la llegada del uréter a la vejiga
+  respecto al plano coronal.
