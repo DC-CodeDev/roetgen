@@ -93,7 +93,7 @@ criterios_calidad: >
   se compensa reduciendo el kVp para disminuir la radiación secundaria por
   efecto Compton.
   
-  Tips: >  la calidad de imagen de una radiografía portátil nunca debe aceptarse
+tip: >  la calidad de imagen de una radiografía portátil nunca debe aceptarse
   como inferior por el solo hecho de serlo; el objetivo sigue siendo alcanzar
   los mismos criterios diagnósticos de la proyección estándar dentro de las
   limitaciones del contexto. Visualizar al paciente desde arriba (cerca del tubo)
