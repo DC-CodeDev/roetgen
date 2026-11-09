@@ -45,10 +45,11 @@ interface TecnicaResult {
 // ── Bucky reference table ─────────────────────────────────────────────────────
 
 const BUCKY_TABLA = [
-  { ratio: '5:1',  f70: 2, f90: 3, f120: 3.5 },
-  { ratio: '8:1',  f70: 4, f90: 5, f120: 6   },
-  { ratio: '12:1', f70: 5, f90: 6, f120: 7   },
-  { ratio: '16:1', f70: 6, f90: 8, f120: 10  },
+  { ratio: 'Sin rejilla', f70: 1,   f90: 1,   f120: 1, medio: 1 },
+  { ratio: '5:1',         f70: 2,   f90: 2.5, f120: 3, medio: 2 },
+  { ratio: '8:1',         f70: 3,   f90: 3.5, f120: 4, medio: 4 },
+  { ratio: '12:1',        f70: 3.5, f90: 4,   f120: 5, medio: 5 },
+  { ratio: '16:1',        f70: 4,   f90: 5,   f120: 6, medio: 6 },
 ];
 
 // ── Tab: Técnica ─────────────────────────────────────────────────────────────
@@ -178,6 +179,7 @@ function TabBucky({ mas, setMas }: { mas: number; setMas: (v: number) => void })
             <th>70 kVp</th>
             <th>90 kVp</th>
             <th>120 kVp</th>
+            <th>Medio</th>
           </tr>
         </thead>
         <tbody>
@@ -187,6 +189,7 @@ function TabBucky({ mas, setMas }: { mas: number; setMas: (v: number) => void })
               <td>{row.f70}</td>
               <td>{row.f90}</td>
               <td>{row.f120}</td>
+              <td>{row.medio}</td>
             </tr>
           ))}
         </tbody>
